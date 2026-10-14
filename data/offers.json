@@ -20,7 +20,7 @@
    "checked": "2026-10-14",
    "promo_until": "2026-10-25",
    "is_promo": true,
-   "source_ok": "2026-10-14T17:37:17.894764+02:00",
+   "source_ok": "2026-10-14T17:45:24.507821+02:00",
    "official": true
   },
   {
@@ -43,7 +43,7 @@
    "checked": "2026-10-14",
    "promo_until": "2026-10-25",
    "is_promo": true,
-   "source_ok": "2026-10-14T17:37:17.894764+02:00",
+   "source_ok": "2026-10-14T17:45:24.507821+02:00",
    "official": true
   },
   {
@@ -66,7 +66,7 @@
    "checked": "2026-10-14",
    "promo_until": "2026-10-25",
    "is_promo": true,
-   "source_ok": "2026-10-14T17:37:17.894764+02:00",
+   "source_ok": "2026-10-14T17:45:24.507821+02:00",
    "official": true
   },
   {
@@ -89,7 +89,7 @@
    "checked": "2026-10-14",
    "promo_until": "2026-10-25",
    "is_promo": true,
-   "source_ok": "2026-10-14T17:37:17.894764+02:00",
+   "source_ok": "2026-10-14T17:45:24.507821+02:00",
    "official": true
   },
   {
@@ -143,20 +143,20 @@
    "country": "ES",
    "name": "DAZN Fútbol",
    "price": "29,99 €/mese (mensile) · 19,99 €/mese (annuale rate) · 219,99 € (annuale unico)",
-   "promo_price": "14,99 €/mese (annuale rate, 179,88 €/anno) · 164,99 € annuale unico",
-   "promo_duration": "12 mesi",
-   "price_after": "19,99 €/mese",
+   "promo_price": null,
+   "promo_duration": null,
+   "price_after": null,
    "activation": "0 €",
    "vincolo": "Mensile: preavviso 30 gg; annuale: 12 mesi",
    "calls": "—",
    "modem": "—",
    "speed": "—",
-   "notes": "Promo Fútbol 14,99 €/mese e Premium 25,99 €/mese visibili su dazn.com/es-ES/welcome; listino su help DAZN. Mensile senza vincolo 29,99 €",
-   "source": "https://www.dazn.com/es-ES/welcome",
+   "notes": "Prezzi ufficiali dal centro assistenza DAZN Spagna. Nessuna promo confermata sul sito ufficiale.",
+   "source": "https://www.dazn.com/es-ES/help/articles/16184063399709-planes-precios-y-contenidos-de-dazn",
    "checked": "2026-10-14",
    "promo_until": null,
-   "is_promo": true,
-   "source_ok": "2026-10-14T17:36:05.008522+02:00",
+   "is_promo": false,
+   "source_ok": "2026-10-14T17:45:24.507821+02:00",
    "official": true
   },
   {
@@ -174,12 +174,12 @@
    "calls": "—",
    "modem": "—",
    "speed": "—",
-   "notes": "Nessuna promo trovata (set–ott 2026)",
+   "notes": "Prezzi ufficiali dal centro assistenza DAZN Spagna. Nessuna promo confermata sul sito ufficiale.",
    "source": "https://www.dazn.com/es-ES/help/articles/16184063399709-planes-precios-y-contenidos-de-dazn",
    "checked": "2026-10-14",
    "promo_until": null,
    "is_promo": false,
-   "source_ok": "2026-10-14T17:37:17.894764+02:00",
+   "source_ok": "2026-10-14T17:45:24.507821+02:00",
    "official": true
   },
   {
@@ -189,20 +189,20 @@
    "country": "ES",
    "name": "DAZN Premium",
    "price": "44,99 €/mese (mensile) · 31,99 €/mese (annuale rate) · 351,99 € (annuale unico)",
-   "promo_price": "25,99 €/mese (annuale rate, 311,88 €/anno) · 285,99 € annuale unico",
-   "promo_duration": "12 mesi",
-   "price_after": "31,99 €/mese",
+   "promo_price": null,
+   "promo_duration": null,
+   "price_after": null,
    "activation": "0 €",
    "vincolo": "Mensile: preavviso 30 gg; annuale: 12 mesi",
    "calls": "—",
    "modem": "—",
    "speed": "—",
-   "notes": "Promo su dazn.com/es-ES/welcome; mensile senza vincolo resta 44,99 €",
-   "source": "https://www.dazn.com/es-ES/welcome",
+   "notes": "Prezzi ufficiali dal centro assistenza DAZN Spagna. Nessuna promo confermata sul sito ufficiale.",
+   "source": "https://www.dazn.com/es-ES/help/articles/16184063399709-planes-precios-y-contenidos-de-dazn",
    "checked": "2026-10-14",
    "promo_until": null,
-   "is_promo": true,
-   "source_ok": "2026-10-14T17:36:05.008522+02:00",
+   "is_promo": false,
+   "source_ok": "2026-10-14T17:45:24.507821+02:00",
    "official": true
   },
   {
@@ -220,12 +220,12 @@
    "calls": "—",
    "modem": "—",
    "speed": "—",
-   "notes": "Nessuna promo trovata (set–ott 2026)",
+   "notes": "Prezzi ufficiali dal centro assistenza DAZN Spagna. Nessuna promo confermata sul sito ufficiale.",
    "source": "https://www.dazn.com/es-ES/help/articles/16184063399709-planes-precios-y-contenidos-de-dazn",
    "checked": "2026-10-14",
    "promo_until": null,
    "is_promo": false,
-   "source_ok": "2026-10-14T17:37:17.894764+02:00",
+   "source_ok": "2026-10-14T17:45:24.507821+02:00",
    "official": true
   },
   {
@@ -243,12 +243,12 @@
    "calls": "—",
    "modem": "—",
    "speed": "—",
-   "notes": "Nessuna promo trovata (set–ott 2026)",
+   "notes": "Prezzi ufficiali dal centro assistenza DAZN Spagna. Nessuna promo confermata sul sito ufficiale.",
    "source": "https://www.dazn.com/es-ES/help/articles/16184063399709-planes-precios-y-contenidos-de-dazn",
    "checked": "2026-10-14",
    "promo_until": null,
    "is_promo": false,
-   "source_ok": "2026-10-14T17:37:17.894764+02:00",
+   "source_ok": "2026-10-14T17:45:24.507821+02:00",
    "official": true
   },
   {
@@ -271,7 +271,7 @@
    "checked": "2026-10-14",
    "promo_until": null,
    "is_promo": false,
-   "source_ok": "2026-10-14T17:37:17.894764+02:00",
+   "source_ok": "2026-10-14T17:45:24.507821+02:00",
    "official": true
   },
   {
@@ -294,7 +294,7 @@
    "checked": "2026-10-14",
    "promo_until": null,
    "is_promo": false,
-   "source_ok": "2026-10-14T17:37:17.894764+02:00",
+   "source_ok": "2026-10-14T17:45:24.507821+02:00",
    "official": true
   },
   {
@@ -312,12 +312,12 @@
    "calls": "—",
    "modem": "—",
    "speed": "—",
-   "notes": "Offerta Champions League pubblicata 13/10/2026",
+   "notes": "Promo 24,99 €/mese per 24 mesi pubblicata su dazn.com (news ufficiale DAZN DE, 13/10/2026)",
    "source": "https://www.dazn.com/de-DE/news/fussball/dazn-angebot-zur-champions-league-jetzt-unlimited-fuer-2499-euro-sichern/175va0epjd8z31wm00qk8bx2p4",
    "checked": "2026-10-14",
    "promo_until": null,
    "is_promo": true,
-   "source_ok": "2026-10-14T17:36:05.008522+02:00",
+   "source_ok": "2026-10-14T17:45:24.507821+02:00",
    "official": true
   },
   {
@@ -340,7 +340,7 @@
    "checked": "2026-10-14",
    "promo_until": null,
    "is_promo": false,
-   "source_ok": "2026-10-14T17:37:17.894764+02:00",
+   "source_ok": "2026-10-14T17:45:24.507821+02:00",
    "official": true
   },
   {
@@ -358,12 +358,12 @@
    "calls": "—",
    "modem": "—",
    "speed": "—",
-   "notes": "Alcune fonti indicano 34,99 € per il flessibile. Pass extra: NFL da 9,99 €, Rally TV 10,99 €",
+   "notes": "Prezzi dalla pagina ufficiale DAZN BE. Pass extra: NFL da 9,99 €, Rally TV 10,99 €",
    "source": "https://www.dazn.com/en-BE/help/articles/16184063399709-dazn-plans-and-pricing",
    "checked": "2026-10-14",
    "promo_until": null,
    "is_promo": false,
-   "source_ok": "2026-10-14T17:37:17.894764+02:00",
+   "source_ok": "2026-10-14T17:45:24.507821+02:00",
    "official": true
   },
   {
@@ -386,7 +386,7 @@
    "checked": "2026-10-14",
    "promo_until": null,
    "is_promo": false,
-   "source_ok": "2026-10-14T17:37:17.894764+02:00",
+   "source_ok": "2026-10-14T17:45:24.507821+02:00",
    "official": true
   },
   {
@@ -404,12 +404,12 @@
    "calls": "—",
    "modem": "—",
    "speed": "—",
-   "notes": "Fonti terze (04/10/2026) indicano 24,99 / 19,99 / 199,99 € dopo l'aumento di agosto 2026: verificare",
+   "notes": "Prezzi dalla pagina ufficiale DAZN PT",
    "source": "https://www.dazn.com/pt-PT/help/articles/16184063399709-planos-e-precos-dazn",
    "checked": "2026-10-14",
    "promo_until": null,
    "is_promo": false,
-   "source_ok": "2026-10-14T17:37:17.894764+02:00",
+   "source_ok": "2026-10-14T17:45:24.507821+02:00",
    "official": true
   },
   {
@@ -432,7 +432,7 @@
    "checked": "2026-10-14",
    "promo_until": null,
    "is_promo": false,
-   "source_ok": "2026-10-14T17:37:17.894764+02:00",
+   "source_ok": "2026-10-14T17:45:24.507821+02:00",
    "official": true
   },
   {
@@ -570,7 +570,7 @@
    "checked": "2026-10-14",
    "promo_until": null,
    "is_promo": true,
-   "source_ok": "2026-10-14T17:36:05.008522+02:00",
+   "source_ok": "2026-10-14T17:45:24.507821+02:00",
    "official": true
   },
   {
@@ -588,12 +588,12 @@
    "calls": "—",
    "modem": "—",
    "speed": "—",
-   "notes": "Prezzi PlayStation Store Italia (verificati anche tramite listino ufficiale post-20/05/2026)",
+   "notes": "Listino PlayStation Store Italia",
    "source": "https://store.playstation.com/it-it/pages/subscriptions",
    "checked": "2026-10-14",
    "promo_until": null,
    "is_promo": false,
-   "source_ok": "2026-10-14T17:37:17.894764+02:00",
+   "source_ok": "2026-10-14T17:45:24.507821+02:00",
    "official": true
   },
   {
@@ -611,12 +611,12 @@
    "calls": "—",
    "modem": "—",
    "speed": "—",
-   "notes": "Prezzi PlayStation Store Italia (verificati anche tramite listino ufficiale post-20/05/2026)",
+   "notes": "Listino PlayStation Store Italia",
    "source": "https://store.playstation.com/it-it/pages/subscriptions",
    "checked": "2026-10-14",
    "promo_until": null,
    "is_promo": false,
-   "source_ok": "2026-10-14T17:37:17.894764+02:00",
+   "source_ok": "2026-10-14T17:45:24.507821+02:00",
    "official": true
   },
   {
@@ -634,12 +634,12 @@
    "calls": "—",
    "modem": "—",
    "speed": "—",
-   "notes": "Prezzi PlayStation Store Italia (verificati anche tramite listino ufficiale post-20/05/2026)",
+   "notes": "Listino PlayStation Store Italia",
    "source": "https://store.playstation.com/it-it/pages/subscriptions",
    "checked": "2026-10-14",
    "promo_until": null,
    "is_promo": false,
-   "source_ok": "2026-10-14T17:37:17.894764+02:00",
+   "source_ok": "2026-10-14T17:45:24.507821+02:00",
    "official": true
   },
   {
@@ -662,7 +662,7 @@
    "checked": "2026-10-14",
    "promo_until": "2026-10-24",
    "is_promo": true,
-   "source_ok": "2026-10-14T17:37:17.894764+02:00",
+   "source_ok": "2026-10-14T17:45:24.507821+02:00",
    "official": true
   },
   {
@@ -685,7 +685,7 @@
    "checked": "2026-10-14",
    "promo_until": "2026-10-24",
    "is_promo": true,
-   "source_ok": "2026-10-14T17:37:17.894764+02:00",
+   "source_ok": "2026-10-14T17:45:24.507821+02:00",
    "official": true
   },
   {
@@ -708,7 +708,7 @@
    "checked": "2026-10-14",
    "promo_until": "2026-10-24",
    "is_promo": true,
-   "source_ok": "2026-10-14T17:37:17.894764+02:00",
+   "source_ok": "2026-10-14T17:45:24.507821+02:00",
    "official": true
   },
   {
@@ -777,7 +777,7 @@
    "checked": "2026-10-14",
    "promo_until": "2026-10-24",
    "is_promo": true,
-   "source_ok": "2026-10-14T17:37:17.894764+02:00",
+   "source_ok": "2026-10-14T17:45:24.507821+02:00",
    "official": true
   },
   {
@@ -795,7 +795,7 @@
    "calls": "—",
    "modem": "—",
    "speed": "—",
-   "notes": "tim.it mostra anche 'TIMVISION S con Netflix + DAZN' a 44 € anziché 52,99 €: possibile denominazione diversa, da verificare",
+   "notes": "Fonte tim.it",
    "source": "https://www.tim.it/offerte-tv",
    "checked": "2026-10-14",
    "promo_until": "2026-10-24",
@@ -823,7 +823,7 @@
    "checked": "2026-10-14",
    "promo_until": "2026-10-24",
    "is_promo": true,
-   "source_ok": "2026-10-14T17:37:17.894764+02:00",
+   "source_ok": "2026-10-14T17:45:24.507821+02:00",
    "official": true
   },
   {
@@ -864,12 +864,12 @@
    "calls": "Sì, illimitate fissi e mobili nazionali (0 € per 24+24 mesi, poi 5 €/mese)",
    "modem": "TIM HUB+ Executive, 120 € in 48 rate (0 € primi 24 mesi, poi 5 €/mese)",
    "speed": "2,5 Gbps / 1 Gbps (FTTH); FTTC fino a 200 Mbps; FWA",
-   "notes": "Selectra indica canone 29,90 €; ComparaSemplice 24,90 € per già clienti mobile. Include TIMVISION S a 8 € in bundle",
+   "notes": "Prezzi e condizioni da tim.it e dalla scheda di trasparenza TIM",
    "source": "https://www.tim.it/fisso-e-mobile/fibra-e-adsl/fibra-wifi-casa",
    "checked": "2026-10-14",
    "promo_until": "2026-10-24",
    "is_promo": true,
-   "source_ok": "2026-10-14T17:37:17.894764+02:00",
+   "source_ok": "2026-10-14T17:45:24.507821+02:00",
    "official": true
   },
   {
@@ -916,7 +916,7 @@
    "promo_until": null,
    "is_promo": true,
    "official": true,
-   "source_ok": "2026-10-14T17:37:17.894764+02:00"
+   "source_ok": "2026-10-14T17:45:24.507821+02:00"
   },
   {
    "id": "vodafone-casa-start",
@@ -938,7 +938,7 @@
    "checked": "2026-10-14",
    "promo_until": "2026-10-31",
    "is_promo": true,
-   "source_ok": "2026-10-14T17:37:17.894764+02:00",
+   "source_ok": "2026-10-14T17:45:24.507821+02:00",
    "official": true
   },
   {
@@ -955,13 +955,13 @@
    "vincolo": "nessuno dichiarato in pagina",
    "calls": "No (a consumo 0,15 €/min senza scatto)",
    "modem": "NeXXt One Wi-Fi 6 incluso",
-   "speed": "fibra ultraveloce (FTTH/FTTC a copertura)",
+   "speed": "n/d",
    "notes": "Fonte ufficiale fastweb.it",
    "source": "https://www.fastweb.it/adsl-fibra-ottica/fastweb-casa-start/",
    "checked": "2026-10-14",
    "promo_until": null,
    "is_promo": true,
-   "source_ok": "2026-10-14T17:37:17.894764+02:00",
+   "source_ok": "2026-10-14T17:45:24.507821+02:00",
    "official": true
   },
   {
@@ -976,15 +976,15 @@
    "price_after": "29,95 €/mese",
    "activation": "n/d",
    "vincolo": "n/d",
-   "calls": "Sì, nazionali illimitate (secondo pagina Fastweb Casa Pro)",
+   "calls": "n/d",
    "modem": "incluso",
-   "speed": "fino a 2,5 Gbps",
+   "speed": "n/d",
    "notes": "Fonte ufficiale fastweb.it/casa-pro",
    "source": "https://www.fastweb.it/adsl-fibra-ottica/fastweb-casa-pro/",
    "checked": "2026-10-14",
    "promo_until": null,
    "is_promo": true,
-   "source_ok": "2026-10-14T17:37:17.894764+02:00",
+   "source_ok": "2026-10-14T17:45:24.507821+02:00",
    "official": true
   },
   {
@@ -999,15 +999,15 @@
    "price_after": null,
    "activation": "n/d",
    "vincolo": "n/d",
-   "calls": "Sì, nazionali illimitate",
+   "calls": "n/d",
    "modem": "incluso",
-   "speed": "fino a 2,5 Gbps",
+   "speed": "n/d",
    "notes": "Fonte ufficiale fastweb.it/casa-ultra",
    "source": "https://www.fastweb.it/adsl-fibra-ottica/fastweb-casa-ultra/",
    "checked": "2026-10-14",
    "promo_until": null,
    "is_promo": false,
-   "source_ok": "2026-10-14T17:37:17.894764+02:00",
+   "source_ok": "2026-10-14T17:45:24.507821+02:00",
    "official": true
   },
   {
@@ -1030,7 +1030,7 @@
    "checked": "2026-10-14",
    "promo_until": null,
    "is_promo": false,
-   "source_ok": "2026-10-14T17:37:17.894764+02:00",
+   "source_ok": "2026-10-14T17:45:24.507821+02:00",
    "official": true
   },
   {
@@ -1048,8 +1048,8 @@
    "calls": "n/d",
    "modem": "Sky Hub",
    "speed": "FTTH Open Fiber (fino a 1 Gbps)",
-   "notes": "Offerta ufficiale Sky Wifi (PDF trasparenza tariffaria Sky assets)",
-   "source": "https://www.sky.it/offerte/sky-wifi",
+   "notes": "Scheda di trasparenza ufficiale Sky (01/10/2026)",
+   "source": "https://assets.contentstack.io/v3/assets/blta6c52b9cd5519be3/bltb9a7e1413f65c87b/6abe09c66464887150ec945e/NOWWIFI_19_90_OF_20261001.pdf",
    "checked": "2026-10-14",
    "promo_until": null,
    "is_promo": false,
@@ -1073,10 +1073,10 @@
    "activation": "0 €",
    "vincolo": "nessuno, disattivabile quando vuoi",
    "source": "https://www.tim.it/offerte-tv/timvision-dazn",
-   "notes": "9,99 €/mese solo smartphone, senza attivazione – confermato da TIM (magazine.tim-offerte.it e pagina DAZN TIM)",
+   "notes": "9,99 €/mese, solo smartphone, senza attivazione (fonte TIM)",
    "is_promo": false,
    "official": true,
-   "source_ok": "2026-10-14T17:37:17.894764+02:00"
+   "source_ok": "2026-10-14T17:45:24.507821+02:00"
   },
   {
    "id": "tim-wifi-casa-10g",
@@ -1093,16 +1093,16 @@
    "calls": "Sì, illimitate nazionali",
    "modem": "TIM HUB+ (a rate)",
    "speed": "fino a 10 Gbps (solo zone XGS-PON)",
-   "notes": "ComparaSemplice indica 34,90 €",
+   "notes": "Fonte tim.it",
    "source": "https://www.tim.it/fisso-e-mobile/fibra-e-adsl/fibra-wifi-casa",
    "checked": "2026-10-14",
    "is_promo": true,
    "promo_until": null,
    "official": true,
-   "source_ok": "2026-10-14T17:37:17.894764+02:00"
+   "source_ok": "2026-10-14T17:45:24.507821+02:00"
   }
  ],
- "updated": "2026-10-14T17:37:17.894764+02:00",
+ "updated": "2026-10-14T17:45:24.507821+02:00",
  "categories": [
   {
    "id": "fibra",
