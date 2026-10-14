@@ -43,8 +43,7 @@
       "dazn-es-motor",
       "dazn-es-baloncesto",
       "dazn-es-usa"
-     ],
-     "patterns": {}
+     ]
     },
     {
      "url": "https://www.dazn.com/de-DE/help/articles/16184063399709-dazn-plane-und-preise",
@@ -114,7 +113,7 @@
    "category": "gaming",
    "sources": [
     {
-     "url": "https://www.mondomobileweb.it/320325-playstation-plus-aumento-di-prezzo-per-tutti-i-piani-in-versione-mensile-e-trimestrale/",
+     "url": "https://store.playstation.com/it-it/pages/subscriptions",
      "offer_ids": [
       "psplus-essential",
       "psplus-extra",
@@ -133,29 +132,21 @@
       "timvision-base",
       "timvision-m",
       "timvision-l",
-      "timvision-m-myclub",
-      "timvision-l-myclub",
       "timvision-m-dazn",
-      "timvision-l-dazn"
+      "timvision-dazn-prime"
      ]
     },
     {
-     "url": "https://www.tecnoandroid.it/news/timvision-con-dazn-e-prime-sconto-per-8-mesi-da-2499-euro-1982326/",
+     "url": "https://www.tim.it/fisso-e-mobile/fibra-e-adsl/fibra-wifi-casa",
      "offer_ids": [
-      "timvision-dazn-prime",
-      "timvision-myclub-prime"
+      "tim-wifi-casa",
+      "tim-wifi-casa-10g"
      ]
     },
     {
-     "url": "https://www.tim.it/fisso-e-mobile/fibra-e-adsl/fibra-calcio",
+     "url": "https://www.tim.it/offerte-tv/timvision-dazn",
      "offer_ids": [
-      "tim-wifi-casa"
-     ]
-    },
-    {
-     "url": "https://selectra.net/internet/guida/offerte/fibra-ottica",
-     "offer_ids": [
-      "tim-premium-base"
+      "timvision-myclub-mobile"
      ]
     }
    ]
@@ -163,17 +154,23 @@
   {
    "name": "WindTre",
    "category": "fibra",
-   "sources": []
+   "sources": [
+    {
+     "url": "https://www.windtre.it/offerte-fibra/super-fibra-internet-a-casa",
+     "offer_ids": [
+      "windtre-super-fibra"
+     ]
+    }
+   ]
   },
   {
    "name": "Vodafone",
    "category": "fibra",
    "sources": [
     {
-     "url": "https://selectra.net/internet/guida/offerte/fibra-ottica",
+     "url": "https://www.vodafone.it/privati/area-supporto/contratti-aggiornamenti/condizioni-generali-reti-servizi/tariffe/contratti-attivabili/casa-start.html",
      "offer_ids": [
-      "vodafone-casa-start",
-      "vodafone-casa-pro"
+      "vodafone-casa-start"
      ]
     }
    ]
@@ -183,10 +180,20 @@
    "category": "fibra",
    "sources": [
     {
-     "url": "https://selectra.net/internet/guida/offerte/fibra-ottica",
+     "url": "https://www.fastweb.it/adsl-fibra-ottica/fastweb-casa-start/",
      "offer_ids": [
-      "fastweb-casa-start",
-      "fastweb-casa-pro",
+      "fastweb-casa-start"
+     ]
+    },
+    {
+     "url": "https://www.fastweb.it/adsl-fibra-ottica/fastweb-casa-pro/",
+     "offer_ids": [
+      "fastweb-casa-pro"
+     ]
+    },
+    {
+     "url": "https://www.fastweb.it/adsl-fibra-ottica/fastweb-casa-ultra/",
+     "offer_ids": [
       "fastweb-casa-ultra"
      ]
     }
@@ -201,19 +208,20 @@
      "offer_ids": [
       "iliadbox"
      ]
-    },
-    {
-     "url": "https://selectra.net/internet/guida/offerte/fibra-ottica",
-     "offer_ids": [
-      "iliadbox-super"
-     ]
     }
    ]
   },
   {
    "name": "Sky Wifi",
    "category": "fibra",
-   "sources": []
+   "sources": [
+    {
+     "url": "https://www.sky.it/offerte/sky-wifi",
+     "offer_ids": [
+      "sky-wifi-fibra"
+     ]
+    }
+   ]
   }
  ],
  "news_feeds": [

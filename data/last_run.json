@@ -1,5 +1,5 @@
 {
- "run": "2026-10-14T16:52:06.774397+02:00",
+ "run": "2026-10-14T17:36:05.008522+02:00",
  "sources": [
   {
    "service": "Sky TV",
@@ -25,8 +25,10 @@
   {
    "service": "DAZN",
    "url": "https://www.dazn.com/es-ES/welcome",
-   "ok": false,
-   "error": "403 Client Error: Forbidden for url: https://www.dazn.com/es-ES/welcome"
+   "ok": true,
+   "prices_found": 0,
+   "promo_words": 0,
+   "note": "nessun prezzo nel testo (pagina dinamica?) - mantenuti ultimi valori noti"
   },
   {
    "service": "DAZN",
@@ -47,8 +49,9 @@
   {
    "service": "DAZN",
    "url": "https://www.dazn.com/de-DE/news/fussball/dazn-angebot-zur-champions-league-jetzt-unlimited-fuer-2499-euro-sichern/175va0epjd8z31wm00qk8bx2p4",
-   "ok": false,
-   "error": "403 Client Error: Forbidden for url: https://www.dazn.com/de-DE/news/fussball/dazn-angebot-zur-champions-league-jetzt-unlimited-fuer-2499-euro-sichern/175va0epjd8z31wm00qk8bx2p4"
+   "ok": true,
+   "prices_found": 3,
+   "promo_words": 23
   },
   {
    "service": "DAZN",
@@ -69,22 +72,21 @@
   {
    "service": "Zattoo",
    "url": "https://zattoo.com/de/en/offers",
-   "ok": true,
-   "prices_found": 18,
-   "promo_words": 0
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='zattoo.com', port=443): Max retries exceeded with url: /de/en/offers (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of prot"
   },
   {
    "service": "Zattoo",
    "url": "https://zattoo.com/at/en/offers",
-   "ok": true,
-   "prices_found": 6,
-   "promo_words": 0
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='zattoo.com', port=443): Max retries exceeded with url: /at/en/offers (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of prot"
   },
   {
    "service": "Teleboy",
    "url": "https://www.teleboy.ch/tv",
-   "ok": false,
-   "error": "403 Client Error: Forbidden for url: https://www.teleboy.ch/tv"
+   "ok": true,
+   "prices_found": 3,
+   "promo_words": 5
   },
   {
    "service": "PlayStation Plus",
@@ -153,5 +155,5 @@
    "promo_words": 27
   }
  ],
- "events": 1
+ "events": 2
 }

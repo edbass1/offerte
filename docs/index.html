@@ -1,9 +1,38 @@
-<!doctype html><html lang="it"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Monitor Offerte – Streaming, Pay TV e Fibra</title><link rel="stylesheet" href="style.css"></head><body>
-<header><div class="wrap"><div class="top"><h1>Monitor <span>Offerte</span></h1><nav><a class="on" href="index.html">Offerte</a><a href="storico.html">Storico</a></nav>
-<div class="upd">Ultimo aggiornamento: <b id="upd">…</b></div></div>
-<div class="ctrl"><input id="q" placeholder="Cerca (es. DAZN, fibra, Netflix, Spagna…)"><select id="cat"><option value="">Tutte le categorie</option></select>
-<select id="cty"><option value="">Tutti i paesi</option></select><label class="chk"><input type="checkbox" id="onlyPromo" style="min-width:0">Solo promozioni</label></div></div></header>
-<main class="wrap"><div id="promos"></div><div id="news"></div><div id="list"></div></main>
-<footer>Dati raccolti da fonti ufficiali e verificati periodicamente. Aggiornamento automatico ogni ora. "n/d" = dato non disponibile. Verifica sempre le condizioni sul sito dell'operatore.</footer>
-<script src="app.js"></script></body></html>
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="color-scheme" content="dark">
+<title>Monitor Offerte – Fibra, Streaming, Sport, Gaming</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <div class="top">
+      <h1>Monitor <span>Offerte</span></h1>
+      <nav><a class="on" href="index.html">Offerte</a><a href="storico.html">Storico</a></nav>
+      <div class="upd">Ultimo aggiornamento: <b id="upd">…</b></div>
+    </div>
+    <div class="ctrl">
+      <input id="q" placeholder="Cerca (es. DAZN, fibra, Netflix, Spagna…)">
+      <select id="cat"><option value="">Tutte le categorie</option></select>
+      <select id="cty"><option value="">Tutti i paesi</option></select>
+      <label class="chk"><input type="checkbox" id="onlyPromo">Solo promozioni</label>
+    </div>
+  </div>
+</header>
+<main class="wrap">
+  <nav class="toc" id="toc" aria-label="Categorie"></nav>
+  <div id="promos"></div>
+  <div id="news"></div>
+  <div id="list"></div>
+</main>
+<footer>
+  Solo offerte presenti sui siti ufficiali degli operatori. Verifica sempre prezzo e condizioni sulla fonte ufficiale prima di attivare.<br>
+  Aggiornamento automatico ogni ora · storico append-only · “n/d” = dato non trovato sulla fonte.
+</footer>
+<script src="app.js"></script>
+</body>
+</html>
