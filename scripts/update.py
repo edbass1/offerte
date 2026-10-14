@@ -94,10 +94,10 @@ KEYW = re.compile(r"(€|euro|precio|prezz|offert|oferta|promo|scont|descuento|r
 def check_news(cfg, ts):
     import xml.etree.ElementTree as ET, urllib.parse, email.utils
     news = load(NEWS, {"seen": [], "items": []}); seen = set(news["seen"]); ev = []
-    first = not news["seen"]
+    maxd = int(cfg.get("news_max_age_days", 21))
     for f in cfg.get("news_feeds", []):
-        url = "https://news.google.com/rss/search?q=" + urllib.parse.quote(f["query"] + " when:30d") + \
-              f"&hl={f['hl']}&gl={f['gl']}&ceid={f['gl']}:{f['hl']}"
+        url = "https://news.google.com/rss/search?q=" + urllib.parse.quote(f["query"] + f" when:{maxd}d") + \
+              f"&hl={f['hl']}&gl={f['gl']}&ceid={f.get('ceid', f['gl']+':'+f['hl'])}"
         try:
             root = ET.fromstring(requests.get(url, headers=UA, timeout=20).content)
         except Exception as e:
@@ -109,10 +109,11 @@ def check_news(cfg, ts):
             seen.add(key)
             try: pub = email.utils.parsedate_to_datetime(it.findtext("pubDate")).astimezone(TZ)
             except Exception: pub = ts
-            if (ts - pub).days > 30: continue
+            if (ts - pub).days > maxd: continue
             item = dict(date=pub.isoformat(), type="novita", service=f["service"], country=f["country"],
                         text=title, source=link, query=f["query"], found=ts.isoformat())
             news["items"].append(item); ev.append(item)
+    news["items"] = [n for n in news["items"] if (ts - datetime.datetime.fromisoformat(n["date"])).days <= maxd]
     news["items"] = sorted(news["items"], key=lambda x: x["date"], reverse=True)[:150]
     news["seen"] = sorted(seen)[-3000:]
     NEWS.write_text(json.dumps(news, ensure_ascii=False, indent=1))

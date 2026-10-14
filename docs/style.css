@@ -69,3 +69,15 @@ footer{color:var(--sec);font-size:.82rem;text-align:center;padding:36px 16px;lin
   padding:8px 12px;border-radius:999px;font-size:.85rem;font-weight:600
 }
 .toc a:hover{border-color:var(--acc);color:var(--acc)}
+.lead{color:var(--sec);margin:18px 0 4px}
+.pgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:12px;margin-top:12px}
+.pcard{display:flex;flex-direction:column;gap:6px;background:var(--card);border:1px solid var(--line);border-radius:14px;padding:18px;text-decoration:none;color:#fff}
+.pcard:hover{border-color:var(--acc)}
+.pname{font-size:1.1rem;font-weight:700;color:#fff}.pmeta{color:var(--sec);font-size:.9rem}.pp{color:var(--promo)}
+.back{margin:18px 0 0}.back a{color:var(--link);font-weight:600}
+h2.cat small{color:var(--sec);font-weight:500;font-size:.9rem}
+td.nd{white-space:nowrap;color:var(--sec)}
+.totop{position:fixed;bottom:18px;z-index:20;background:#1a1a1f;color:#fff;border:1px solid #fff;border-radius:999px;padding:10px 16px;font:600 .9rem system-ui,sans-serif;cursor:pointer;box-shadow:0 2px 10px rgba(0,0,0,.6)}
+.totop:hover{background:#2a2a33;border-color:var(--acc);color:var(--acc)}
+.totop.l{left:18px}.totop.r{right:18px}
+footer{padding-bottom:80px}

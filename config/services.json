@@ -228,38 +228,92 @@
   {
    "service": "DAZN",
    "country": "ES",
-   "query": "DAZN precio oferta",
+   "query": "DAZN precio",
    "hl": "es",
-   "gl": "ES"
+   "gl": "ES",
+   "ceid": "ES:es"
   },
   {
    "service": "DAZN",
    "country": "ES",
-   "query": "DAZN España plan fútbol premium",
+   "query": "DAZN oferta plan",
    "hl": "es",
-   "gl": "ES"
+   "gl": "ES",
+   "ceid": "ES:es"
+  },
+  {
+   "service": "DAZN",
+   "country": "DE",
+   "query": "DAZN Preis Angebot",
+   "hl": "de",
+   "gl": "DE",
+   "ceid": "DE:de"
+  },
+  {
+   "service": "DAZN",
+   "country": "BE",
+   "query": "DAZN prix abonnement",
+   "hl": "fr",
+   "gl": "BE",
+   "ceid": "BE:fr"
+  },
+  {
+   "service": "DAZN",
+   "country": "BE",
+   "query": "DAZN prijs abonnement",
+   "hl": "nl",
+   "gl": "BE",
+   "ceid": "BE:nl"
+  },
+  {
+   "service": "DAZN",
+   "country": "PT",
+   "query": "DAZN preço",
+   "hl": "pt-PT",
+   "gl": "PT",
+   "ceid": "PT:pt-150"
   },
   {
    "service": "TIM",
    "country": "IT",
    "query": "TIMVISION offerta",
    "hl": "it",
-   "gl": "IT"
+   "gl": "IT",
+   "ceid": "IT:it"
   },
   {
    "service": "TIM",
    "country": "IT",
    "query": "offerte TIM fibra",
    "hl": "it",
-   "gl": "IT"
+   "gl": "IT",
+   "ceid": "IT:it"
   },
   {
-   "service": "TIM",
+   "service": "Sky TV",
    "country": "IT",
-   "query": "TIM WiFi Casa prezzo",
+   "query": "Sky offerta prezzo",
    "hl": "it",
-   "gl": "IT"
+   "gl": "IT",
+   "ceid": "IT:it"
+  },
+  {
+   "service": "Fibra",
+   "country": "IT",
+   "query": "offerte fibra WindTre Vodafone Fastweb Iliad",
+   "hl": "it",
+   "gl": "IT",
+   "ceid": "IT:it"
+  },
+  {
+   "service": "PlayStation Plus",
+   "country": "IT",
+   "query": "PlayStation Plus prezzo",
+   "hl": "it",
+   "gl": "IT",
+   "ceid": "IT:it"
   }
  ],
- "_info_news": "news_feeds: query Google News RSS. Aggiungi righe per monitorare altri servizi."
+ "_info_news": "news_feeds: query Google News RSS. Aggiungi righe per monitorare altri servizi.",
+ "news_max_age_days": 21
 }

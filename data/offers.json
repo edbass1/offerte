@@ -20,8 +20,9 @@
    "checked": "2026-10-14",
    "promo_until": "2026-10-25",
    "is_promo": true,
-   "source_ok": "2026-10-14T17:56:34.142001+02:00",
-   "official": true
+   "source_ok": "2026-10-14T17:59:35.751226+02:00",
+   "official": true,
+   "source_date": "n/d"
   },
   {
    "id": "sky-tv-calcio-cinema",
@@ -43,8 +44,9 @@
    "checked": "2026-10-14",
    "promo_until": "2026-10-25",
    "is_promo": true,
-   "source_ok": "2026-10-14T17:56:34.142001+02:00",
-   "official": true
+   "source_ok": "2026-10-14T17:59:35.751226+02:00",
+   "official": true,
+   "source_date": "n/d"
   },
   {
    "id": "sky-tv-sport",
@@ -66,8 +68,9 @@
    "checked": "2026-10-14",
    "promo_until": "2026-10-25",
    "is_promo": true,
-   "source_ok": "2026-10-14T17:56:34.142001+02:00",
-   "official": true
+   "source_ok": "2026-10-14T17:59:35.751226+02:00",
+   "official": true,
+   "source_date": "n/d"
   },
   {
    "id": "sky-tv-netflix",
@@ -89,8 +92,9 @@
    "checked": "2026-10-14",
    "promo_until": "2026-10-25",
    "is_promo": true,
-   "source_ok": "2026-10-14T17:56:34.142001+02:00",
-   "official": true
+   "source_ok": "2026-10-14T17:59:35.751226+02:00",
+   "official": true,
+   "source_date": "n/d"
   },
   {
    "id": "sky-glass-plus-cinema-calcio",
@@ -112,7 +116,8 @@
    "checked": "2026-10-14",
    "promo_until": "2026-10-25",
    "is_promo": true,
-   "official": true
+   "official": true,
+   "source_date": "n/d"
   },
   {
    "id": "sky-stream-wifi",
@@ -134,7 +139,8 @@
    "checked": "2026-10-14",
    "promo_until": "2026-11-30",
    "is_promo": true,
-   "official": true
+   "official": true,
+   "source_date": "n/d"
   },
   {
    "id": "dazn-es-futbol",
@@ -151,13 +157,15 @@
    "calls": "—",
    "modem": "—",
    "speed": "—",
-   "notes": "Prezzi ufficiali dal centro assistenza DAZN Spagna. Nessuna promo confermata sul sito ufficiale.",
+   "notes": "Ufficiale DAZN ES + futbolporlatele.com (ES, aggiornato 05/10/2026). La promo 14,99 € è terminata il 20/09/2026.",
    "source": "https://www.dazn.com/es-ES/help/articles/16184063399709-planes-precios-y-contenidos-de-dazn",
    "checked": "2026-10-14",
    "promo_until": null,
    "is_promo": false,
-   "source_ok": "2026-10-14T17:45:24.507821+02:00",
-   "official": true
+   "source_ok": "2026-10-14T17:59:35.751226+02:00",
+   "official": true,
+   "source_date": "2026-10-05",
+   "extra_source": "https://futbolporlatele.com/donde-ver-futbol-dazn/"
   },
   {
    "id": "dazn-es-motor",
@@ -174,13 +182,15 @@
    "calls": "—",
    "modem": "—",
    "speed": "—",
-   "notes": "Prezzi ufficiali dal centro assistenza DAZN Spagna. Nessuna promo confermata sul sito ufficiale.",
+   "notes": "Ufficiale DAZN ES + futbolporlatele.com (ES, aggiornato 05/10/2026). La promo 14,99 € è terminata il 20/09/2026.",
    "source": "https://www.dazn.com/es-ES/help/articles/16184063399709-planes-precios-y-contenidos-de-dazn",
    "checked": "2026-10-14",
    "promo_until": null,
    "is_promo": false,
-   "source_ok": "2026-10-14T17:56:34.142001+02:00",
-   "official": true
+   "source_ok": "2026-10-14T17:59:35.751226+02:00",
+   "official": true,
+   "source_date": "2026-10-05",
+   "extra_source": "https://futbolporlatele.com/donde-ver-futbol-dazn/"
   },
   {
    "id": "dazn-es-premium",
@@ -197,13 +207,15 @@
    "calls": "—",
    "modem": "—",
    "speed": "—",
-   "notes": "Prezzi ufficiali dal centro assistenza DAZN Spagna. Nessuna promo confermata sul sito ufficiale.",
+   "notes": "Ufficiale DAZN ES + futbolporlatele.com (ES, aggiornato 05/10/2026). La promo 14,99 € è terminata il 20/09/2026.",
    "source": "https://www.dazn.com/es-ES/help/articles/16184063399709-planes-precios-y-contenidos-de-dazn",
    "checked": "2026-10-14",
    "promo_until": null,
    "is_promo": false,
-   "source_ok": "2026-10-14T17:45:24.507821+02:00",
-   "official": true
+   "source_ok": "2026-10-14T17:59:35.751226+02:00",
+   "official": true,
+   "source_date": "2026-10-05",
+   "extra_source": "https://futbolporlatele.com/donde-ver-futbol-dazn/"
   },
   {
    "id": "dazn-es-baloncesto",
@@ -220,13 +232,15 @@
    "calls": "—",
    "modem": "—",
    "speed": "—",
-   "notes": "Prezzi ufficiali dal centro assistenza DAZN Spagna. Nessuna promo confermata sul sito ufficiale.",
+   "notes": "Ufficiale DAZN ES + futbolporlatele.com (ES, aggiornato 05/10/2026). La promo 14,99 € è terminata il 20/09/2026.",
    "source": "https://www.dazn.com/es-ES/help/articles/16184063399709-planes-precios-y-contenidos-de-dazn",
    "checked": "2026-10-14",
    "promo_until": null,
    "is_promo": false,
-   "source_ok": "2026-10-14T17:56:34.142001+02:00",
-   "official": true
+   "source_ok": "2026-10-14T17:59:35.751226+02:00",
+   "official": true,
+   "source_date": "2026-10-05",
+   "extra_source": "https://futbolporlatele.com/donde-ver-futbol-dazn/"
   },
   {
    "id": "dazn-es-usa",
@@ -243,13 +257,15 @@
    "calls": "—",
    "modem": "—",
    "speed": "—",
-   "notes": "Prezzi ufficiali dal centro assistenza DAZN Spagna. Nessuna promo confermata sul sito ufficiale.",
+   "notes": "Ufficiale DAZN ES + futbolporlatele.com (ES, aggiornato 05/10/2026). La promo 14,99 € è terminata il 20/09/2026.",
    "source": "https://www.dazn.com/es-ES/help/articles/16184063399709-planes-precios-y-contenidos-de-dazn",
    "checked": "2026-10-14",
    "promo_until": null,
    "is_promo": false,
-   "source_ok": "2026-10-14T17:56:34.142001+02:00",
-   "official": true
+   "source_ok": "2026-10-14T17:59:35.751226+02:00",
+   "official": true,
+   "source_date": "2026-10-05",
+   "extra_source": "https://futbolporlatele.com/donde-ver-futbol-dazn/"
   },
   {
    "id": "dazn-de-mobile",
@@ -258,21 +274,22 @@
    "country": "DE",
    "name": "DAZN Mobile Pass",
    "price": "9,99 €/mese (flessibile)",
-   "promo_price": null,
-   "promo_duration": null,
-   "price_after": null,
+   "promo_price": "4,99 €/mese",
+   "promo_duration": "n/d",
+   "price_after": "9,99 €/mese",
    "activation": "0 €",
    "vincolo": "nessuno (preavviso 30 gg)",
    "calls": "—",
    "modem": "—",
    "speed": "—",
-   "notes": "Solo smartphone",
-   "source": "https://www.dazn.com/de-DE/help/articles/16184063399709-dazn-plane-und-preise",
+   "notes": "Promo riportata da Business Insider DE (ottobre 2026); listino 9,99 € su pagina ufficiale",
+   "source": "https://www.businessinsider.de/insider-picks/technik/dazn-angebot-oktober-2026/",
    "checked": "2026-10-14",
    "promo_until": null,
-   "is_promo": false,
-   "source_ok": "2026-10-14T17:56:34.142001+02:00",
-   "official": true
+   "is_promo": true,
+   "source_ok": "2026-10-14T17:59:35.751226+02:00",
+   "official": true,
+   "source_date": "2026-10"
   },
   {
    "id": "dazn-de-super",
@@ -281,21 +298,23 @@
    "country": "DE",
    "name": "DAZN Super Sports",
    "price": "24,99 €/mese flessibile · 19,99 €/mese annuale",
-   "promo_price": null,
-   "promo_duration": null,
-   "price_after": null,
+   "promo_price": "14,99 €/mese",
+   "promo_duration": "mensile: primi 3 mesi; annuale: 12 mesi",
+   "price_after": "24,99 € (mensile) / 19,99 € (annuale)",
    "activation": "0 €",
    "vincolo": "annuale 12 mesi",
    "calls": "—",
    "modem": "—",
    "speed": "—",
-   "notes": "Senza Champions League",
-   "source": "https://www.dazn.com/de-DE/help/articles/16184063399709-dazn-plane-und-preise",
+   "notes": "Offerta su dazn.com/en-DE/welcome/super-sports, confermata da Business Insider DE (ottobre 2026)",
+   "source": "https://www.dazn.com/en-DE/welcome/super-sports",
    "checked": "2026-10-14",
    "promo_until": null,
-   "is_promo": false,
-   "source_ok": "2026-10-14T17:56:34.142001+02:00",
-   "official": true
+   "is_promo": true,
+   "source_ok": "2026-10-14T17:59:35.751226+02:00",
+   "official": true,
+   "source_date": "2026-10",
+   "extra_source": "https://www.businessinsider.de/insider-picks/technik/dazn-angebot-oktober-2026/"
   },
   {
    "id": "dazn-de-unlimited",
@@ -317,8 +336,9 @@
    "checked": "2026-10-14",
    "promo_until": null,
    "is_promo": true,
-   "source_ok": "2026-10-14T17:45:24.507821+02:00",
-   "official": true
+   "source_ok": "2026-10-14T17:59:35.751226+02:00",
+   "official": true,
+   "source_date": "2026-10-13"
   },
   {
    "id": "dazn-de-unlimited-plus",
@@ -340,8 +360,9 @@
    "checked": "2026-10-14",
    "promo_until": null,
    "is_promo": false,
-   "source_ok": "2026-10-14T17:56:34.142001+02:00",
-   "official": true
+   "source_ok": "2026-10-14T17:59:35.751226+02:00",
+   "official": true,
+   "source_date": "n/d"
   },
   {
    "id": "dazn-be-total",
@@ -349,7 +370,7 @@
    "category": "streaming-sport",
    "country": "BE",
    "name": "DAZN Total",
-   "price": "29,99 €/mese flessibile · 24,99 €/mese (12 mesi)",
+   "price": "34,99 €/mese flessibile · 24,99 €/mese (12 mesi)",
    "promo_price": null,
    "promo_duration": null,
    "price_after": null,
@@ -358,13 +379,15 @@
    "calls": "—",
    "modem": "—",
    "speed": "—",
-   "notes": "Prezzi dalla pagina ufficiale DAZN BE. Pass extra: NFL da 9,99 €, Rally TV 10,99 €",
-   "source": "https://www.dazn.com/en-BE/help/articles/16184063399709-dazn-plans-and-pricing",
+   "notes": "Flessibile 34,99 € secondo dazn.com nl-BE e Telenet (FR). La pagina EN di DAZN BE indica ancora 29,99 €: discrepanza sul sito ufficiale",
+   "source": "https://www.dazn.com/nl-BE/help/articles/16184063399709-dazn-plannen-en-prijzen",
    "checked": "2026-10-14",
    "promo_until": null,
    "is_promo": false,
-   "source_ok": "2026-10-14T17:56:34.142001+02:00",
-   "official": true
+   "source_ok": "2026-10-14T17:59:35.751226+02:00",
+   "official": true,
+   "extra_source": "https://www2.telenet.be/residential/fr/produits/telenet-tv/dazn-bij-telenet.html",
+   "source_date": "n/d"
   },
   {
    "id": "dazn-pt-motores",
@@ -386,8 +409,9 @@
    "checked": "2026-10-14",
    "promo_until": null,
    "is_promo": false,
-   "source_ok": "2026-10-14T17:56:34.142001+02:00",
-   "official": true
+   "source_ok": "2026-10-14T17:59:35.751226+02:00",
+   "official": true,
+   "source_date": "n/d"
   },
   {
    "id": "dazn-pt-base",
@@ -404,13 +428,14 @@
    "calls": "—",
    "modem": "—",
    "speed": "—",
-   "notes": "Prezzi dalla pagina ufficiale DAZN PT",
+   "notes": "Diretto DAZN: 21,99 / 17,99 / 189,99 € (pagina ufficiale PT). Via MEO: Base Mensal 24,99 €, Base Anual 19,99 €",
    "source": "https://www.dazn.com/pt-PT/help/articles/16184063399709-planos-e-precos-dazn",
    "checked": "2026-10-14",
    "promo_until": null,
    "is_promo": false,
-   "source_ok": "2026-10-14T17:56:34.142001+02:00",
-   "official": true
+   "source_ok": "2026-10-14T17:59:35.751226+02:00",
+   "official": true,
+   "source_date": "n/d"
   },
   {
    "id": "dazn-pt-total",
@@ -432,8 +457,9 @@
    "checked": "2026-10-14",
    "promo_until": null,
    "is_promo": false,
-   "source_ok": "2026-10-14T17:56:34.142001+02:00",
-   "official": true
+   "source_ok": "2026-10-14T17:59:35.751226+02:00",
+   "official": true,
+   "source_date": "n/d"
   },
   {
    "id": "zattoo-de-smart",
@@ -456,7 +482,8 @@
    "promo_until": null,
    "is_promo": false,
    "source_ok": "2026-10-14T17:56:34.142001+02:00",
-   "official": true
+   "official": true,
+   "source_date": "n/d"
   },
   {
    "id": "zattoo-de-premium",
@@ -479,7 +506,8 @@
    "promo_until": null,
    "is_promo": false,
    "source_ok": "2026-10-14T17:56:34.142001+02:00",
-   "official": true
+   "official": true,
+   "source_date": "n/d"
   },
   {
    "id": "zattoo-de-ultimate",
@@ -502,7 +530,8 @@
    "promo_until": null,
    "is_promo": false,
    "source_ok": "2026-10-14T17:56:34.142001+02:00",
-   "official": true
+   "official": true,
+   "source_date": "n/d"
   },
   {
    "id": "zattoo-at-premium",
@@ -525,7 +554,8 @@
    "promo_until": null,
    "is_promo": false,
    "source_ok": "2026-10-14T17:56:34.142001+02:00",
-   "official": true
+   "official": true,
+   "source_date": "n/d"
   },
   {
    "id": "zattoo-at-ultimate",
@@ -548,7 +578,8 @@
    "promo_until": null,
    "is_promo": false,
    "source_ok": "2026-10-14T17:56:34.142001+02:00",
-   "official": true
+   "official": true,
+   "source_date": "n/d"
   },
   {
    "id": "teleboy-tv",
@@ -570,8 +601,9 @@
    "checked": "2026-10-14",
    "promo_until": null,
    "is_promo": true,
-   "source_ok": "2026-10-14T17:45:24.507821+02:00",
-   "official": true
+   "source_ok": "2026-10-14T17:59:35.751226+02:00",
+   "official": true,
+   "source_date": "n/d"
   },
   {
    "id": "psplus-essential",
@@ -593,8 +625,9 @@
    "checked": "2026-10-14",
    "promo_until": null,
    "is_promo": false,
-   "source_ok": "2026-10-14T17:56:34.142001+02:00",
-   "official": true
+   "source_ok": "2026-10-14T17:59:35.751226+02:00",
+   "official": true,
+   "source_date": "n/d"
   },
   {
    "id": "psplus-extra",
@@ -616,8 +649,9 @@
    "checked": "2026-10-14",
    "promo_until": null,
    "is_promo": false,
-   "source_ok": "2026-10-14T17:56:34.142001+02:00",
-   "official": true
+   "source_ok": "2026-10-14T17:59:35.751226+02:00",
+   "official": true,
+   "source_date": "n/d"
   },
   {
    "id": "psplus-premium",
@@ -639,8 +673,9 @@
    "checked": "2026-10-14",
    "promo_until": null,
    "is_promo": false,
-   "source_ok": "2026-10-14T17:56:34.142001+02:00",
-   "official": true
+   "source_ok": "2026-10-14T17:59:35.751226+02:00",
+   "official": true,
+   "source_date": "n/d"
   },
   {
    "id": "timvision-base",
@@ -662,8 +697,9 @@
    "checked": "2026-10-14",
    "promo_until": "2026-10-24",
    "is_promo": true,
-   "source_ok": "2026-10-14T17:56:34.142001+02:00",
-   "official": true
+   "source_ok": "2026-10-14T17:59:35.751226+02:00",
+   "official": true,
+   "source_date": "n/d"
   },
   {
    "id": "timvision-m",
@@ -685,8 +721,9 @@
    "checked": "2026-10-14",
    "promo_until": "2026-10-24",
    "is_promo": true,
-   "source_ok": "2026-10-14T17:56:34.142001+02:00",
-   "official": true
+   "source_ok": "2026-10-14T17:59:35.751226+02:00",
+   "official": true,
+   "source_date": "n/d"
   },
   {
    "id": "timvision-l",
@@ -708,8 +745,9 @@
    "checked": "2026-10-14",
    "promo_until": "2026-10-24",
    "is_promo": true,
-   "source_ok": "2026-10-14T17:56:34.142001+02:00",
-   "official": true
+   "source_ok": "2026-10-14T17:59:35.751226+02:00",
+   "official": true,
+   "source_date": "n/d"
   },
   {
    "id": "timvision-m-myclub",
@@ -732,7 +770,8 @@
    "promo_until": "2026-10-24",
    "is_promo": true,
    "source_ok": "2026-10-14T17:36:05.008522+02:00",
-   "official": true
+   "official": true,
+   "source_date": "n/d"
   },
   {
    "id": "timvision-l-myclub",
@@ -755,7 +794,8 @@
    "promo_until": "2026-10-24",
    "is_promo": true,
    "source_ok": "2026-10-14T17:36:05.008522+02:00",
-   "official": true
+   "official": true,
+   "source_date": "n/d"
   },
   {
    "id": "timvision-m-dazn",
@@ -777,8 +817,9 @@
    "checked": "2026-10-14",
    "promo_until": "2026-10-24",
    "is_promo": true,
-   "source_ok": "2026-10-14T17:56:34.142001+02:00",
-   "official": true
+   "source_ok": "2026-10-14T17:59:35.751226+02:00",
+   "official": true,
+   "source_date": "n/d"
   },
   {
    "id": "timvision-l-dazn",
@@ -801,7 +842,8 @@
    "promo_until": "2026-10-24",
    "is_promo": true,
    "source_ok": "2026-10-14T17:36:05.008522+02:00",
-   "official": true
+   "official": true,
+   "source_date": "n/d"
   },
   {
    "id": "timvision-dazn-prime",
@@ -823,8 +865,9 @@
    "checked": "2026-10-14",
    "promo_until": "2026-10-24",
    "is_promo": true,
-   "source_ok": "2026-10-14T17:56:34.142001+02:00",
-   "official": true
+   "source_ok": "2026-10-14T17:59:35.751226+02:00",
+   "official": true,
+   "source_date": "n/d"
   },
   {
    "id": "timvision-myclub-prime",
@@ -847,7 +890,8 @@
    "promo_until": "2026-10-24",
    "is_promo": true,
    "source_ok": "2026-10-14T17:36:05.008522+02:00",
-   "official": true
+   "official": true,
+   "source_date": "n/d"
   },
   {
    "id": "tim-wifi-casa",
@@ -869,8 +913,9 @@
    "checked": "2026-10-14",
    "promo_until": "2026-10-24",
    "is_promo": true,
-   "source_ok": "2026-10-14T17:56:34.142001+02:00",
-   "official": true
+   "source_ok": "2026-10-14T17:59:35.751226+02:00",
+   "official": true,
+   "source_date": "n/d"
   },
   {
    "id": "tim-premium-base",
@@ -893,7 +938,8 @@
    "promo_until": "2026-10-31",
    "is_promo": true,
    "source_ok": "2026-10-14T17:36:05.008522+02:00",
-   "official": true
+   "official": true,
+   "source_date": "n/d"
   },
   {
    "id": "windtre-super-fibra",
@@ -916,7 +962,8 @@
    "promo_until": null,
    "is_promo": true,
    "official": true,
-   "source_ok": "2026-10-14T17:56:34.142001+02:00"
+   "source_ok": "2026-10-14T17:59:35.751226+02:00",
+   "source_date": "n/d"
   },
   {
    "id": "vodafone-casa-start",
@@ -938,8 +985,9 @@
    "checked": "2026-10-14",
    "promo_until": "2026-10-31",
    "is_promo": true,
-   "source_ok": "2026-10-14T17:56:34.142001+02:00",
-   "official": true
+   "source_ok": "2026-10-14T17:59:35.751226+02:00",
+   "official": true,
+   "source_date": "n/d"
   },
   {
    "id": "fastweb-casa-start",
@@ -961,8 +1009,9 @@
    "checked": "2026-10-14",
    "promo_until": null,
    "is_promo": true,
-   "source_ok": "2026-10-14T17:56:34.142001+02:00",
-   "official": true
+   "source_ok": "2026-10-14T17:59:35.751226+02:00",
+   "official": true,
+   "source_date": "n/d"
   },
   {
    "id": "fastweb-casa-pro",
@@ -984,8 +1033,9 @@
    "checked": "2026-10-14",
    "promo_until": null,
    "is_promo": true,
-   "source_ok": "2026-10-14T17:56:34.142001+02:00",
-   "official": true
+   "source_ok": "2026-10-14T17:59:35.751226+02:00",
+   "official": true,
+   "source_date": "n/d"
   },
   {
    "id": "fastweb-casa-ultra",
@@ -1007,8 +1057,9 @@
    "checked": "2026-10-14",
    "promo_until": null,
    "is_promo": false,
-   "source_ok": "2026-10-14T17:56:34.142001+02:00",
-   "official": true
+   "source_ok": "2026-10-14T17:59:35.751226+02:00",
+   "official": true,
+   "source_date": "n/d"
   },
   {
    "id": "iliadbox",
@@ -1030,8 +1081,9 @@
    "checked": "2026-10-14",
    "promo_until": null,
    "is_promo": false,
-   "source_ok": "2026-10-14T17:56:34.142001+02:00",
-   "official": true
+   "source_ok": "2026-10-14T17:59:35.751226+02:00",
+   "official": true,
+   "source_date": "n/d"
   },
   {
    "id": "sky-wifi-fibra",
@@ -1054,7 +1106,8 @@
    "promo_until": null,
    "is_promo": false,
    "official": true,
-   "source_ok": "2026-10-14T17:56:34.142001+02:00"
+   "source_ok": "2026-10-14T17:59:35.751226+02:00",
+   "source_date": "n/d"
   },
   {
    "service": "TIM",
@@ -1077,7 +1130,8 @@
    "notes": "9,99 €/mese, solo smartphone, senza attivazione (fonte TIM)",
    "is_promo": false,
    "official": true,
-   "source_ok": "2026-10-14T17:56:34.142001+02:00"
+   "source_ok": "2026-10-14T17:59:35.751226+02:00",
+   "source_date": "n/d"
   },
   {
    "id": "tim-wifi-casa-10g",
@@ -1100,10 +1154,60 @@
    "is_promo": true,
    "promo_until": null,
    "official": true,
-   "source_ok": "2026-10-14T17:56:34.142001+02:00"
+   "source_ok": "2026-10-14T17:59:35.751226+02:00",
+   "source_date": "n/d"
+  },
+  {
+   "id": "dazn-es-joven",
+   "service": "DAZN",
+   "category": "streaming-sport",
+   "country": "ES",
+   "name": "DAZN Fútbol Joven (-30 anni)",
+   "price": "20,99 €/mese (mensile) · 13,99 €/mese (annuale rate)",
+   "promo_price": null,
+   "promo_duration": null,
+   "price_after": null,
+   "activation": "0 €",
+   "vincolo": "Mensile: preavviso 30 gg; annuale: 12 mesi",
+   "calls": "—",
+   "modem": "—",
+   "speed": "—",
+   "notes": "Tariffa giovani menzionata anche su dazn.com/es-ES/welcome ('Tarifa Joven -30'); prezzi da futbolporlatele.com (05/10/2026)",
+   "source": "https://futbolporlatele.com/donde-ver-futbol-dazn/",
+   "checked": "2026-10-14",
+   "promo_until": null,
+   "is_promo": false,
+   "source_ok": "2026-10-14T17:45:24.507821+02:00",
+   "official": true,
+   "source_date": "2026-10-05",
+   "extra_source": "https://futbolporlatele.com/donde-ver-futbol-dazn/"
+  },
+  {
+   "id": "dazn-pt-meo-base-anual",
+   "service": "DAZN",
+   "category": "streaming-sport",
+   "country": "PT",
+   "name": "DAZN Base Anual via MEO",
+   "price": "19,99 €/mese",
+   "promo_price": "9,99 €/mese",
+   "promo_duration": "campagna 07/10–26/10/2026",
+   "price_after": "19,99 €/mese",
+   "activation": "0 €",
+   "vincolo": "12 mesi",
+   "calls": "—",
+   "modem": "—",
+   "speed": "—",
+   "notes": "Campagna MEO (operatore PT) per nuove adesioni; non per MEO Satélite né NIF 5/6",
+   "source": "https://www.meo.pt/tv/canais-premium/desporto/dazn",
+   "checked": "2026-10-14",
+   "promo_until": "2026-10-26",
+   "is_promo": true,
+   "source_ok": "2026-10-14T17:56:34.142001+02:00",
+   "official": true,
+   "source_date": "2026-10-07"
   }
  ],
- "updated": "2026-10-14T17:56:34.142001+02:00",
+ "updated": "2026-10-14T17:59:35.751226+02:00",
  "categories": [
   {
    "id": "fibra",
