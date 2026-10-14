@@ -20,7 +20,7 @@
    "checked": "2026-10-14",
    "promo_until": "2026-10-25",
    "is_promo": true,
-   "source_ok": "2026-10-14T15:44:26.754056+02:00"
+   "source_ok": "2026-10-14T15:45:40.916970+02:00"
   },
   {
    "id": "sky-tv-calcio-cinema",
@@ -42,7 +42,7 @@
    "checked": "2026-10-14",
    "promo_until": "2026-10-25",
    "is_promo": true,
-   "source_ok": "2026-10-14T15:44:26.754056+02:00"
+   "source_ok": "2026-10-14T15:45:40.916970+02:00"
   },
   {
    "id": "sky-tv-sport",
@@ -64,7 +64,7 @@
    "checked": "2026-10-14",
    "promo_until": "2026-10-25",
    "is_promo": true,
-   "source_ok": "2026-10-14T15:44:26.754056+02:00"
+   "source_ok": "2026-10-14T15:45:40.916970+02:00"
   },
   {
    "id": "sky-tv-netflix",
@@ -86,7 +86,7 @@
    "checked": "2026-10-14",
    "promo_until": "2026-10-25",
    "is_promo": true,
-   "source_ok": "2026-10-14T15:44:26.754056+02:00"
+   "source_ok": "2026-10-14T15:45:40.916970+02:00"
   },
   {
    "id": "sky-glass-plus-cinema-calcio",
@@ -172,7 +172,7 @@
    "checked": "2026-10-14",
    "promo_until": null,
    "is_promo": false,
-   "source_ok": "2026-10-14T15:44:26.754056+02:00"
+   "source_ok": "2026-10-14T15:45:40.916970+02:00"
   },
   {
    "id": "dazn-es-premium",
@@ -216,7 +216,7 @@
    "checked": "2026-10-14",
    "promo_until": null,
    "is_promo": false,
-   "source_ok": "2026-10-14T15:44:26.754056+02:00"
+   "source_ok": "2026-10-14T15:45:40.916970+02:00"
   },
   {
    "id": "dazn-es-usa",
@@ -238,7 +238,7 @@
    "checked": "2026-10-14",
    "promo_until": null,
    "is_promo": false,
-   "source_ok": "2026-10-14T15:44:26.754056+02:00"
+   "source_ok": "2026-10-14T15:45:40.916970+02:00"
   },
   {
    "id": "dazn-de-mobile",
@@ -260,7 +260,7 @@
    "checked": "2026-10-14",
    "promo_until": null,
    "is_promo": false,
-   "source_ok": "2026-10-14T15:44:26.754056+02:00"
+   "source_ok": "2026-10-14T15:45:40.916970+02:00"
   },
   {
    "id": "dazn-de-super",
@@ -282,7 +282,7 @@
    "checked": "2026-10-14",
    "promo_until": null,
    "is_promo": false,
-   "source_ok": "2026-10-14T15:44:26.754056+02:00"
+   "source_ok": "2026-10-14T15:45:40.916970+02:00"
   },
   {
    "id": "dazn-de-unlimited",
@@ -326,7 +326,7 @@
    "checked": "2026-10-14",
    "promo_until": null,
    "is_promo": false,
-   "source_ok": "2026-10-14T15:44:26.754056+02:00"
+   "source_ok": "2026-10-14T15:45:40.916970+02:00"
   },
   {
    "id": "dazn-be-total",
@@ -348,7 +348,7 @@
    "checked": "2026-10-14",
    "promo_until": null,
    "is_promo": false,
-   "source_ok": "2026-10-14T15:44:26.754056+02:00"
+   "source_ok": "2026-10-14T15:45:40.916970+02:00"
   },
   {
    "id": "dazn-pt-motores",
@@ -370,7 +370,7 @@
    "checked": "2026-10-14",
    "promo_until": null,
    "is_promo": false,
-   "source_ok": "2026-10-14T15:44:26.754056+02:00"
+   "source_ok": "2026-10-14T15:45:40.916970+02:00"
   },
   {
    "id": "dazn-pt-base",
@@ -392,7 +392,7 @@
    "checked": "2026-10-14",
    "promo_until": null,
    "is_promo": false,
-   "source_ok": "2026-10-14T15:44:26.754056+02:00"
+   "source_ok": "2026-10-14T15:45:40.916970+02:00"
   },
   {
    "id": "dazn-pt-total",
@@ -414,7 +414,7 @@
    "checked": "2026-10-14",
    "promo_until": null,
    "is_promo": false,
-   "source_ok": "2026-10-14T15:44:26.754056+02:00"
+   "source_ok": "2026-10-14T15:45:40.916970+02:00"
   },
   {
    "id": "zattoo-de-smart",
@@ -435,7 +435,8 @@
    "source": "https://zattoo.com/de/en/offers",
    "checked": "2026-10-14",
    "promo_until": null,
-   "is_promo": false
+   "is_promo": false,
+   "source_ok": "2026-10-14T15:45:40.916970+02:00"
   },
   {
    "id": "zattoo-de-premium",
@@ -456,7 +457,8 @@
    "source": "https://zattoo.com/de/en/offers",
    "checked": "2026-10-14",
    "promo_until": null,
-   "is_promo": false
+   "is_promo": false,
+   "source_ok": "2026-10-14T15:45:40.916970+02:00"
   },
   {
    "id": "zattoo-de-ultimate",
@@ -477,7 +479,8 @@
    "source": "https://zattoo.com/de/en/offers",
    "checked": "2026-10-14",
    "promo_until": null,
-   "is_promo": false
+   "is_promo": false,
+   "source_ok": "2026-10-14T15:45:40.916970+02:00"
   },
   {
    "id": "zattoo-at-premium",
@@ -498,7 +501,8 @@
    "source": "https://zattoo.com/at/en/offers",
    "checked": "2026-10-14",
    "promo_until": null,
-   "is_promo": false
+   "is_promo": false,
+   "source_ok": "2026-10-14T15:45:40.916970+02:00"
   },
   {
    "id": "zattoo-at-ultimate",
@@ -519,7 +523,8 @@
    "source": "https://zattoo.com/at/en/offers",
    "checked": "2026-10-14",
    "promo_until": null,
-   "is_promo": false
+   "is_promo": false,
+   "source_ok": "2026-10-14T15:45:40.916970+02:00"
   },
   {
    "id": "teleboy-tv",
@@ -563,7 +568,7 @@
    "checked": "2026-10-14",
    "promo_until": null,
    "is_promo": false,
-   "source_ok": "2026-10-14T15:44:26.754056+02:00"
+   "source_ok": "2026-10-14T15:45:40.916970+02:00"
   },
   {
    "id": "psplus-extra",
@@ -585,7 +590,7 @@
    "checked": "2026-10-14",
    "promo_until": null,
    "is_promo": false,
-   "source_ok": "2026-10-14T15:44:26.754056+02:00"
+   "source_ok": "2026-10-14T15:45:40.916970+02:00"
   },
   {
    "id": "psplus-premium",
@@ -607,7 +612,7 @@
    "checked": "2026-10-14",
    "promo_until": null,
    "is_promo": false,
-   "source_ok": "2026-10-14T15:44:26.754056+02:00"
+   "source_ok": "2026-10-14T15:45:40.916970+02:00"
   },
   {
    "id": "timvision-base",
@@ -629,7 +634,7 @@
    "checked": "2026-10-14",
    "promo_until": null,
    "is_promo": true,
-   "source_ok": "2026-10-14T15:44:26.754056+02:00"
+   "source_ok": "2026-10-14T15:45:40.916970+02:00"
   },
   {
    "id": "timvision-m",
@@ -651,7 +656,7 @@
    "checked": "2026-10-14",
    "promo_until": null,
    "is_promo": true,
-   "source_ok": "2026-10-14T15:44:26.754056+02:00"
+   "source_ok": "2026-10-14T15:45:40.916970+02:00"
   },
   {
    "id": "timvision-l",
@@ -673,7 +678,7 @@
    "checked": "2026-10-14",
    "promo_until": null,
    "is_promo": true,
-   "source_ok": "2026-10-14T15:44:26.754056+02:00"
+   "source_ok": "2026-10-14T15:45:40.916970+02:00"
   },
   {
    "id": "timvision-m-myclub",
@@ -695,7 +700,7 @@
    "checked": "2026-10-14",
    "promo_until": null,
    "is_promo": true,
-   "source_ok": "2026-10-14T15:44:26.754056+02:00"
+   "source_ok": "2026-10-14T15:45:40.916970+02:00"
   },
   {
    "id": "timvision-l-myclub",
@@ -717,7 +722,7 @@
    "checked": "2026-10-14",
    "promo_until": null,
    "is_promo": true,
-   "source_ok": "2026-10-14T15:44:26.754056+02:00"
+   "source_ok": "2026-10-14T15:45:40.916970+02:00"
   },
   {
    "id": "timvision-m-dazn",
@@ -739,7 +744,7 @@
    "checked": "2026-10-14",
    "promo_until": null,
    "is_promo": true,
-   "source_ok": "2026-10-14T15:44:26.754056+02:00"
+   "source_ok": "2026-10-14T15:45:40.916970+02:00"
   },
   {
    "id": "timvision-l-dazn",
@@ -761,7 +766,7 @@
    "checked": "2026-10-14",
    "promo_until": null,
    "is_promo": true,
-   "source_ok": "2026-10-14T15:44:26.754056+02:00"
+   "source_ok": "2026-10-14T15:45:40.916970+02:00"
   },
   {
    "id": "timvision-dazn-prime",
@@ -783,7 +788,7 @@
    "checked": "2026-10-14",
    "promo_until": null,
    "is_promo": true,
-   "source_ok": "2026-10-14T15:44:26.754056+02:00"
+   "source_ok": "2026-10-14T15:45:40.916970+02:00"
   },
   {
    "id": "timvision-myclub-prime",
@@ -805,7 +810,7 @@
    "checked": "2026-10-14",
    "promo_until": null,
    "is_promo": true,
-   "source_ok": "2026-10-14T15:44:26.754056+02:00"
+   "source_ok": "2026-10-14T15:45:40.916970+02:00"
   },
   {
    "id": "tim-wifi-casa",
@@ -827,7 +832,7 @@
    "checked": "2026-10-14",
    "promo_until": null,
    "is_promo": false,
-   "source_ok": "2026-10-14T15:44:26.754056+02:00"
+   "source_ok": "2026-10-14T15:45:40.916970+02:00"
   },
   {
    "id": "tim-premium-base",
@@ -849,7 +854,7 @@
    "checked": "2026-10-14",
    "promo_until": "2026-10-31",
    "is_promo": false,
-   "source_ok": "2026-10-14T15:44:26.754056+02:00"
+   "source_ok": "2026-10-14T15:45:40.916970+02:00"
   },
   {
    "id": "windtre-super-fibra",
@@ -892,7 +897,7 @@
    "checked": "2026-10-14",
    "promo_until": "2026-10-31",
    "is_promo": false,
-   "source_ok": "2026-10-14T15:44:26.754056+02:00"
+   "source_ok": "2026-10-14T15:45:40.916970+02:00"
   },
   {
    "id": "vodafone-casa-pro",
@@ -914,7 +919,7 @@
    "checked": "2026-10-14",
    "promo_until": null,
    "is_promo": false,
-   "source_ok": "2026-10-14T15:44:26.754056+02:00"
+   "source_ok": "2026-10-14T15:45:40.916970+02:00"
   },
   {
    "id": "fastweb-casa-start",
@@ -936,7 +941,7 @@
    "checked": "2026-10-14",
    "promo_until": null,
    "is_promo": false,
-   "source_ok": "2026-10-14T15:44:26.754056+02:00"
+   "source_ok": "2026-10-14T15:45:40.916970+02:00"
   },
   {
    "id": "fastweb-casa-pro",
@@ -958,7 +963,7 @@
    "checked": "2026-10-14",
    "promo_until": null,
    "is_promo": false,
-   "source_ok": "2026-10-14T15:44:26.754056+02:00"
+   "source_ok": "2026-10-14T15:45:40.916970+02:00"
   },
   {
    "id": "fastweb-casa-ultra",
@@ -980,7 +985,7 @@
    "checked": "2026-10-14",
    "promo_until": null,
    "is_promo": false,
-   "source_ok": "2026-10-14T15:44:26.754056+02:00"
+   "source_ok": "2026-10-14T15:45:40.916970+02:00"
   },
   {
    "id": "iliadbox",
@@ -1002,7 +1007,7 @@
    "checked": "2026-10-14",
    "promo_until": null,
    "is_promo": false,
-   "source_ok": "2026-10-14T15:44:26.754056+02:00"
+   "source_ok": "2026-10-14T15:45:40.916970+02:00"
   },
   {
    "id": "iliadbox-super",
@@ -1024,7 +1029,7 @@
    "checked": "2026-10-14",
    "promo_until": null,
    "is_promo": false,
-   "source_ok": "2026-10-14T15:44:26.754056+02:00"
+   "source_ok": "2026-10-14T15:45:40.916970+02:00"
   },
   {
    "id": "sky-wifi-fibra",
@@ -1048,5 +1053,5 @@
    "is_promo": false
   }
  ],
- "updated": "2026-10-14T15:44:26.754056+02:00"
+ "updated": "2026-10-14T15:45:40.916970+02:00"
 }

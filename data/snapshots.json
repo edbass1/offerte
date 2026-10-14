@@ -9,7 +9,7 @@
    "51,90€",
    "59,90€"
   ],
-  "checked": "2026-10-14T15:44:26.754056+02:00",
+  "checked": "2026-10-14T15:45:40.916970+02:00",
   "promo_words": 17
  },
  "https://www.sky.it/tv/sky-calcio": {
@@ -21,7 +21,7 @@
    "29,99€",
    "51,90€"
   ],
-  "checked": "2026-10-14T15:44:26.754056+02:00",
+  "checked": "2026-10-14T15:45:40.916970+02:00",
   "promo_words": 13
  },
  "https://www.sky.it/offerte": {
@@ -29,7 +29,7 @@
    "16,99€",
    "31,99€"
   ],
-  "checked": "2026-10-14T15:44:26.754056+02:00",
+  "checked": "2026-10-14T15:45:40.916970+02:00",
   "promo_words": 11
  },
  "https://www.dazn.com/de-DE/news/fussball/dazn-angebot-zur-champions-league-jetzt-unlimited-fuer-2499-euro-sichern/175va0epjd8z31wm00qk8bx2p4": {
@@ -69,7 +69,7 @@
    "8,99eur",
    "9,99eur"
   ],
-  "checked": "2026-10-14T15:44:26.754056+02:00",
+  "checked": "2026-10-14T15:45:40.916970+02:00",
   "promo_words": 0
  },
  "https://www.tecnoandroid.it/news/timvision-con-dazn-e-prime-sconto-per-8-mesi-da-2499-euro-1982326/": {
@@ -82,7 +82,7 @@
    "61,99eur",
    "7,99eur"
   ],
-  "checked": "2026-10-14T15:44:26.754056+02:00",
+  "checked": "2026-10-14T15:45:40.916970+02:00",
   "promo_words": 9
  },
  "https://selectra.net/internet/guida/offerte/fibra-ottica": {
@@ -111,7 +111,43 @@
    "4,99€",
    "9,99€"
   ],
-  "checked": "2026-10-14T15:44:26.754056+02:00",
+  "checked": "2026-10-14T15:45:40.916970+02:00",
   "promo_words": 27
+ },
+ "https://zattoo.com/de/en/offers": {
+  "prices": [
+   "1.99€",
+   "10.90€",
+   "11.99€",
+   "13.99€",
+   "2,99€",
+   "2.90€",
+   "2.99€",
+   "3.99€",
+   "4.99€",
+   "5.90€",
+   "5.99€",
+   "6.90€",
+   "6.99€",
+   "7.90€",
+   "9.90€",
+   "9.99€",
+   "€4.99",
+   "€59.99"
+  ],
+  "checked": "2026-10-14T15:45:40.916970+02:00",
+  "promo_words": 0
+ },
+ "https://zattoo.com/at/en/offers": {
+  "prices": [
+   "1.99€",
+   "11.99€",
+   "14.99€",
+   "3,99€",
+   "5,90€",
+   "6,90€"
+  ],
+  "checked": "2026-10-14T15:45:40.916970+02:00",
+  "promo_words": 0
  }
 }
