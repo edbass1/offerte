@@ -1,5 +1,5 @@
 {
- "run": "2026-10-14T17:46:19.497595+02:00",
+ "run": "2026-10-14T17:49:50.183555+02:00",
  "sources": [
   {
    "service": "Sky TV",
@@ -164,9 +164,10 @@
   },
   {
    "service": "Sky Wifi",
-   "url": "https://www.sky.it/offerte/sky-wifi",
-   "ok": false,
-   "error": "404 Client Error: Not Found for url: https://www.sky.it/offerte/sky-wifi"
+   "url": "https://www.sky.it/offerte",
+   "ok": true,
+   "prices_found": 2,
+   "promo_words": 11
   }
  ],
  "events": 0
