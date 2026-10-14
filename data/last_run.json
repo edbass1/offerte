@@ -1,5 +1,5 @@
 {
- "run": "2026-10-14T17:36:05.008522+02:00",
+ "run": "2026-10-14T17:37:17.894764+02:00",
  "sources": [
   {
    "service": "Sky TV",
@@ -25,10 +25,8 @@
   {
    "service": "DAZN",
    "url": "https://www.dazn.com/es-ES/welcome",
-   "ok": true,
-   "prices_found": 0,
-   "promo_words": 0,
-   "note": "nessun prezzo nel testo (pagina dinamica?) - mantenuti ultimi valori noti"
+   "ok": false,
+   "error": "403 Client Error: Forbidden for url: https://www.dazn.com/es-ES/welcome"
   },
   {
    "service": "DAZN",
@@ -49,9 +47,8 @@
   {
    "service": "DAZN",
    "url": "https://www.dazn.com/de-DE/news/fussball/dazn-angebot-zur-champions-league-jetzt-unlimited-fuer-2499-euro-sichern/175va0epjd8z31wm00qk8bx2p4",
-   "ok": true,
-   "prices_found": 3,
-   "promo_words": 23
+   "ok": false,
+   "error": "403 Client Error: Forbidden for url: https://www.dazn.com/de-DE/news/fussball/dazn-angebot-zur-champions-league-jetzt-unlimited-fuer-2499-euro-sichern/175va0epjd8z31wm00qk8bx2p4"
   },
   {
    "service": "DAZN",
@@ -72,28 +69,30 @@
   {
    "service": "Zattoo",
    "url": "https://zattoo.com/de/en/offers",
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='zattoo.com', port=443): Max retries exceeded with url: /de/en/offers (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of prot"
+   "ok": true,
+   "prices_found": 18,
+   "promo_words": 0
   },
   {
    "service": "Zattoo",
    "url": "https://zattoo.com/at/en/offers",
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='zattoo.com', port=443): Max retries exceeded with url: /at/en/offers (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of prot"
+   "ok": true,
+   "prices_found": 6,
+   "promo_words": 0
   },
   {
    "service": "Teleboy",
    "url": "https://www.teleboy.ch/tv",
-   "ok": true,
-   "prices_found": 3,
-   "promo_words": 5
+   "ok": false,
+   "error": "403 Client Error: Forbidden for url: https://www.teleboy.ch/tv"
   },
   {
    "service": "PlayStation Plus",
-   "url": "https://www.mondomobileweb.it/320325-playstation-plus-aumento-di-prezzo-per-tutti-i-piani-in-versione-mensile-e-trimestrale/",
+   "url": "https://store.playstation.com/it-it/pages/subscriptions",
    "ok": true,
-   "prices_found": 16,
-   "promo_words": 0
+   "prices_found": 0,
+   "promo_words": 1,
+   "note": "nessun prezzo nel testo (pagina dinamica?) - mantenuti ultimi valori noti"
   },
   {
    "service": "TIM",
@@ -105,39 +104,55 @@
   },
   {
    "service": "TIM",
-   "url": "https://www.tecnoandroid.it/news/timvision-con-dazn-e-prime-sconto-per-8-mesi-da-2499-euro-1982326/",
-   "ok": true,
-   "prices_found": 7,
-   "promo_words": 9
-  },
-  {
-   "service": "TIM",
-   "url": "https://www.tim.it/fisso-e-mobile/fibra-e-adsl/fibra-calcio",
+   "url": "https://www.tim.it/fisso-e-mobile/fibra-e-adsl/fibra-wifi-casa",
    "ok": true,
    "prices_found": 0,
-   "promo_words": 320,
+   "promo_words": 136,
    "note": "nessun prezzo nel testo (pagina dinamica?) - mantenuti ultimi valori noti"
   },
   {
    "service": "TIM",
-   "url": "https://selectra.net/internet/guida/offerte/fibra-ottica",
+   "url": "https://www.tim.it/offerte-tv/timvision-dazn",
    "ok": true,
-   "prices_found": 23,
-   "promo_words": 27
+   "prices_found": 0,
+   "promo_words": 99,
+   "note": "nessun prezzo nel testo (pagina dinamica?) - mantenuti ultimi valori noti"
+  },
+  {
+   "service": "WindTre",
+   "url": "https://www.windtre.it/offerte-fibra/super-fibra-internet-a-casa",
+   "ok": true,
+   "prices_found": 10,
+   "promo_words": 6
   },
   {
    "service": "Vodafone",
-   "url": "https://selectra.net/internet/guida/offerte/fibra-ottica",
+   "url": "https://www.vodafone.it/privati/area-supporto/contratti-aggiornamenti/condizioni-generali-reti-servizi/tariffe/contratti-attivabili/casa-start.html",
    "ok": true,
-   "prices_found": 23,
-   "promo_words": 27
+   "prices_found": 0,
+   "promo_words": 1,
+   "note": "nessun prezzo nel testo (pagina dinamica?) - mantenuti ultimi valori noti"
   },
   {
    "service": "Fastweb",
-   "url": "https://selectra.net/internet/guida/offerte/fibra-ottica",
+   "url": "https://www.fastweb.it/adsl-fibra-ottica/fastweb-casa-start/",
    "ok": true,
-   "prices_found": 23,
-   "promo_words": 27
+   "prices_found": 15,
+   "promo_words": 15
+  },
+  {
+   "service": "Fastweb",
+   "url": "https://www.fastweb.it/adsl-fibra-ottica/fastweb-casa-pro/",
+   "ok": true,
+   "prices_found": 14,
+   "promo_words": 15
+  },
+  {
+   "service": "Fastweb",
+   "url": "https://www.fastweb.it/adsl-fibra-ottica/fastweb-casa-ultra/",
+   "ok": true,
+   "prices_found": 16,
+   "promo_words": 15
   },
   {
    "service": "Iliad",
@@ -148,12 +163,11 @@
    "note": "nessun prezzo nel testo (pagina dinamica?) - mantenuti ultimi valori noti"
   },
   {
-   "service": "Iliad",
-   "url": "https://selectra.net/internet/guida/offerte/fibra-ottica",
-   "ok": true,
-   "prices_found": 23,
-   "promo_words": 27
+   "service": "Sky Wifi",
+   "url": "https://www.sky.it/offerte/sky-wifi",
+   "ok": false,
+   "error": "404 Client Error: Not Found for url: https://www.sky.it/offerte/sky-wifi"
   }
  ],
- "events": 2
+ "events": 0
 }
