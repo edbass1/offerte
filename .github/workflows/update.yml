@@ -10,6 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with: {ref: main}
       - uses: actions/setup-python@v5
         with: {python-version: "3.12"}
       - run: pip install requests beautifulsoup4
@@ -19,6 +20,7 @@ jobs:
           git config user.name "offerte-bot"; git config user.email "actions@users.noreply.github.com"
           git add -A data docs
           git diff --cached --quiet || git commit -m "Aggiornamento automatico $(TZ=Europe/Rome date '+%Y-%m-%d %H:%M')"
+          git pull --rebase -X theirs origin main || true
           git push
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
