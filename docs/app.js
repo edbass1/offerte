@@ -18,6 +18,8 @@ fetch("data.json?"+Date.now()).then(r=>r.json()).then(d=>{$("upd").textContent=d
    const pr=f.filter(o=>o.is_promo&&!(o.promo_until&&o.promo_until<today));
    $("promos").innerHTML=pr.length?`<h2>🔥 Promozioni attive (${pr.length})</h2><div class="grid">${pr.map(card).join("")}</div>`:"";
    const by={};f.forEach(o=>(by[o.service]=by[o.service]||[]).push(o));
+   const nw=(d.news||[]).filter(n=>(!q||JSON.stringify(n).toLowerCase().includes(q))&&(!k||n.country==k)).slice(0,12);
+   $("news").innerHTML=nw.length?`<h2>📰 Novità rilevate (ultimi 30 giorni)</h2><div class="card"><table>${nw.map(n=>`<tr><td style="white-space:nowrap">${esc(n.date.slice(0,10).split("-").reverse().join("/"))}</td><td><span class="badge">${esc(n.service)} ${esc(n.country)}</span></td><td><a href="${esc(n.source)}" target="_blank" rel="noopener">${esc(n.text)}</a></td></tr>`).join("")}</table></div>`:"";
    $("list").innerHTML=Object.entries(by).map(([s,l])=>`<h2>${esc(s)} (${l.length})</h2><div class="grid">${l.map(card).join("")}</div>`).join("")||"<p>Nessun risultato.</p>"};
   ["q","cat","cty","onlyPromo"].forEach(i=>$(i).addEventListener("input",render));render()}
  if($("h")){const rh=()=>{const q=$("hq").value.toLowerCase();$("h").innerHTML=d.history.filter(e=>!q||JSON.stringify(e).toLowerCase().includes(q)).map(e=>`<tr><td>${esc((e.date||"").slice(0,16).replace("T"," "))}</td><td>${esc(e.type)}</td><td>${esc(e.service)} ${esc(e.country||"")}</td><td>${esc(e.text)}</td><td>${e.source?`<a href="${esc(e.source)}" target="_blank">link</a>`:""}</td></tr>`).join("")};

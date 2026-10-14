@@ -71,6 +71,7 @@ def main():
             except Exception as e:
                 entry.update(ok=False, error=str(e)[:200])
             log["sources"].append(entry)
+    events += check_news(cfg, ts)
     # promo scadute
     today = ts.date().isoformat()
     for o in offers.values():
@@ -87,6 +88,35 @@ def main():
     log["events"] = len(events); LOG.write_text(json.dumps(log, ensure_ascii=False, indent=1))
     build_site(data, log)
     ok = sum(1 for s in log["sources"] if s.get("ok")); print(f"fonti ok {ok}/{len(log['sources'])}, eventi {len(events)}")
+
+NEWS = ROOT / "data/news.json"
+KEYW = re.compile(r"(€|euro|precio|prezz|offert|oferta|promo|scont|descuento|rebaja|gratis|aument|sube|tarif|canone)", re.I)
+def check_news(cfg, ts):
+    import xml.etree.ElementTree as ET, urllib.parse, email.utils
+    news = load(NEWS, {"seen": [], "items": []}); seen = set(news["seen"]); ev = []
+    first = not news["seen"]
+    for f in cfg.get("news_feeds", []):
+        url = "https://news.google.com/rss/search?q=" + urllib.parse.quote(f["query"] + " when:30d") + \
+              f"&hl={f['hl']}&gl={f['gl']}&ceid={f['gl']}:{f['hl']}"
+        try:
+            root = ET.fromstring(requests.get(url, headers=UA, timeout=20).content)
+        except Exception as e:
+            print("news fail", f["query"], e); continue
+        for it in root.iter("item"):
+            title = it.findtext("title") or ""; link = it.findtext("link") or ""
+            key = re.sub(r"\W+", "", title.lower())[:120]
+            if key in seen or not KEYW.search(title): continue
+            seen.add(key)
+            try: pub = email.utils.parsedate_to_datetime(it.findtext("pubDate")).astimezone(TZ)
+            except Exception: pub = ts
+            if (ts - pub).days > 30: continue
+            item = dict(date=pub.isoformat(), type="novita", service=f["service"], country=f["country"],
+                        text=title, source=link, query=f["query"], found=ts.isoformat())
+            news["items"].append(item); ev.append(item)
+    news["items"] = sorted(news["items"], key=lambda x: x["date"], reverse=True)[:150]
+    news["seen"] = sorted(seen)[-3000:]
+    NEWS.write_text(json.dumps(news, ensure_ascii=False, indent=1))
+    return ev
 
 def build_site(data, log):
     import build_site as b

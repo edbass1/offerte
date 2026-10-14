@@ -215,5 +215,43 @@
    "category": "fibra",
    "sources": []
   }
- ]
+ ],
+ "news_feeds": [
+  {
+   "service": "DAZN",
+   "country": "ES",
+   "query": "DAZN precio oferta",
+   "hl": "es",
+   "gl": "ES"
+  },
+  {
+   "service": "DAZN",
+   "country": "ES",
+   "query": "DAZN España plan fútbol premium",
+   "hl": "es",
+   "gl": "ES"
+  },
+  {
+   "service": "TIM",
+   "country": "IT",
+   "query": "TIMVISION offerta",
+   "hl": "it",
+   "gl": "IT"
+  },
+  {
+   "service": "TIM",
+   "country": "IT",
+   "query": "offerte TIM fibra",
+   "hl": "it",
+   "gl": "IT"
+  },
+  {
+   "service": "TIM",
+   "country": "IT",
+   "query": "TIM WiFi Casa prezzo",
+   "hl": "it",
+   "gl": "IT"
+  }
+ ],
+ "_info_news": "news_feeds: query Google News RSS. Aggiungi righe per monitorare altri servizi."
 }

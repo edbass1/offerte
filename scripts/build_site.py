@@ -9,6 +9,7 @@ def build(root, data, log):
     hist.sort(key=lambda e: e.get("date", ""), reverse=True)
     upd = datetime.datetime.fromisoformat(data["updated"]).astimezone(ZoneInfo("Europe/Rome"))
     out = {"updated": upd.strftime("%d/%m/%Y %H:%M") + " (ora di Roma)", "offers": data["offers"],
-           "history": hist, "sources": log.get("sources", [])}
+           "history": hist, "sources": log.get("sources", []),
+           "news": (json.loads((root/"data/news.json").read_text())["items"][:60] if (root/"data/news.json").exists() else [])}
     (docs / "data.json").write_text(json.dumps(out, ensure_ascii=False))
     (docs / ".nojekyll").write_text("")

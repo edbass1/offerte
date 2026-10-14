@@ -20,7 +20,7 @@
    "checked": "2026-10-14",
    "promo_until": "2026-10-25",
    "is_promo": true,
-   "source_ok": "2026-10-14T15:47:36.954649+02:00"
+   "source_ok": "2026-10-14T16:00:33.948975+02:00"
   },
   {
    "id": "sky-tv-calcio-cinema",
@@ -42,7 +42,7 @@
    "checked": "2026-10-14",
    "promo_until": "2026-10-25",
    "is_promo": true,
-   "source_ok": "2026-10-14T15:47:36.954649+02:00"
+   "source_ok": "2026-10-14T16:00:33.948975+02:00"
   },
   {
    "id": "sky-tv-sport",
@@ -64,7 +64,7 @@
    "checked": "2026-10-14",
    "promo_until": "2026-10-25",
    "is_promo": true,
-   "source_ok": "2026-10-14T15:47:36.954649+02:00"
+   "source_ok": "2026-10-14T16:00:33.948975+02:00"
   },
   {
    "id": "sky-tv-netflix",
@@ -86,7 +86,7 @@
    "checked": "2026-10-14",
    "promo_until": "2026-10-25",
    "is_promo": true,
-   "source_ok": "2026-10-14T15:47:36.954649+02:00"
+   "source_ok": "2026-10-14T16:00:33.948975+02:00"
   },
   {
    "id": "sky-glass-plus-cinema-calcio",
@@ -137,7 +137,7 @@
    "country": "ES",
    "name": "DAZN Fútbol",
    "price": "29,99 €/mese (mensile) · 19,99 €/mese (annuale rate) · 219,99 € (annuale unico)",
-   "promo_price": "14,99 €/mese (annuale)",
+   "promo_price": "14,99 €/mese (annuale rate, 179,88 €/anno) · 164,99 € annuale unico",
    "promo_duration": "12 mesi",
    "price_after": "19,99 €/mese",
    "activation": "0 €",
@@ -145,12 +145,12 @@
    "calls": "—",
    "modem": "—",
    "speed": "—",
-   "notes": "Promo sito ufficiale",
-   "source": "https://www.dazn.com/es-ES/welcome",
+   "notes": "Promo inizio stagione 2026/27 (~25% sconto); mensile senza vincolo resta 29,99 €",
+   "source": "https://www.mundoplus.tv/streaming/nueva-oferta-de-dazn-para-ver-futbol-hasta-un-25-de-descuento/",
    "checked": "2026-10-14",
    "promo_until": null,
    "is_promo": true,
-   "source_ok": "2026-10-14T15:44:26.754056+02:00"
+   "source_ok": "2026-10-14T16:00:33.948975+02:00"
   },
   {
    "id": "dazn-es-motor",
@@ -167,12 +167,12 @@
    "calls": "—",
    "modem": "—",
    "speed": "—",
-   "notes": "",
+   "notes": "Nessuna promo trovata (set–ott 2026)",
    "source": "https://www.dazn.com/es-ES/help/articles/16184063399709-planes-precios-y-contenidos-de-dazn",
    "checked": "2026-10-14",
    "promo_until": null,
    "is_promo": false,
-   "source_ok": "2026-10-14T15:47:36.954649+02:00"
+   "source_ok": "2026-10-14T16:00:33.948975+02:00"
   },
   {
    "id": "dazn-es-premium",
@@ -181,7 +181,7 @@
    "country": "ES",
    "name": "DAZN Premium",
    "price": "44,99 €/mese (mensile) · 31,99 €/mese (annuale rate) · 351,99 € (annuale unico)",
-   "promo_price": "25,99 €/mese (annuale)",
+   "promo_price": "25,99 €/mese (annuale rate, 311,88 €/anno) · 285,99 € annuale unico",
    "promo_duration": "12 mesi",
    "price_after": "31,99 €/mese",
    "activation": "0 €",
@@ -189,12 +189,12 @@
    "calls": "—",
    "modem": "—",
    "speed": "—",
-   "notes": "Promo sito ufficiale",
-   "source": "https://www.dazn.com/es-ES/welcome",
+   "notes": "Mensile senza vincolo resta 44,99 € (no sconto)",
+   "source": "https://www.mundoplus.tv/streaming/nueva-oferta-de-dazn-para-ver-futbol-hasta-un-25-de-descuento/",
    "checked": "2026-10-14",
    "promo_until": null,
    "is_promo": true,
-   "source_ok": "2026-10-14T15:44:26.754056+02:00"
+   "source_ok": "2026-10-14T16:00:33.948975+02:00"
   },
   {
    "id": "dazn-es-baloncesto",
@@ -211,12 +211,12 @@
    "calls": "—",
    "modem": "—",
    "speed": "—",
-   "notes": "",
+   "notes": "Nessuna promo trovata (set–ott 2026)",
    "source": "https://www.dazn.com/es-ES/help/articles/16184063399709-planes-precios-y-contenidos-de-dazn",
    "checked": "2026-10-14",
    "promo_until": null,
    "is_promo": false,
-   "source_ok": "2026-10-14T15:47:36.954649+02:00"
+   "source_ok": "2026-10-14T16:00:33.948975+02:00"
   },
   {
    "id": "dazn-es-usa",
@@ -233,12 +233,12 @@
    "calls": "—",
    "modem": "—",
    "speed": "—",
-   "notes": "",
+   "notes": "Nessuna promo trovata (set–ott 2026)",
    "source": "https://www.dazn.com/es-ES/help/articles/16184063399709-planes-precios-y-contenidos-de-dazn",
    "checked": "2026-10-14",
    "promo_until": null,
    "is_promo": false,
-   "source_ok": "2026-10-14T15:47:36.954649+02:00"
+   "source_ok": "2026-10-14T16:00:33.948975+02:00"
   },
   {
    "id": "dazn-de-mobile",
@@ -260,7 +260,7 @@
    "checked": "2026-10-14",
    "promo_until": null,
    "is_promo": false,
-   "source_ok": "2026-10-14T15:47:36.954649+02:00"
+   "source_ok": "2026-10-14T16:00:33.948975+02:00"
   },
   {
    "id": "dazn-de-super",
@@ -282,7 +282,7 @@
    "checked": "2026-10-14",
    "promo_until": null,
    "is_promo": false,
-   "source_ok": "2026-10-14T15:47:36.954649+02:00"
+   "source_ok": "2026-10-14T16:00:33.948975+02:00"
   },
   {
    "id": "dazn-de-unlimited",
@@ -304,7 +304,7 @@
    "checked": "2026-10-14",
    "promo_until": null,
    "is_promo": true,
-   "source_ok": "2026-10-14T15:44:26.754056+02:00"
+   "source_ok": "2026-10-14T16:00:33.948975+02:00"
   },
   {
    "id": "dazn-de-unlimited-plus",
@@ -326,7 +326,7 @@
    "checked": "2026-10-14",
    "promo_until": null,
    "is_promo": false,
-   "source_ok": "2026-10-14T15:47:36.954649+02:00"
+   "source_ok": "2026-10-14T16:00:33.948975+02:00"
   },
   {
    "id": "dazn-be-total",
@@ -348,7 +348,7 @@
    "checked": "2026-10-14",
    "promo_until": null,
    "is_promo": false,
-   "source_ok": "2026-10-14T15:47:36.954649+02:00"
+   "source_ok": "2026-10-14T16:00:33.948975+02:00"
   },
   {
    "id": "dazn-pt-motores",
@@ -370,7 +370,7 @@
    "checked": "2026-10-14",
    "promo_until": null,
    "is_promo": false,
-   "source_ok": "2026-10-14T15:47:36.954649+02:00"
+   "source_ok": "2026-10-14T16:00:33.948975+02:00"
   },
   {
    "id": "dazn-pt-base",
@@ -392,7 +392,7 @@
    "checked": "2026-10-14",
    "promo_until": null,
    "is_promo": false,
-   "source_ok": "2026-10-14T15:47:36.954649+02:00"
+   "source_ok": "2026-10-14T16:00:33.948975+02:00"
   },
   {
    "id": "dazn-pt-total",
@@ -414,7 +414,7 @@
    "checked": "2026-10-14",
    "promo_until": null,
    "is_promo": false,
-   "source_ok": "2026-10-14T15:47:36.954649+02:00"
+   "source_ok": "2026-10-14T16:00:33.948975+02:00"
   },
   {
    "id": "zattoo-de-smart",
@@ -546,7 +546,7 @@
    "checked": "2026-10-14",
    "promo_until": null,
    "is_promo": true,
-   "source_ok": "2026-10-14T15:44:26.754056+02:00"
+   "source_ok": "2026-10-14T16:00:33.948975+02:00"
   },
   {
    "id": "psplus-essential",
@@ -568,7 +568,7 @@
    "checked": "2026-10-14",
    "promo_until": null,
    "is_promo": false,
-   "source_ok": "2026-10-14T15:47:36.954649+02:00"
+   "source_ok": "2026-10-14T16:00:33.948975+02:00"
   },
   {
    "id": "psplus-extra",
@@ -590,7 +590,7 @@
    "checked": "2026-10-14",
    "promo_until": null,
    "is_promo": false,
-   "source_ok": "2026-10-14T15:47:36.954649+02:00"
+   "source_ok": "2026-10-14T16:00:33.948975+02:00"
   },
   {
    "id": "psplus-premium",
@@ -612,29 +612,29 @@
    "checked": "2026-10-14",
    "promo_until": null,
    "is_promo": false,
-   "source_ok": "2026-10-14T15:47:36.954649+02:00"
+   "source_ok": "2026-10-14T16:00:33.948975+02:00"
   },
   {
    "id": "timvision-base",
    "service": "TIM",
    "category": "bundle-streaming",
    "country": "IT",
-   "name": "TIMVISION (Netflix + HBO Max)",
+   "name": "TIMVISION S (Netflix Std c/pubbl. + HBO Max + Infinity+)",
    "price": "14,99 €/mese",
    "promo_price": "8 €/mese",
    "promo_duration": "12 mesi",
    "price_after": "14,99 €/mese",
-   "activation": "n/d",
-   "vincolo": "n/d",
+   "activation": "Contributo 24 € in 24 rate da 1 €, azzerate da sconto (dovute le rate residue se recedi)",
+   "vincolo": "Abbonamento annuale (12 rate)",
    "calls": "—",
    "modem": "—",
    "speed": "—",
-   "notes": "",
+   "notes": "Primo anno 96 € anziché 179,88 €",
    "source": "https://www.tim.it/offerte-tv",
    "checked": "2026-10-14",
-   "promo_until": null,
+   "promo_until": "2026-10-24",
    "is_promo": true,
-   "source_ok": "2026-10-14T15:47:36.954649+02:00"
+   "source_ok": "2026-10-14T16:00:33.948975+02:00"
   },
   {
    "id": "timvision-m",
@@ -646,17 +646,17 @@
    "promo_price": "12 €/mese",
    "promo_duration": "12 mesi",
    "price_after": "18,99 €/mese",
-   "activation": "n/d",
-   "vincolo": "n/d",
+   "activation": "Contributo 24 € in 24 rate da 1 €, azzerate da sconto (dovute le rate residue se recedi)",
+   "vincolo": "Abbonamento annuale (12 rate)",
    "calls": "—",
    "modem": "—",
    "speed": "—",
    "notes": "",
    "source": "https://www.tim.it/offerte-tv",
    "checked": "2026-10-14",
-   "promo_until": null,
+   "promo_until": "2026-10-24",
    "is_promo": true,
-   "source_ok": "2026-10-14T15:47:36.954649+02:00"
+   "source_ok": "2026-10-14T16:00:33.948975+02:00"
   },
   {
    "id": "timvision-l",
@@ -668,17 +668,17 @@
    "promo_price": "14 €/mese",
    "promo_duration": "12 mesi",
    "price_after": "20,99 €/mese",
-   "activation": "n/d",
-   "vincolo": "n/d",
+   "activation": "Contributo 24 € in 24 rate da 1 €, azzerate da sconto (dovute le rate residue se recedi)",
+   "vincolo": "Abbonamento annuale (12 rate)",
    "calls": "—",
    "modem": "—",
    "speed": "—",
    "notes": "",
    "source": "https://www.tim.it/offerte-tv",
    "checked": "2026-10-14",
-   "promo_until": null,
+   "promo_until": "2026-10-24",
    "is_promo": true,
-   "source_ok": "2026-10-14T15:47:36.954649+02:00"
+   "source_ok": "2026-10-14T16:00:33.948975+02:00"
   },
   {
    "id": "timvision-m-myclub",
@@ -690,17 +690,17 @@
    "promo_price": "27 €/mese",
    "promo_duration": "12 mesi",
    "price_after": "n/d",
-   "activation": "n/d",
-   "vincolo": "n/d",
+   "activation": "Contributo 24 € in 24 rate da 1 €, azzerate da sconto (dovute le rate residue se recedi)",
+   "vincolo": "Abbonamento annuale (12 rate)",
    "calls": "—",
    "modem": "—",
    "speed": "—",
    "notes": "",
    "source": "https://www.tim.it/offerte-tv",
    "checked": "2026-10-14",
-   "promo_until": null,
+   "promo_until": "2026-10-24",
    "is_promo": true,
-   "source_ok": "2026-10-14T15:47:36.954649+02:00"
+   "source_ok": "2026-10-14T16:00:33.948975+02:00"
   },
   {
    "id": "timvision-l-myclub",
@@ -712,17 +712,17 @@
    "promo_price": "29 €/mese",
    "promo_duration": "12 mesi",
    "price_after": "n/d",
-   "activation": "n/d",
-   "vincolo": "n/d",
+   "activation": "Contributo 24 € in 24 rate da 1 €, azzerate da sconto (dovute le rate residue se recedi)",
+   "vincolo": "Abbonamento annuale (12 rate)",
    "calls": "—",
    "modem": "—",
    "speed": "—",
    "notes": "",
    "source": "https://www.tim.it/offerte-tv",
    "checked": "2026-10-14",
-   "promo_until": null,
+   "promo_until": "2026-10-24",
    "is_promo": true,
-   "source_ok": "2026-10-14T15:47:36.954649+02:00"
+   "source_ok": "2026-10-14T16:00:33.948975+02:00"
   },
   {
    "id": "timvision-m-dazn",
@@ -730,21 +730,21 @@
    "category": "bundle-streaming",
    "country": "IT",
    "name": "TIMVISION M + DAZN Full",
-   "price": "n/d",
+   "price": "50,99 €/mese",
    "promo_price": "42 €/mese",
    "promo_duration": "12 mesi",
-   "price_after": "n/d",
-   "activation": "n/d",
-   "vincolo": "n/d",
+   "price_after": "50,99 €/mese",
+   "activation": "Contributo 24 € in 24 rate da 1 €, azzerate da sconto (dovute le rate residue se recedi)",
+   "vincolo": "Abbonamento annuale (12 rate)",
    "calls": "—",
    "modem": "—",
    "speed": "—",
-   "notes": "",
+   "notes": "Primo anno 504 € anziché 611,88 € (tim.it)",
    "source": "https://www.tim.it/offerte-tv",
    "checked": "2026-10-14",
-   "promo_until": null,
+   "promo_until": "2026-10-24",
    "is_promo": true,
-   "source_ok": "2026-10-14T15:47:36.954649+02:00"
+   "source_ok": "2026-10-14T16:00:33.948975+02:00"
   },
   {
    "id": "timvision-l-dazn",
@@ -756,17 +756,17 @@
    "promo_price": "44 €/mese",
    "promo_duration": "12 mesi",
    "price_after": "n/d",
-   "activation": "n/d",
-   "vincolo": "n/d",
+   "activation": "Contributo 24 € in 24 rate da 1 €, azzerate da sconto (dovute le rate residue se recedi)",
+   "vincolo": "Abbonamento annuale (12 rate)",
    "calls": "—",
    "modem": "—",
    "speed": "—",
-   "notes": "",
+   "notes": "tim.it mostra anche 'TIMVISION S con Netflix + DAZN' a 44 € anziché 52,99 €: possibile denominazione diversa, da verificare",
    "source": "https://www.tim.it/offerte-tv",
    "checked": "2026-10-14",
-   "promo_until": null,
+   "promo_until": "2026-10-24",
    "is_promo": true,
-   "source_ok": "2026-10-14T15:47:36.954649+02:00"
+   "source_ok": "2026-10-14T16:00:33.948975+02:00"
   },
   {
    "id": "timvision-dazn-prime",
@@ -778,17 +778,17 @@
    "promo_price": "29,99 €/mese",
    "promo_duration": "8 mesi",
    "price_after": "36,99 €/mese",
-   "activation": "n/d",
-   "vincolo": "n/d",
+   "activation": "19,99 € una tantum (gratis online)",
+   "vincolo": "12 mesi, rinnovo tacito",
    "calls": "—",
    "modem": "—",
    "speed": "—",
-   "notes": "Fonte stampa (TecnoAndroid)",
-   "source": "https://www.tecnoandroid.it/news/timvision-con-dazn-e-prime-sconto-per-8-mesi-da-2499-euro-1982326/",
+   "notes": "Promo 8 mesi per attivazioni dal 27/09/2026; Infinity+ e TIMVISION Box inclusi",
+   "source": "https://www.mondomobileweb.it/327119-timvision-con-dazn-e-prime-nuovi-prezzi-in-promo-per-8-mesi-dal-27-settembre-2026/",
    "checked": "2026-10-14",
-   "promo_until": null,
+   "promo_until": "2026-10-24",
    "is_promo": true,
-   "source_ok": "2026-10-14T15:47:36.954649+02:00"
+   "source_ok": "2026-10-14T16:00:33.948975+02:00"
   },
   {
    "id": "timvision-myclub-prime",
@@ -800,17 +800,17 @@
    "promo_price": "24,99 €/mese",
    "promo_duration": "8 mesi",
    "price_after": "29,99 €/mese",
-   "activation": "n/d",
-   "vincolo": "n/d",
+   "activation": "19,99 € una tantum (gratis online)",
+   "vincolo": "12 mesi, rinnovo tacito",
    "calls": "—",
    "modem": "—",
    "speed": "—",
-   "notes": "Fonte stampa (TecnoAndroid)",
-   "source": "https://www.tecnoandroid.it/news/timvision-con-dazn-e-prime-sconto-per-8-mesi-da-2499-euro-1982326/",
+   "notes": "Promo 8 mesi per attivazioni dal 27/09/2026; Infinity+ e TIMVISION Box inclusi",
+   "source": "https://www.mondomobileweb.it/327119-timvision-con-dazn-e-prime-nuovi-prezzi-in-promo-per-8-mesi-dal-27-settembre-2026/",
    "checked": "2026-10-14",
-   "promo_until": null,
+   "promo_until": "2026-10-24",
    "is_promo": true,
-   "source_ok": "2026-10-14T15:47:36.954649+02:00"
+   "source_ok": "2026-10-14T16:00:33.948975+02:00"
   },
   {
    "id": "tim-wifi-casa",
@@ -818,21 +818,21 @@
    "category": "fibra",
    "country": "IT",
    "name": "TIM WiFi Casa",
-   "price": "29,90 €/mese",
-   "promo_price": null,
-   "promo_duration": null,
-   "price_after": null,
-   "activation": "39,90 €",
-   "vincolo": "24 mesi",
-   "calls": "n/d",
-   "modem": "incluso",
-   "speed": "fino a 2,5 Gbps (FTTH)",
-   "notes": "Promo WiFi Casa + TV in scadenza 24/10/2026",
-   "source": "https://www.tim.it/fisso-e-mobile/fibra-e-adsl/fibra-calcio",
+   "price": "31,90 €/mese (listino)",
+   "promo_price": "27,90 €/mese nuovi clienti (sconto PROMO WiFi 4 €) · 29,90 € già clienti mobile TIM",
+   "promo_duration": "per attivazioni fino al 24/10/2026",
+   "price_after": "31,90 €/mese",
+   "activation": "39,90 € una tantum + 5 €/mese x 24 mesi (incluso nel canone)",
+   "vincolo": "24 mesi (costo disattivazione 23 € entro 24 mesi); rate modem/attivazione residue se recedi",
+   "calls": "Sì, illimitate fissi e mobili nazionali (0 € per 24+24 mesi, poi 5 €/mese)",
+   "modem": "TIM HUB+ Executive, 120 € in 48 rate (0 € primi 24 mesi, poi 5 €/mese)",
+   "speed": "2,5 Gbps / 1 Gbps (FTTH); FTTC fino a 200 Mbps; FWA",
+   "notes": "Selectra indica canone 29,90 €; ComparaSemplice 24,90 € per già clienti mobile. Include TIMVISION S a 8 € in bundle",
+   "source": "https://www.tim.it/fisso-e-mobile/fibra-e-adsl/fibra-wifi-casa",
    "checked": "2026-10-14",
-   "promo_until": null,
-   "is_promo": false,
-   "source_ok": "2026-10-14T15:47:36.954649+02:00"
+   "promo_until": "2026-10-24",
+   "is_promo": true,
+   "source_ok": "2026-10-14T16:00:33.948975+02:00"
   },
   {
    "id": "tim-premium-base",
@@ -848,13 +848,13 @@
    "vincolo": "24 mesi (prezzo bloccato)",
    "calls": "No (a consumo 0,19 €/min + 0,19 € scatto)",
    "modem": "incluso",
-   "speed": "1 Gbps / 300 Mbps",
-   "notes": "",
+   "speed": "1 Gbps / 300 Mbps (FTTH, FTTC)",
+   "notes": "Chiamate a consumo 0,19 €/min + 0,19 € scatto",
    "source": "https://selectra.net/internet/guida/offerte/fibra-ottica",
    "checked": "2026-10-14",
    "promo_until": "2026-10-31",
    "is_promo": false,
-   "source_ok": "2026-10-14T15:47:36.954649+02:00"
+   "source_ok": "2026-10-14T16:00:33.948975+02:00"
   },
   {
    "id": "windtre-super-fibra",
@@ -897,7 +897,7 @@
    "checked": "2026-10-14",
    "promo_until": "2026-10-31",
    "is_promo": false,
-   "source_ok": "2026-10-14T15:47:36.954649+02:00"
+   "source_ok": "2026-10-14T16:00:33.948975+02:00"
   },
   {
    "id": "vodafone-casa-pro",
@@ -919,7 +919,7 @@
    "checked": "2026-10-14",
    "promo_until": null,
    "is_promo": false,
-   "source_ok": "2026-10-14T15:47:36.954649+02:00"
+   "source_ok": "2026-10-14T16:00:33.948975+02:00"
   },
   {
    "id": "fastweb-casa-start",
@@ -941,7 +941,7 @@
    "checked": "2026-10-14",
    "promo_until": null,
    "is_promo": false,
-   "source_ok": "2026-10-14T15:47:36.954649+02:00"
+   "source_ok": "2026-10-14T16:00:33.948975+02:00"
   },
   {
    "id": "fastweb-casa-pro",
@@ -963,7 +963,7 @@
    "checked": "2026-10-14",
    "promo_until": null,
    "is_promo": false,
-   "source_ok": "2026-10-14T15:47:36.954649+02:00"
+   "source_ok": "2026-10-14T16:00:33.948975+02:00"
   },
   {
    "id": "fastweb-casa-ultra",
@@ -985,7 +985,7 @@
    "checked": "2026-10-14",
    "promo_until": null,
    "is_promo": false,
-   "source_ok": "2026-10-14T15:47:36.954649+02:00"
+   "source_ok": "2026-10-14T16:00:33.948975+02:00"
   },
   {
    "id": "iliadbox",
@@ -1007,7 +1007,7 @@
    "checked": "2026-10-14",
    "promo_until": null,
    "is_promo": false,
-   "source_ok": "2026-10-14T15:47:36.954649+02:00"
+   "source_ok": "2026-10-14T16:00:33.948975+02:00"
   },
   {
    "id": "iliadbox-super",
@@ -1029,7 +1029,7 @@
    "checked": "2026-10-14",
    "promo_until": null,
    "is_promo": false,
-   "source_ok": "2026-10-14T15:47:36.954649+02:00"
+   "source_ok": "2026-10-14T16:00:33.948975+02:00"
   },
   {
    "id": "sky-wifi-fibra",
@@ -1051,7 +1051,70 @@
    "checked": "2026-10-14",
    "promo_until": null,
    "is_promo": false
+  },
+  {
+   "service": "TIM",
+   "category": "bundle-streaming",
+   "country": "IT",
+   "calls": "—",
+   "modem": "—",
+   "speed": "—",
+   "checked": "2026-10-14",
+   "promo_price": "47,99 €/mese",
+   "promo_duration": "8 mesi",
+   "price_after": "61,99 €/mese",
+   "promo_until": "2026-10-24",
+   "id": "timvision-daznplus-prime",
+   "name": "TIMVISION con DAZN Plus (Family) e Prime",
+   "price": "61,99 €/mese",
+   "activation": "19,99 € una tantum (gratis online)",
+   "vincolo": "12 mesi",
+   "source": "https://www.mondomobileweb.it/327119-timvision-con-dazn-e-prime-nuovi-prezzi-in-promo-per-8-mesi-dal-27-settembre-2026/",
+   "notes": "Dal 27/09/2026",
+   "is_promo": true
+  },
+  {
+   "service": "TIM",
+   "category": "bundle-streaming",
+   "country": "IT",
+   "calls": "—",
+   "modem": "—",
+   "speed": "—",
+   "checked": "2026-10-14",
+   "promo_price": null,
+   "promo_duration": null,
+   "price_after": null,
+   "promo_until": null,
+   "id": "timvision-myclub-mobile",
+   "name": "TIMVISION con DAZN MyClubPass Mobile",
+   "price": "9,99 €/mese",
+   "activation": "0 €",
+   "vincolo": "nessuno, disattivabile quando vuoi",
+   "source": "https://magazine.tim-offerte.it/intrattenimento/dazn-in-sconto-da-999-e-al-mese-1874/",
+   "notes": "Solo smartphone",
+   "is_promo": false
+  },
+  {
+   "id": "tim-wifi-casa-10g",
+   "service": "TIM",
+   "category": "fibra",
+   "country": "IT",
+   "name": "TIM WiFi Casa con Opzione 10 Giga",
+   "price": "36,90 €/mese",
+   "promo_price": "29,90 €/mese (Promo Limited)",
+   "promo_duration": "n/d",
+   "price_after": "36,90 €/mese",
+   "activation": "39,90 € una tantum",
+   "vincolo": "24 mesi",
+   "calls": "Sì, illimitate nazionali",
+   "modem": "TIM HUB+ (a rate)",
+   "speed": "fino a 10 Gbps (solo zone XGS-PON)",
+   "notes": "ComparaSemplice indica 34,90 €",
+   "source": "https://www.tim.it/fisso-e-mobile/fibra-e-adsl/fibra-wifi-casa",
+   "checked": "2026-10-14",
+   "is_promo": true,
+   "promo_until": null
   }
  ],
- "updated": "2026-10-14T15:47:36.954649+02:00"
+ "updated": "2026-10-14T16:00:33.948975+02:00"
 }
