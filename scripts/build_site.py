@@ -35,46 +35,23 @@ def card(o, today):
 <div class="src">Verificato il: <b>{e(dt(o.get("checked")))}</b> · Data fonte: <b>{e(dt(o.get("source_date")))}</b><br><a href="{e(o["source"])}" target="_blank" rel="noopener">fonte</a>{extra}</div></article>'''
 def build(root, data, log):
     docs = root/"docs"; docs.mkdir(exist_ok=True); (docs/"p").mkdir(exist_ok=True)
-    for f in (docs/"p").glob("*.html"): f.unlink()
     hist = []
     hp = root/"data/history/history.jsonl"
     if hp.exists(): hist = [json.loads(l) for l in hp.read_text().splitlines() if l.strip()]
     hist.sort(key=lambda x: x.get("date",""), reverse=True)
-    now = datetime.datetime.now(ZoneInfo("Europe/Rome")); today = now.date().isoformat()
     upd = datetime.datetime.fromisoformat(data["updated"]).astimezone(ZoneInfo("Europe/Rome")).strftime("%d/%m/%Y %H:%M") + " (ora di Roma)"
     news = json.loads((root/"data/news.json").read_text())["items"] if (root/"data/news.json").exists() else []
-    (docs/"data.json").write_text(json.dumps({"updated":upd,"history":hist,"sources":log.get("sources",[])}, ensure_ascii=False))
-    (docs/".nojekyll").write_text("")
     offers = data["offers"]; provs = {}
     for o in offers:
-        n, s = prov_of(o); provs.setdefault(s, {"name":n,"cat":o["category"],"offers":[]})["offers"].append(o)
-    # index
-    body = '<p class="lead">Scegli una categoria e poi l\'operatore per vedere le sue offerte.</p><nav class="toc">' + \
-           "".join(f'<a href="#cat-{c}">{t}</a>' for c,t in CAT if any(p["cat"]==c for p in provs.values())) + "</nav>"
-    for c,t in CAT:
-        ps = sorted([(s,p) for s,p in provs.items() if p["cat"]==c], key=lambda x: x[1]["name"])
-        if not ps: continue
-        body += f'<section id="cat-{c}"><h2 class="cat">{t}</h2><div class="pgrid">'
-        for s,p in ps:
-            npromo = sum(1 for o in p["offers"] if o.get("is_promo") and not (o.get("promo_until") and o["promo_until"]<today))
-            body += (f'<a class="pcard" href="p/{s}.html"><span class="pname">{e(p["name"])}</span>'
-                     f'<span class="pmeta">{len(p["offers"])} offerte{f" · <b class=pp>{npromo} promo</b>" if npromo else ""}</span></a>')
-        body += "</div></section>"
-    (docs/"index.html").write_text(page("Categorie", body, upd, 0, "home"))
-    # provider pages
-    for s,p in provs.items():
-        ct = dict(CAT).get(p["cat"], p["cat"])
-        os_ = sorted(p["offers"], key=lambda o: (not o.get("is_promo"), o["name"]))
-        pn = [n for n in news if n["service"] in p["name"] or p["name"].startswith(n["service"])][:8]
-        b = (f'<p class="back"><a href="../index.html#cat-{p["cat"]}">← Torna a {e(ct)}</a></p><h2 class="cat">{e(p["name"])} <small>({len(os_)} offerte)</small></h2>'
-             f'<div class="grid">{"".join(card(o,today) for o in os_)}</div>')
-        if pn: b += '<h3 class="prov">Novità recenti</h3><div class="news-box"><table>' + "".join(
-            f'<tr><td class="nd">{e(dt(n["date"][:10]))}</td><td><a href="{e(n["source"])}" target="_blank" rel="noopener">{e(n["text"])}</a></td></tr>' for n in pn) + "</table></div>"
-        (docs/"p"/f"{s}.html").write_text(page(p["name"], b, upd, 1))
-    # novita
-    b = '<h2 class="cat">Novità rilevate (ultimi 21 giorni)</h2><p class="lead">Articoli da testate locali di ciascun paese, filtrati per data di pubblicazione.</p><div class="news-box"><table><thead><tr><th>Data</th><th>Servizio</th><th>Titolo</th></tr></thead>' + \
-        "".join(f'<tr><td class="nd">{e(dt(n["date"][:10]))}</td><td><span class="badge">{e(n["service"])} {e(n.get("country",""))}</span></td><td><a href="{e(n["source"])}" target="_blank" rel="noopener">{e(n["text"])}</a></td></tr>' for n in news) + "</table></div>"
-    (docs/"novita.html").write_text(page("Novità", b, upd, 0, "novita"))
-    b = ('<h2 class="cat">Storico variazioni e promo</h2><div class="ctrl"><input id="hq" placeholder="Filtra storico…"></div><div class="news-box"><table><thead><tr><th>Data</th><th>Tipo</th><th>Servizio</th><th>Dettaglio</th><th>Fonte</th></tr></thead><tbody id="h"></tbody></table></div>'
-         '<h2 class="cat">Stato fonti ultimo controllo</h2><div class="news-box"><table><thead><tr><th>Servizio</th><th>Esito</th><th>Prezzi</th><th>URL</th></tr></thead><tbody id="s"></tbody></table></div>')
-    (docs/"storico.html").write_text(page("Storico", b, upd, 0, "storico"))
+        n, s = prov_of(o); o["_prov"] = s
+        provs.setdefault(s, {"id":s,"name":n,"cat":o["category"]})
+    cats = [{"id":c,"label":t,"providers":sorted([p for p in provs.values() if p["cat"]==c], key=lambda p:p["name"])} for c,t in CAT]
+    cats = [c for c in cats if c["providers"]]
+    (docs/"data.json").write_text(json.dumps({"updated":upd,"offers":offers,"cats":cats,"news":news,"history":hist,
+        "sources":log.get("sources",[])}, ensure_ascii=False))
+    (docs/".nojekyll").write_text("")
+    for f in (docs/"p").glob("*.html"): f.unlink()
+    for p in provs.values():
+        (docs/"p"/f"{p['id']}.html").write_text(f'<!doctype html><meta charset="utf-8"><meta http-equiv="refresh" content="0;url=../index.html#cat={p["cat"]}&p={p["id"]}"><script>location.replace("../index.html#cat={p["cat"]}&p={p["id"]}")</script>')
+    for old in ("novita","storico"):
+        (docs/f"{old}.html").write_text(f'<!doctype html><meta charset="utf-8"><meta http-equiv="refresh" content="0;url=index.html#cat={old}"><script>location.replace("index.html#cat={old}")</script>')
