@@ -1,0 +1,219 @@
+{
+ "_info": "Per aggiungere un servizio: aggiungi un blocco qui (name, category, sources[url, offer_ids, patterns opzionali]) e le offerte in data/offers.json. 'patterns' = {offer_id: regex con un gruppo che cattura il prezzo}.",
+ "services": [
+  {
+   "name": "Sky TV",
+   "category": "pay-tv",
+   "sources": [
+    {
+     "url": "https://www.sky.it/offerte/sky-sport-sky-calcio-insieme",
+     "offer_ids": [
+      "sky-tv-calcio-sport"
+     ]
+    },
+    {
+     "url": "https://www.sky.it/tv/sky-calcio",
+     "offer_ids": [
+      "sky-tv-calcio-cinema",
+      "sky-tv-sport"
+     ]
+    },
+    {
+     "url": "https://www.sky.it/offerte",
+     "offer_ids": [
+      "sky-tv-netflix"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "DAZN",
+   "category": "streaming-sport",
+   "sources": [
+    {
+     "url": "https://www.dazn.com/es-ES/welcome",
+     "offer_ids": [
+      "dazn-es-futbol",
+      "dazn-es-premium"
+     ]
+    },
+    {
+     "url": "https://www.dazn.com/es-ES/help/articles/16184063399709-planes-precios-y-contenidos-de-dazn",
+     "offer_ids": [
+      "dazn-es-motor",
+      "dazn-es-baloncesto",
+      "dazn-es-usa"
+     ],
+     "patterns": {}
+    },
+    {
+     "url": "https://www.dazn.com/de-DE/help/articles/16184063399709-dazn-plane-und-preise",
+     "offer_ids": [
+      "dazn-de-mobile",
+      "dazn-de-super",
+      "dazn-de-unlimited-plus"
+     ]
+    },
+    {
+     "url": "https://www.dazn.com/de-DE/news/fussball/dazn-angebot-zur-champions-league-jetzt-unlimited-fuer-2499-euro-sichern/175va0epjd8z31wm00qk8bx2p4",
+     "offer_ids": [
+      "dazn-de-unlimited"
+     ]
+    },
+    {
+     "url": "https://www.dazn.com/en-BE/help/articles/16184063399709-dazn-plans-and-pricing",
+     "offer_ids": [
+      "dazn-be-total"
+     ]
+    },
+    {
+     "url": "https://www.dazn.com/pt-PT/help/articles/16184063399709-planos-e-precos-dazn",
+     "offer_ids": [
+      "dazn-pt-motores",
+      "dazn-pt-base",
+      "dazn-pt-total"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Zattoo",
+   "category": "tv-streaming",
+   "sources": [
+    {
+     "url": "https://zattoo.com/de/en/offers",
+     "offer_ids": [
+      "zattoo-de-smart",
+      "zattoo-de-premium",
+      "zattoo-de-ultimate"
+     ]
+    },
+    {
+     "url": "https://zattoo.com/at/en/offers",
+     "offer_ids": [
+      "zattoo-at-premium",
+      "zattoo-at-ultimate"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Teleboy",
+   "category": "tv-streaming",
+   "sources": [
+    {
+     "url": "https://www.teleboy.ch/tv",
+     "offer_ids": [
+      "teleboy-tv"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "PlayStation Plus",
+   "category": "gaming",
+   "sources": [
+    {
+     "url": "https://www.mondomobileweb.it/320325-playstation-plus-aumento-di-prezzo-per-tutti-i-piani-in-versione-mensile-e-trimestrale/",
+     "offer_ids": [
+      "psplus-essential",
+      "psplus-extra",
+      "psplus-premium"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "TIM",
+   "category": "bundle-streaming",
+   "sources": [
+    {
+     "url": "https://www.tim.it/offerte-tv",
+     "offer_ids": [
+      "timvision-base",
+      "timvision-m",
+      "timvision-l",
+      "timvision-m-myclub",
+      "timvision-l-myclub",
+      "timvision-m-dazn",
+      "timvision-l-dazn"
+     ]
+    },
+    {
+     "url": "https://www.tecnoandroid.it/news/timvision-con-dazn-e-prime-sconto-per-8-mesi-da-2499-euro-1982326/",
+     "offer_ids": [
+      "timvision-dazn-prime",
+      "timvision-myclub-prime"
+     ]
+    },
+    {
+     "url": "https://www.tim.it/fisso-e-mobile/fibra-e-adsl/fibra-calcio",
+     "offer_ids": [
+      "tim-wifi-casa"
+     ]
+    },
+    {
+     "url": "https://selectra.net/internet/guida/offerte/fibra-ottica",
+     "offer_ids": [
+      "tim-premium-base"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "WindTre",
+   "category": "fibra",
+   "sources": []
+  },
+  {
+   "name": "Vodafone",
+   "category": "fibra",
+   "sources": [
+    {
+     "url": "https://selectra.net/internet/guida/offerte/fibra-ottica",
+     "offer_ids": [
+      "vodafone-casa-start",
+      "vodafone-casa-pro"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Fastweb",
+   "category": "fibra",
+   "sources": [
+    {
+     "url": "https://selectra.net/internet/guida/offerte/fibra-ottica",
+     "offer_ids": [
+      "fastweb-casa-start",
+      "fastweb-casa-pro",
+      "fastweb-casa-ultra"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Iliad",
+   "category": "fibra",
+   "sources": [
+    {
+     "url": "https://www.iliad.it/scopri-offerte-internet-casa.html",
+     "offer_ids": [
+      "iliadbox"
+     ]
+    },
+    {
+     "url": "https://selectra.net/internet/guida/offerte/fibra-ottica",
+     "offer_ids": [
+      "iliadbox-super"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Sky Wifi",
+   "category": "fibra",
+   "sources": []
+  }
+ ]
+}

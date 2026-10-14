@@ -1,0 +1,117 @@
+{
+ "https://www.sky.it/offerte/sky-sport-sky-calcio-insieme": {
+  "prices": [
+   "14,90€",
+   "15,09€",
+   "26,90€",
+   "29,99€",
+   "37,99€",
+   "51,90€",
+   "59,90€"
+  ],
+  "checked": "2026-10-14T15:44:26.754056+02:00",
+  "promo_words": 17
+ },
+ "https://www.sky.it/tv/sky-calcio": {
+  "prices": [
+   "14,90€",
+   "15,09€",
+   "19,90€",
+   "26,90€",
+   "29,99€",
+   "51,90€"
+  ],
+  "checked": "2026-10-14T15:44:26.754056+02:00",
+  "promo_words": 13
+ },
+ "https://www.sky.it/offerte": {
+  "prices": [
+   "16,99€",
+   "31,99€"
+  ],
+  "checked": "2026-10-14T15:44:26.754056+02:00",
+  "promo_words": 11
+ },
+ "https://www.dazn.com/de-DE/news/fussball/dazn-angebot-zur-champions-league-jetzt-unlimited-fuer-2499-euro-sichern/175va0epjd8z31wm00qk8bx2p4": {
+  "prices": [
+   "24,99€",
+   "24.99Eur",
+   "34,99€"
+  ],
+  "checked": "2026-10-14T15:44:26.754056+02:00",
+  "promo_words": 23
+ },
+ "https://www.teleboy.ch/tv": {
+  "prices": [
+   "CHF11.90",
+   "CHF14.90",
+   "CHF29.90"
+  ],
+  "checked": "2026-10-14T15:44:26.754056+02:00",
+  "promo_words": 5
+ },
+ "https://www.mondomobileweb.it/320325-playstation-plus-aumento-di-prezzo-per-tutti-i-piani-in-versione-mensile-e-trimestrale/": {
+  "prices": [
+   "125,99eur",
+   "13,99eur",
+   "15,99eur",
+   "151,99eur",
+   "16,99eur",
+   "18,99eur",
+   "24,99eur",
+   "27,99eur",
+   "39,99eur",
+   "4,99eur",
+   "43,99eur",
+   "49,99eur",
+   "54,99eur",
+   "71,99eur",
+   "8,99eur",
+   "9,99eur"
+  ],
+  "checked": "2026-10-14T15:44:26.754056+02:00",
+  "promo_words": 0
+ },
+ "https://www.tecnoandroid.it/news/timvision-con-dazn-e-prime-sconto-per-8-mesi-da-2499-euro-1982326/": {
+  "prices": [
+   "19,99eur",
+   "24,99eur",
+   "29,99eur",
+   "36,99eur",
+   "47,99eur",
+   "61,99eur",
+   "7,99eur"
+  ],
+  "checked": "2026-10-14T15:44:26.754056+02:00",
+  "promo_words": 9
+ },
+ "https://selectra.net/internet/guida/offerte/fibra-ottica": {
+  "prices": [
+   "0,15€",
+   "0,19€",
+   "0,23€",
+   "11,99€",
+   "17,90€",
+   "18,99€",
+   "20,99€",
+   "22,90€",
+   "22,99€",
+   "24,90€",
+   "24,99€",
+   "25,90€",
+   "26,99€",
+   "27,90€",
+   "27,95€",
+   "28,16€",
+   "29,90€",
+   "29,95€",
+   "29,99€",
+   "34,99€",
+   "36,95€",
+   "4,99€",
+   "9,99€"
+  ],
+  "checked": "2026-10-14T15:44:26.754056+02:00",
+  "promo_words": 27
+ }
+}

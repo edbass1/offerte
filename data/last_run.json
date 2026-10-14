@@ -1,0 +1,159 @@
+{
+ "run": "2026-10-14T15:44:26.754056+02:00",
+ "sources": [
+  {
+   "service": "Sky TV",
+   "url": "https://www.sky.it/offerte/sky-sport-sky-calcio-insieme",
+   "ok": true,
+   "prices_found": 7,
+   "promo_words": 17
+  },
+  {
+   "service": "Sky TV",
+   "url": "https://www.sky.it/tv/sky-calcio",
+   "ok": true,
+   "prices_found": 6,
+   "promo_words": 13
+  },
+  {
+   "service": "Sky TV",
+   "url": "https://www.sky.it/offerte",
+   "ok": true,
+   "prices_found": 2,
+   "promo_words": 11
+  },
+  {
+   "service": "DAZN",
+   "url": "https://www.dazn.com/es-ES/welcome",
+   "ok": true,
+   "prices_found": 0,
+   "promo_words": 0,
+   "note": "nessun prezzo nel testo (pagina dinamica?) - mantenuti ultimi valori noti"
+  },
+  {
+   "service": "DAZN",
+   "url": "https://www.dazn.com/es-ES/help/articles/16184063399709-planes-precios-y-contenidos-de-dazn",
+   "ok": true,
+   "prices_found": 0,
+   "promo_words": 0,
+   "note": "nessun prezzo nel testo (pagina dinamica?) - mantenuti ultimi valori noti"
+  },
+  {
+   "service": "DAZN",
+   "url": "https://www.dazn.com/de-DE/help/articles/16184063399709-dazn-plane-und-preise",
+   "ok": true,
+   "prices_found": 0,
+   "promo_words": 0,
+   "note": "nessun prezzo nel testo (pagina dinamica?) - mantenuti ultimi valori noti"
+  },
+  {
+   "service": "DAZN",
+   "url": "https://www.dazn.com/de-DE/news/fussball/dazn-angebot-zur-champions-league-jetzt-unlimited-fuer-2499-euro-sichern/175va0epjd8z31wm00qk8bx2p4",
+   "ok": true,
+   "prices_found": 3,
+   "promo_words": 23
+  },
+  {
+   "service": "DAZN",
+   "url": "https://www.dazn.com/en-BE/help/articles/16184063399709-dazn-plans-and-pricing",
+   "ok": true,
+   "prices_found": 0,
+   "promo_words": 0,
+   "note": "nessun prezzo nel testo (pagina dinamica?) - mantenuti ultimi valori noti"
+  },
+  {
+   "service": "DAZN",
+   "url": "https://www.dazn.com/pt-PT/help/articles/16184063399709-planos-e-precos-dazn",
+   "ok": true,
+   "prices_found": 0,
+   "promo_words": 0,
+   "note": "nessun prezzo nel testo (pagina dinamica?) - mantenuti ultimi valori noti"
+  },
+  {
+   "service": "Zattoo",
+   "url": "https://zattoo.com/de/en/offers",
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='zattoo.com', port=443): Max retries exceeded with url: /de/en/offers (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of prot"
+  },
+  {
+   "service": "Zattoo",
+   "url": "https://zattoo.com/at/en/offers",
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='zattoo.com', port=443): Max retries exceeded with url: /at/en/offers (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of prot"
+  },
+  {
+   "service": "Teleboy",
+   "url": "https://www.teleboy.ch/tv",
+   "ok": true,
+   "prices_found": 3,
+   "promo_words": 5
+  },
+  {
+   "service": "PlayStation Plus",
+   "url": "https://www.mondomobileweb.it/320325-playstation-plus-aumento-di-prezzo-per-tutti-i-piani-in-versione-mensile-e-trimestrale/",
+   "ok": true,
+   "prices_found": 16,
+   "promo_words": 0
+  },
+  {
+   "service": "TIM",
+   "url": "https://www.tim.it/offerte-tv",
+   "ok": true,
+   "prices_found": 0,
+   "promo_words": 106,
+   "note": "nessun prezzo nel testo (pagina dinamica?) - mantenuti ultimi valori noti"
+  },
+  {
+   "service": "TIM",
+   "url": "https://www.tecnoandroid.it/news/timvision-con-dazn-e-prime-sconto-per-8-mesi-da-2499-euro-1982326/",
+   "ok": true,
+   "prices_found": 7,
+   "promo_words": 9
+  },
+  {
+   "service": "TIM",
+   "url": "https://www.tim.it/fisso-e-mobile/fibra-e-adsl/fibra-calcio",
+   "ok": true,
+   "prices_found": 0,
+   "promo_words": 320,
+   "note": "nessun prezzo nel testo (pagina dinamica?) - mantenuti ultimi valori noti"
+  },
+  {
+   "service": "TIM",
+   "url": "https://selectra.net/internet/guida/offerte/fibra-ottica",
+   "ok": true,
+   "prices_found": 23,
+   "promo_words": 27
+  },
+  {
+   "service": "Vodafone",
+   "url": "https://selectra.net/internet/guida/offerte/fibra-ottica",
+   "ok": true,
+   "prices_found": 23,
+   "promo_words": 27
+  },
+  {
+   "service": "Fastweb",
+   "url": "https://selectra.net/internet/guida/offerte/fibra-ottica",
+   "ok": true,
+   "prices_found": 23,
+   "promo_words": 27
+  },
+  {
+   "service": "Iliad",
+   "url": "https://www.iliad.it/scopri-offerte-internet-casa.html",
+   "ok": true,
+   "prices_found": 0,
+   "promo_words": 0,
+   "note": "nessun prezzo nel testo (pagina dinamica?) - mantenuti ultimi valori noti"
+  },
+  {
+   "service": "Iliad",
+   "url": "https://selectra.net/internet/guida/offerte/fibra-ottica",
+   "ok": true,
+   "prices_found": 23,
+   "promo_words": 27
+  }
+ ],
+ "events": 0
+}
