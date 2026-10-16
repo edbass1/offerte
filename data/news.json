@@ -164,6 +164,7 @@
   "offertaskymobileultracostieattivazioneottobre2026selectranet",
   "offertefissopiùmobiledisettembre2026risparmifinoa84lannocomparasemplice",
   "offertefttcdiottobre2026comparasemplice",
+  "offertegigaillimitatimobilelemigliorisimdatisostariffe",
   "offerteinternetamenodi20meselepromodisettembre2026facileit",
   "offerteinternetasettembre2026pianida1990facileit",
   "offerteinternetchiamateillimitateipianidiottobre2026facileit",
@@ -220,6 +221,7 @@
   "rimodulazionetimaumentiperlaretefissaanovembre2026sostariffe",
   "rimodulazionetimaumentiperlaretefissadamaggio2026sostariffe",
   "rimodulazioniottobre2026timefastwebalzanoiprezzitecnoandroid",
+  "rimodulazionitelefoniaeccogliaumentidiottobre2026mondomobilewebit",
   "rimodulazionitimvodafoneaumentiperilmobiledaaprile2026sostariffe",
   "rincaritimefastwebdaottobre2026tuttigliaumentiecomedifendersismartworld",
   "sallyrooneyeilprezzodiunasceltapoliticaskytg24",
@@ -1242,6 +1244,16 @@
    "found": "2026-10-16T00:47:18.636874+02:00"
   },
   {
+   "date": "2026-10-08T09:00:00+02:00",
+   "type": "novita",
+   "service": "TIM",
+   "country": "IT",
+   "text": "Offerte Giga illimitati mobile: le migliori SIM dati - SosTariffe",
+   "source": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaEo3MzQ2LXVkc2R5d1RRazFzTHN5dWlXSENFYVJEMnJkaVJ3YWJ1ZFIyc2tnYUxoNWRsajNpUU1ObEt6Vm02bTdLRmlrejNzUjk3OUpXaTJlYmZqd2VDaTRBcUp3ZHd0VTVvUmZsdDdZeWdDWGF6WHdoRzI3Z2ZlazFfZHNsZ095Um5qRkoxaC1ORnZZOXk4c0dGNW1Sc1U2aW1EUzNrcFZVamc?oc=5",
+   "query": "offerte TIM fibra",
+   "found": "2026-10-16T12:52:12.947049+02:00"
+  },
+  {
    "date": "2026-10-08T08:37:02+02:00",
    "type": "novita",
    "service": "TIM",
@@ -1770,16 +1782,6 @@
    "source": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPM2hOTkxCZjZGeGRPM0swd0g0ZDZpLTBPRnhUTVpyeTJzNHRWeWhhZWFKY3plbmRSUHB2YjFJSEVwYy0zRGthQl9NYjFMUVZlLWZqM2I2Y2RzdW5kcTVPNWZJY2Y2SXU4cU5lOHl2c1JaN1hSZl90eWNlUUo3U0xack84RmVBYS16YmdYek9IOEs2azc3N21FczNDaEdsaERwaE4xaTIyVExDdU5nN1FtdlhtanVtdjRu?oc=5",
    "query": "DAZN Preis Angebot",
    "found": "2026-10-14T17:59:06.589684+02:00"
-  },
-  {
-   "date": "2026-10-03T09:00:00+02:00",
-   "type": "novita",
-   "service": "Sky TV",
-   "country": "IT",
-   "text": "Petrolio, scorte e prezzi dei carburanti: cosa sta succedendo dopo la guerra in Iran - Sky TG24",
-   "source": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUEFhV1pZTUNHckJmc0stZ05EUThZbWFxNDR2NHZyOGZTd3pzRjZXaHpjMHZNUHlna21aSXg1TjdTOFd6M3hNYmh2dDc2QlJJVFZtZGJVZ1UxbVphZlNiY1FqcTJFVUp4T1EtdjlVTzZySVEtY01LLXVKMFlIeWJDdFJHRnd4ZzNHMFpiOEJB?oc=5",
-   "query": "Sky offerta prezzo",
-   "found": "2026-10-16T09:05:47.584523+02:00"
   }
  ]
 }
