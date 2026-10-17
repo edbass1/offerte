@@ -195,6 +195,7 @@
   "offertetimcasadiottobre2026comparasemplice",
   "offertetimdaskymobilefinoa400gbin5gda499mesesostariffe",
   "offertetimoskymobilequalesceglieresegugioit",
+  "offertewindtrecasaottobre2022comparasemplice",
   "oliodolivacrollanoiprezziprotestanoiproduttoricosastasuccedendoskytg24",
   "orangetvfútbol202627tarifasypreciosparaverlaligaroams",
   "orangetvfútbolofertasparaverlaligaylachampions202627roams",
@@ -1717,6 +1718,16 @@
    "found": "2026-10-17T17:44:38.714592+02:00"
   },
   {
+   "date": "2026-10-06T09:00:00+02:00",
+   "type": "novita",
+   "service": "TIM",
+   "country": "IT",
+   "text": "Offerte WINDTRE casa ottobre 2022 - ComparaSemplice",
+   "source": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVUVEcTRoNmxIN18xdFpwQTFPWVl1VDJDWUU1NU94ejFPbV95X2g3bl9UR014Tzg2aXBRWFZPTGdxeUFEREc3V1F3SC1RcnI2VnJUSk1rZ3g2WGdpQUEzNnRZSWU3Qm9hN2xsYnBPWmV0U3RYcHlYcldMdTRpMVk5azhGdG1SWURLNlo1MUJKZVNuQzZHdzFqWWw3MHE1a28?oc=5",
+   "query": "offerte TIM fibra",
+   "found": "2026-10-17T20:48:34.467900+02:00"
+  },
+  {
    "date": "2026-10-06T06:06:11+02:00",
    "type": "novita",
    "service": "Sky TV",
@@ -1793,16 +1804,6 @@
    "country": "ES",
    "text": "Ofertas fútbol en TV: Movistar, Orange y DAZN (octubre 2026) - Roams.es",
    "source": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ENVlDWXdGZUtfdld1M0NQeTY5WlJBcXFRYTNPc2hNVHA3ZEZEODVDRlJfWVJlT05VUllOSkxQSTVKS0ZaeWpDV1hCZVJ6UlJDUENXb1BPUURBeGd3ZzZRRU42dDMxRTJUQlN0MHRqYXEwTTduOVNObw?oc=5",
-   "query": "DAZN precio oferta",
-   "found": "2026-10-14T16:00:33.948975+02:00"
-  },
-  {
-   "date": "2026-10-05T09:00:00+02:00",
-   "type": "novita",
-   "service": "DAZN",
-   "country": "ES",
-   "text": "Dónde ver MotoGP 2026 en TV: opciones y precios - roams.es",
-   "source": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1NclIwOHlxZmVwWVNMMzVIWlp1SmVJUW4xcTdoVnBDaC05a2hrbUhTcEhaSFdYekVzc3cwdVZVQjRLX2xGXzVyY2VrcUNNX3ZaSkFyZV9VS083TXZ4TGFmTTdxazZSMkt2ZWVYZFh2d3pnOFc2?oc=5",
    "query": "DAZN precio oferta",
    "found": "2026-10-14T16:00:33.948975+02:00"
   }
