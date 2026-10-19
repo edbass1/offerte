@@ -117,6 +117,7 @@
   "dóndevermotogp2026entvopcionesypreciosroamses",
   "dóndevernbaplayoffsenespañaentvystreamingprecioshorariosypartidosdeprimevideoydazngigantesdelbasket",
   "easportsfc27cambiailprezzomaancheciòcheoffrespaziogames",
+  "elclásicollegaacompañadodeunapromocióndedazn999eurosalmesmundoplustv",
   "elgpdebahréindefórmula1endaznamitaddeprecioantonelliquiereampliarsuventajaafaltade8carreraslavanguardia",
   "eneloffriamo50discontosuelettricitàdaaprile2026skytg24",
   "engieenergiapuntofisso24mesioggiscadelapromoagendadigitale",
@@ -184,6 +185,7 @@
   "offertaaggiornatailrouter5gchemandainpensionelafibraèscontatodel36mabisognafareinfrettahdblogit",
   "offertaaggiornatainternetincasasenzatecniconécontrattoilrouter5gdaacquistareconleofferteprimehdblogit",
   "offertadaznpianicostiepromozionispecialidel2026daznnewsitaliadazn",
+  "offertafibrailiadeccoloscontodi4euroalmesepersempretelefoninonet",
   "offertaskymobileultracostieattivazioneottobre2026selectranet",
   "offertefissopiùmobilediottobre2026risparmifinoa84nelprimoannocomparasemplice",
   "offertefissopiùmobiledisettembre2026risparmifinoa84lannocomparasemplice",
@@ -270,6 +272,7 @@
   "silenthilltownfallperpcèpreordinabilealprezzopiùbassosuinstantgamingignitalia",
   "simperminorenni2026lemiglioriofferteperbambinieragazzicomparasemplice",
   "simsolodaticoninternetillimitatole5migliorioffertediottobre2026comparasemplice",
+  "sintonizatusdeportespreferidosdesde499eurosalmescondazneleconomista",
   "skyasoli9aottobre2026provatuttoilcatalogoper30giornisenzavincolifacileit",
   "skyaumentailprezzodeipacchettisportilcostodeidirittièincostantecrescitaddayit",
   "skyaumentailprezzodeipacchettisporttracostodeidirittienuoviinvestimentiilmessaggero",
@@ -329,6 +332,26 @@
  ],
  "items": [
   {
+   "date": "2026-10-19T13:10:25+02:00",
+   "type": "novita",
+   "service": "DAZN",
+   "country": "ES",
+   "text": "El Clásico llega acompañado de una promoción de DAZN: 9,99 euros al mes - Mundoplus.tv",
+   "source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVHJGcFFrZmViN3BTLUhJZThuUHJiXzRUc253OF9pU0QwaW4zeEVVVXE0SFcxT095ZVFqNnJKXzdseXpYdk9BVkFIMlFZbVJEcENuWmpjSm54eVFkeFZlWTliNmpqRjZWNjJfRWR5azlCc21VZ3E5OHJtT1h2N3piRWVYSy1VWGtJSXlzWXd1ZUhzOHpSS2tpVGF6dmo4amoxN2I5a1lnSnI?oc=5",
+   "query": "DAZN precio",
+   "found": "2026-10-19T13:53:28.387718+02:00"
+  },
+  {
+   "date": "2026-10-19T13:06:11+02:00",
+   "type": "novita",
+   "service": "DAZN",
+   "country": "ES",
+   "text": "Sintoniza tus deportes preferidos desde 4,99 euros al mes con DAZN - El Economista",
+   "source": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQ1pyWk5hb1VDbW9TZmFQTGRGb1d1REtyWkhrekk0ZDJYRXdhZHNNTENvdkNDNnRSMFNpc1dTU1dxaUpybzJjY2NPbW5hWVEwajVDQ3ZLWEpNY1I3UmdoOTcyaVBkaURqRGJFQkdCT3VDNlplbXlMbVY4VTVtQlRHLVIzbWtWS0d3YXg2UHowX1J1ZkxfUnRKX0VUUmxMYk1kVVlQR0pyNXlJRmppMzlWXzNGM3ZGOXduNWF4SUxvLVR4elhtM2ZFLTB30gG0AUFVX3lxTFAwamc3QXZ3T0U5MmxlR05RRGMwZ3RXYW5VZkJfdF9ha0VnblJ4azBCZER3MUx0eHp6UE95REN1aG9OT3dtb0NyTkFQbzNLUENxTC1aU3JUQzR6dFpHZzhKQlRRX09IZno5NTVpSkFvc2ZYOWNnOXd3LVVPeEdTUEZKbVNIY1Z4WXNkdjlaNGZpVl9IMWtrSWxEemg5UDlZU1JYMjNNcVBXRlhvY01Xc3dNd0xHeA?oc=5",
+   "query": "DAZN precio",
+   "found": "2026-10-19T13:53:28.387718+02:00"
+  },
+  {
    "date": "2026-10-19T12:11:07+02:00",
    "type": "novita",
    "service": "TIM",
@@ -367,6 +390,16 @@
    "source": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeDFmcDFRM3Q2bWVxaWpTb2M1QW1BdXpoTzJ0Q25HbkdPcTN1N2QzNEZCcVl3cm1NaE8zUVlMVkJsOEpYclhxSXd0Z1U1MWl0Vm5jbm9ZU0JBRl81T1pnVzN3ZmpPeUNrZ1ZUT2NoWkVXQno3UGFCX204RWJIcVFKc0R5a2Q5RG5rYlBmTGJIeEYwQjg5ZnQxT2RCRQ?oc=5",
    "query": "PlayStation Plus prezzo",
    "found": "2026-10-18T22:45:04.724296+02:00"
+  },
+  {
+   "date": "2026-10-18T21:35:01+02:00",
+   "type": "novita",
+   "service": "TIM",
+   "country": "IT",
+   "text": "Offerta fibra Iliad, ecco lo sconto di 4 euro al mese per sempre - Telefonino.net",
+   "source": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbk9qNTFkdVBoSTY3Y3BhamRFY2xMYUlvZTNUMXR0R3R3ek1RaEhyOEpfdkF3N201OWFPMm5TQlZjSnZTRTJBcURSalUxTHBXYkNLREE4Q2JfTTI3bmtRUTBvd3k0WjBTMFV5bnlHa0V5S2pHYU1ieDVmNXNFZTdvaXhMVmJ1SEVCc2Y5UXJBV1J5QQ?oc=5",
+   "query": "offerte TIM fibra",
+   "found": "2026-10-19T13:53:28.387718+02:00"
   },
   {
    "date": "2026-10-18T19:00:08+02:00",
@@ -1797,36 +1830,6 @@
    "source": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRFFfaWdFNXVyaHVIdl9qbGx6TVJLSlQ2eGt0anB6RVZ0YkM4Z2VNNmNCODk0ZVRlcTl5R25wZWVsc3N4MTNnd0hNaDE4ekpZcmpKWU9uek5RS1dMY3hvcmlLNFpnWjVEUnl2WHNFYVNrR2ZORGVLb1lBRTZYTk5mRjUxY3l2Zko2WS1Nbl9B?oc=5",
    "query": "offerte TIM fibra",
    "found": "2026-10-14T16:00:33.948975+02:00"
-  },
-  {
-   "date": "2026-10-06T21:09:09+02:00",
-   "type": "novita",
-   "service": "PlayStation Plus",
-   "country": "IT",
-   "text": "Sul PlayStation Store sono iniziate le Offerte di Metà Anno, con migliaia di sconti su giochi PS4 e PS5 - Multiplayer",
-   "source": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYnFfa0M5YjVaVWJuY2YxZ2F1cWR1WGRMbnNQOFBLSlEtcDd5UjlOZkVaYUJzN1pzY1V3M095QkNjSDM3MENnTDk3S3QzZkNmMWxLN1lRRUY0b28yc1JVY0FRb3FfdGtrTE1adUU0a2ZFRjlJOUI3emFqOHVaTm1DZUhleTRhWEpEZDVfUFpDSVJ6bE5VcmxrYkpwUFBjNHRrYWw4LV9NY3pwSmVGT25kQU5OV2ViZUE?oc=5",
-   "query": "PlayStation Plus prezzo",
-   "found": "2026-10-14T17:59:06.589684+02:00"
-  },
-  {
-   "date": "2026-10-06T17:30:30+02:00",
-   "type": "novita",
-   "service": "TIM",
-   "country": "IT",
-   "text": "Fibra senza vincoli: le migliori offerte di ottobre 2026 |... - ComparaSemplice",
-   "source": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ObnNvZEtpbjA2c09NamthcWMyeU9TTnpkdGFTeGZrWnZpTURfX0Q0SlQyeU5zVkFUUm1hUnFHZWhWclpXcXBFNWxlaE1ZTTNpYzEtem1zd3BhMjRqUjdiWkdGR29rck5SdFBKRXowN3NzNndzbjZVYg?oc=5",
-   "query": "offerte TIM fibra",
-   "found": "2026-10-14T16:00:33.948975+02:00"
-  },
-  {
-   "date": "2026-10-06T10:43:53+02:00",
-   "type": "novita",
-   "service": "PlayStation Plus",
-   "country": "IT",
-   "text": "PlayStation Plus ottobre 2026: 3 giochi gratis da scaricare - Controcampus",
-   "source": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVXhxeVJBbGdFRHFtTzJYNGU0Vk9HQklBVG83MDlaVU80VXlQbTN4WWRHTnRjMEhJekgtWTh6Vk5vaWYxMDVxb3hkY0V1Skx0SnZfLUkxQmJiYlMyeGsyVFJidng1aWZpNUpJek9GRk0xTVhOQjU1cjJTWEVTdXZlUjJyQ0l4WXgwdUhsbDZxX0g2RG55VkFaM3cxY9IBoAFBVV95cUxPOW1aY3NrZDRpd3gzS0t1MWplQVdMS25DN2RYc3d3dTREMC03aG1lY25CNEtiRVBEaGtjTVVxRGFBWlZCY245QUR6cXYyOGVxVFg5UnVHV1dTNGpETDIzd3EzbGsya3ZrSzdESG5LZ0dza2c2eE5zTjlFZWRIODB1MzhybFpmT1VNWWVhTXJtZ0xmYmNxdFZaZ3BOQWZxMWdm?oc=5",
-   "query": "PlayStation Plus prezzo",
-   "found": "2026-10-14T17:59:06.589684+02:00"
   }
  ]
 }
