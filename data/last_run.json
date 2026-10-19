@@ -1,5 +1,5 @@
 {
- "run": "2026-10-19T18:11:35.480781+02:00",
+ "run": "2026-10-19T18:54:40.008637+02:00",
  "sources": [
   {
    "service": "Sky TV",
@@ -97,20 +97,26 @@
   {
    "service": "TIM",
    "url": "https://www.tim.it/offerte-tv",
-   "ok": false,
-   "error": "403 Client Error: Forbidden for url: https://www.tim.it/offerte-tv"
+   "ok": true,
+   "prices_found": 0,
+   "promo_words": 106,
+   "note": "nessun prezzo nel testo (pagina dinamica?) - mantenuti ultimi valori noti"
   },
   {
    "service": "TIM",
    "url": "https://www.tim.it/fisso-e-mobile/fibra-e-adsl/fibra-wifi-casa",
-   "ok": false,
-   "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+   "ok": true,
+   "prices_found": 0,
+   "promo_words": 136,
+   "note": "nessun prezzo nel testo (pagina dinamica?) - mantenuti ultimi valori noti"
   },
   {
    "service": "TIM",
    "url": "https://www.tim.it/offerte-tv/timvision-dazn",
-   "ok": false,
-   "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+   "ok": true,
+   "prices_found": 0,
+   "promo_words": 99,
+   "note": "nessun prezzo nel testo (pagina dinamica?) - mantenuti ultimi valori noti"
   },
   {
    "service": "WindTre",
@@ -130,20 +136,23 @@
   {
    "service": "Fastweb",
    "url": "https://www.fastweb.it/adsl-fibra-ottica/fastweb-casa-start/",
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='www.fastweb.it', port=443): Max retries exceeded with url: /adsl-fibra-ottica/fastweb-casa-start/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.fastweb.it', port="
+   "ok": true,
+   "prices_found": 15,
+   "promo_words": 15
   },
   {
    "service": "Fastweb",
    "url": "https://www.fastweb.it/adsl-fibra-ottica/fastweb-casa-pro/",
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='www.fastweb.it', port=443): Max retries exceeded with url: /adsl-fibra-ottica/fastweb-casa-pro/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.fastweb.it', port=44"
+   "ok": true,
+   "prices_found": 14,
+   "promo_words": 15
   },
   {
    "service": "Fastweb",
    "url": "https://www.fastweb.it/adsl-fibra-ottica/fastweb-casa-ultra/",
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='www.fastweb.it', port=443): Max retries exceeded with url: /adsl-fibra-ottica/fastweb-casa-ultra/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.fastweb.it', port="
+   "ok": true,
+   "prices_found": 16,
+   "promo_words": 15
   },
   {
    "service": "Iliad",
@@ -161,5 +170,5 @@
    "promo_words": 11
   }
  ],
- "events": 3
+ "events": 0
 }
