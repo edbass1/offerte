@@ -1,5 +1,5 @@
 {
- "run": "2026-10-20T21:50:29.046948+02:00",
+ "run": "2026-10-20T22:52:21.500980+02:00",
  "sources": [
   {
    "service": "Sky TV",
@@ -113,10 +113,8 @@
   {
    "service": "TIM",
    "url": "https://www.tim.it/offerte-tv/timvision-dazn",
-   "ok": true,
-   "prices_found": 0,
-   "promo_words": 99,
-   "note": "nessun prezzo nel testo (pagina dinamica?) - mantenuti ultimi valori noti"
+   "ok": false,
+   "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
   },
   {
    "service": "WindTre",
@@ -170,5 +168,5 @@
    "promo_words": 11
   }
  ],
- "events": 1
+ "events": 0
 }
