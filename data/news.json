@@ -72,6 +72,7 @@
   "cómoverelbarcelonarealmadridconelplanhbomaxdaznabónateaquíeurosport",
   "cómoverelbetisbarcelonaconelplanhbomaxdaznabónateaquíeurosport",
   "cómoverelespanyolatléticodemadridconelplanhbomaxdaznabónateaquíeurosport",
+  "cómoverelfcbarcelonarealmadridconelplanhbomaxdaznabónateaquíeurosport",
   "cómoverelgpdeazerbaiyándefórmula1conelplanmaxdaznabónateaquíeurosport",
   "cómoverelgpdebaréindefórmula1conelplanmaxdaznabónateaquíeurosport",
   "cómoverelgpdeindonesiademotogpconelplanhbomaxdazncalendarioysuscripcióneurosport",
@@ -404,6 +405,16 @@
    "source": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxORnVpM3lCSzFCNE5QRjQ2bWY3anRXcVFxT1k3Q0VHSE9FZ0FMTlhqYXhCTFdHemFBa2tyZG5lUHFHWV9JTC0wTjBCWF90UGJLTVdWdGFrRC1kSlF6OE9PaHpsNzIySTd3OWIycGk5ak1fZkt5NWNva1A5V20tOTNWU3ItUUdKS2VONEMycW8xa3dueG9TUVdaZTBsYTN3M2tFTFJEUFgtUEJPY3lOSnZfSTI0RmR1UVVJbzNYRnk0M3pLVFZ5ZGwwLTJqODhMQ1RzOHdQNzhlcVVrcXFRUlNza2hPQVBKbG54dTI5N2xn?oc=5",
    "query": "DAZN prix abonnement",
    "found": "2026-10-20T19:47:36.028844+02:00"
+  },
+  {
+   "date": "2026-10-20T17:35:00+02:00",
+   "type": "novita",
+   "service": "DAZN",
+   "country": "ES",
+   "text": "Cómo ver el FC Barcelona-Real Madrid con el plan HBO Max DAZN: Abónate aquí - Eurosport",
+   "source": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxPaWF4c2F1WFBxMHRkTlpwbERDakxmc1VjTGdfU2h3SFhMTHdNUWgwSUYteTZDOGEzZHlGRmFKRF9WZWpLWFRZTURZdW41X1VTMmEzZVNsRVZLQWlxaTV5dE41NDZCTjhQak1sTnV4Tmg3TG56WHdEdlpTTjduZVc5QlRmTmdVcnRVVE9BcFNFdDE0UE1yZmFJRDRCUTNMZk5acjNvOVhRNmdlbEk2LTdsUy1NYUItamdGVm4wNU1WZFROdW1UVEpmYlFGWlA5TzB3ZmF4MUx2el9sMDlGLWh5UE1lWjFWM0YxeV83UENYTEtZT2kyYWo2X1VjYzg3Szh6MjFpS3ZLN2g4NXVhZ3U5YlZPMXpZQVAyU1F5NWVQeFpXSTN0VWpGZ2xDcXhhZXRNblRFbXlkSmpmdzlpVTdabk9JRVBMeUZNRFhHeG5mQWdhTjJTakJEd1RwOXU?oc=5",
+   "query": "DAZN oferta plan",
+   "found": "2026-10-20T21:50:29.046948+02:00"
   },
   {
    "date": "2026-10-20T16:23:49+02:00",
@@ -1854,16 +1865,6 @@
    "source": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxOMU1ZOG1uX04teHFESzFyVmtOSENBdTBMRHdKel9sd2VlLTZlTmNvZWxabEp0eXhub1hiNFVuLUtpclVGTnE3X043V2MwdXVqYlUxTHVUTy1oRmVFd0hwWGwtS3BMdTN2WnA4Y0ZsUEdlU3V3Vi1mRDlGWl9UOTdOOVQxTktQWUFocURXajVRTXZnY0dwVzZVTXJLTG9WdjJRbzQwRGNITXEwZUpBUmpjb3BTSnBydFlKWUdic2QwcjJWTHJFWmo0ajhISF9EZ0M0YnBCRUcwVWw3dC1VM2E0blFGMFBHak9QLVdpeGVKcWpNUzQwMjBEcmo1Q0pSQm1EVnhaU3F2SnFHNFZTT3Q4WmpBbVNBUy1qbnY4V0Fkc3dfMGlPQlloc1NnTGkyaktfbXJwNGNoS0RtT2d4WEhzVHR2dTlDY0o1bTBCOVlYbUF6dG9ubVBnNE9TXzU1M0J3TUQwQ2g4Rl9mM2x2Z3NRTkRkdTM?oc=5",
    "query": "DAZN España plan fútbol premium",
    "found": "2026-10-14T16:00:33.948975+02:00"
-  },
-  {
-   "date": "2026-10-08T16:38:00+02:00",
-   "type": "novita",
-   "service": "DAZN",
-   "country": "ES",
-   "text": "¿Qué ver del 12 al 18 de octubre en los Planes HBO Max Deportes y DAZN? - Abónate aquí - Eurosport",
-   "source": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNV3JJeEdhU2RLYlVHSU40NS1KZy1uTFA5Ni02MjJKaF9vSGE1VEtFa2NFQU00andMNkk3OExWTnBXOTkyQzlXVDFLM0NSTnJjQjQ3Z1MwajAzQXhkdGRDSzNTU2wwTTUtQmtTTUc4UGlsSVNUdUJlVlNnelEzaXVlWDhpUFY0SVF1WUdDTmZoWHNWRjhxbk5Ha1hQaW9iMTRrUk1tVVRmNWlyalhFZ0JNOVBXdHN0RWluQmw1NWhVNUFqYi1Ua3gtZ2R5MDQ0YkJNUDk0?oc=5",
-   "query": "DAZN oferta plan",
-   "found": "2026-10-14T17:59:06.589684+02:00"
   }
  ]
 }
