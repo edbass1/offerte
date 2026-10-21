@@ -1,5 +1,5 @@
 {
- "run": "2026-10-21T16:52:47.323680+02:00",
+ "run": "2026-10-21T17:54:54.258243+02:00",
  "sources": [
   {
    "service": "Sky TV",
@@ -84,7 +84,7 @@
    "service": "Teleboy",
    "url": "https://www.teleboy.ch/tv",
    "ok": false,
-   "error": "418 Client Error: I'm a teapot for url: https://www.teleboy.ch/tv"
+   "error": "403 Client Error: Forbidden for url: https://www.teleboy.ch/tv"
   },
   {
    "service": "PlayStation Plus",
