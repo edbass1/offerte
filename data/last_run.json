@@ -1,5 +1,5 @@
 {
- "run": "2026-10-22T00:49:53.987488+02:00",
+ "run": "2026-10-22T01:47:26.518460+02:00",
  "sources": [
   {
    "service": "Sky TV",
@@ -136,20 +136,23 @@
   {
    "service": "Fastweb",
    "url": "https://www.fastweb.it/adsl-fibra-ottica/fastweb-casa-start/",
-   "ok": false,
-   "error": "404 Client Error: Not Found for url: https://www.fastweb.it/adsl-fibra-ottica/fastweb-casa-start/"
+   "ok": true,
+   "prices_found": 15,
+   "promo_words": 15
   },
   {
    "service": "Fastweb",
    "url": "https://www.fastweb.it/adsl-fibra-ottica/fastweb-casa-pro/",
-   "ok": false,
-   "error": "404 Client Error: Not Found for url: https://www.fastweb.it/adsl-fibra-ottica/fastweb-casa-pro/"
+   "ok": true,
+   "prices_found": 14,
+   "promo_words": 15
   },
   {
    "service": "Fastweb",
    "url": "https://www.fastweb.it/adsl-fibra-ottica/fastweb-casa-ultra/",
-   "ok": false,
-   "error": "404 Client Error: Not Found for url: https://www.fastweb.it/adsl-fibra-ottica/fastweb-casa-ultra/"
+   "ok": true,
+   "prices_found": 16,
+   "promo_words": 15
   },
   {
    "service": "Iliad",
@@ -167,5 +170,5 @@
    "promo_words": 11
   }
  ],
- "events": 0
+ "events": 1
 }
