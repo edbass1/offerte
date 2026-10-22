@@ -101,6 +101,7 @@
   "daznangebotzurchampionsleaguejetztunlimitedfür2499eurosicherndazn",
   "daznangebotzutürkeiitaliendienationsleagueab499eurosehendazn",
   "daznaottobre2026pianiperlaserieaelosportda1199facileit",
+  "daznbajaun50elplanfútbolporelclásico999almessicontratashastael25deoctubreroamses",
   "dazncasseleprixdesonabonnement799parmoispendantunanpourprofiterdusportariase",
   "dazndesde499eurosalmeseligesoloeldeportequequieresvereleconomista",
   "daznendirectogratisdóndeveronlinelaseñaldestreamingdazn",
@@ -393,6 +394,7 @@
   "verymobilelanciaglismartphonedays150gba599almesepersemprehdblogit",
   "vivezlesmatchslaligue1avecdaznetprofitezdesapromotionrmcsport",
   "vodafonefwacambiamodemarrivailwifi7eccocosamiglioradavverosostariffe",
+  "windtreaumentadi2euroalcuneoffertelineamobiletelefoninonet",
   "windtregodigitalda599euroalmeseadessoanchecontroskymobileedenelmobilemondomobilewebit",
   "windtremigraiclientiadslsufttccosacambiasostariffe",
   "windtreoffertefwaconattivazionegratisasettembre2026sostariffe",
@@ -400,6 +402,16 @@
   "últimashorasaprovechalaofertaenelplanfútboldedaznparaverelatléticorealmadridymuchomásconunofertónmundodeportivo"
  ],
  "items": [
+  {
+   "date": "2026-10-22T11:18:41+02:00",
+   "type": "novita",
+   "service": "DAZN",
+   "country": "ES",
+   "text": "DAZN baja un 50% el Plan Fútbol por el Clásico: 9,99€ al mes si contratas hasta el 25 de octubre - roams.es",
+   "source": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVEdkMDBIb0lJOHhQN0xXbWJFQnl6dWdGa1A5Z1NILUx6bXVOY2JHc0NSTDgwWmVFSHNmYnlBRVNkZmt1bTY1UHo0cXoxSm5nNHhrWkxaZUVndXRPOE1lQy1WS0ZQUDJXYUFqTDlYMUsxNm9wcnZIeVFUMmRzWVQzdzVYcW5mb1NITkNXRlZzdk1PcnVOc0pyNlJLbUpSdw?oc=5",
+   "query": "DAZN precio",
+   "found": "2026-10-22T12:51:58.264052+02:00"
+  },
   {
    "date": "2026-10-22T09:52:00+02:00",
    "type": "novita",
@@ -429,6 +441,16 @@
    "source": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOUGZ1OW52aE5uRGNhZ09RMm9ZS3d0SEsxbGEtRDY2cEVXbkpGbE5oNjZVQjB0SXVhcUlJVFFBcFg0SS0yZU9NVnhLSkFpUFgwSm5IUlQ2V1hjRHZuYXNDUmo3SG1PcldUaGJJNEhiWHhMV0Z5NzdTeU5QYWNKT1Zzal9lNmdMcjV5UVVGVDhITGdad0d3bWlOSU9KaWpOektjVHc3Y0YtdlZzeHRXSmQyZ2pIUlZTenc5Zmsxck84MUdIVjl0eTN0LTlvU3lfX0VMVHhXU0x2dlgxbnVJM2g4d0xYYV9wUklHeXNmbEpKQWk4SXQ3Vi1XSU1ocXhXX3NqdFdsdDNqdmRFWUVpT0Jua2l0d2FpRTMtbTlweTNybTd0SGZfZWNNMA?oc=5",
    "query": "DAZN prix abonnement",
    "found": "2026-10-22T07:50:03.950279+02:00"
+  },
+  {
+   "date": "2026-10-22T06:30:55+02:00",
+   "type": "novita",
+   "service": "TIM",
+   "country": "IT",
+   "text": "WindTre aumenta di 2 euro alcune offerte linea mobile - Telefonino.net",
+   "source": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNHhKLWtSSzFfcFVlcWVsWDQzWk12UDE3Q0wxd3o5SVkxQWw5bU1NY2xfVEh4MVFJYjNhaHJUMVBVWmJibV9NMS1wdnlyX3U2WXUtbXZaRlgzZ2NGNUQ4VWo0QVkyVEo1a0lrTjZDSFFpRnBiZTJHbVpiVnRQQ1BTdG9WTEE4VlJxUGl3NHpJcw?oc=5",
+   "query": "TIMVISION offerta",
+   "found": "2026-10-22T12:51:58.264052+02:00"
   },
   {
    "date": "2026-10-22T05:39:30+02:00",
@@ -1877,26 +1899,6 @@
    "country": "ES",
    "text": "Cómo funciona la suscripción gratis a DAZN: condiciones del servicio y cómo activarla - DAZN",
    "source": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPVldTUVc2WktYemI2WEpobjVuWHBGNEFMMTY4TVo1X1ZGZmhDbVFXSDB6WVZFY3FkNjRPMGkyUWd2XzJWUnl2WGY5SEltWE1PeEtsMWJXYVlpaktIU2k5aWlpbFoyVEJzRDFwT19FN0FoZXlGemtIY2k2emRFeFcwTG54TTdIOFR5NGNCaXBFVUZLdlpJbFNFZ1NJVnNMb3NGTnZmNWJ4RW43cWllR3cwVzFtQ0c3ZEhJeG5tU0s5QTZ1TU1wcFo3TnRrMUI3bEJoS3NpWFJDRE1UbXctb3BYQnlkcTdpVTRldzA0Zw?oc=5",
-   "query": "DAZN precio oferta",
-   "found": "2026-10-14T16:00:33.948975+02:00"
-  },
-  {
-   "date": "2026-10-10T17:23:09+02:00",
-   "type": "novita",
-   "service": "DAZN",
-   "country": "BE",
-   "text": "Dazn lance une promotion exclusive pour la reprise de la Serie A - Il Messaggero",
-   "source": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV09PR01wb1MteVY4YnpRcE9HYTJPNk1McVFidk13WWEtSUx2ZHBVdHhqa2VHT25jVVpTT2NYU1hidUdVbHBYUWMzcTJ2UXRaTjRlM3ZKMlRPZnVTUTctVG1JVlROdXVwMnpGY3VXMFNBbnFPdWxVYk1VOWpBc0FqVnQ1dVNlbHJuVmpiQ1pNVTVzWGFCV01kQVNITzZzWDkyaWxfeDYwN29IQUpK0gGyAUFVX3lxTE9IVWpvbVNRX0hDMnRpV1M0ek9JYmR4Q3EwVDZ6emZTY2FVeFFLcXpmWFZTUk0taEc5UndjOVBPQkduMHhkeFdPX3ZUVmFJT09ZNG1ScW9JcldRamlnc1U4b1BEYWthNG9sRGp0MDU3NnEybVNwdEFwcVBLeDZHNDZHUzlQVEZLYXVpdlQ5NjVCRFh6OEJFR2tCQXYxVDg4R3lmd0lKcjFPY2NGdmZqcm1ZVmc?oc=5",
-   "query": "DAZN prix abonnement",
-   "found": "2026-10-14T17:59:06.589684+02:00"
-  },
-  {
-   "date": "2026-10-10T15:38:36+02:00",
-   "type": "novita",
-   "service": "DAZN",
-   "country": "ES",
-   "text": "Dazn lanza una promoción exclusiva para antiguos usuarios - Il Messaggero",
-   "source": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaG04cThWUHdsRHNXNGdhV0l3QmhJYjV2SzR5VTFLZzlUMVhNclJLUEo2dTdKdDVYRXFGaDlDa2VPcUV2N183T0NRTU15WmRGcUxmaGxUX2FtWEdyd04xSXhXWnpmLWd2YzBhUUFWQWtiSXRaVFU4RjhNM0VmVHZ0Y21BOVlQNUtTWDlZeFd0Z1FLYVd6b2pfZkdfdzMtNWlwbmFv0gGoAUFVX3lxTE43ZzVwekozMkd3aWpvS0s4WW9GUlB2SzVoUWt5SEpKOUxPMW81MlE2WTRlYUZUa1JndVNHN3h0bzZWQ1FaaXg5ZkhrbG5hdzZzVXRIcXpQdnBMaFVacXhUeWhRY3oxVmJBZmdpZFZUaVNrekUwWUY3ZVhwcjZYeERsdkdMRmh3N2x3SmJFLUlwMWJhSWkzNHQ0ZUJVeThFd0h0SHF3RjkybQ?oc=5",
    "query": "DAZN precio oferta",
    "found": "2026-10-14T16:00:33.948975+02:00"
   }
