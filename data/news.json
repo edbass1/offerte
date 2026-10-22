@@ -195,6 +195,7 @@
   "lamiglioreoffertasuskycinemadramaquotidianonazionale",
   "legogratisscopricomeavereinregalolanuovapizzeriaitalianaeveryeyeit",
   "legoilnuovosetquartierevenezianoèenormeprezzodataduscitaedovecomprarloeveryeyeit",
+  "lemeilleurdusportestsurdaznetàmoinsde8eurosparmoiscestuneoffrequinefautmanquersousaucunprétextermcsport",
   "lemiglioriofferteinternetcasadiottobre2026segugioit",
   "leofferte1mobilediottobre2026facileit",
   "ligaendesaycopadelreypormenosde6eurosalmesdazntienelamejorofertaparalosaficionadosalbaloncestoportiempolimitadolavanguar",
@@ -416,6 +417,16 @@
   "últimashorasaprovechalaofertaenelplanfútboldedaznparaverelatléticorealmadridymuchomásconunofertónmundodeportivo"
  ],
  "items": [
+  {
+   "date": "2026-10-22T22:15:00+02:00",
+   "type": "novita",
+   "service": "DAZN",
+   "country": "BE",
+   "text": "Le meilleur du sport est sur DAZN et à moins de 8 euros par mois, c’est une offre qui ne faut manquer sous aucun prétexte - RMC Sport",
+   "source": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNdnhYUUZaeTlJMU45eWdEbkxIdUxfY3B3ajV6SHpaUzZEQ1d5WmRKMjR0SjZQZlJ5aUl3R3c1S21HSC1OcENkU1p6WXZkdVhCdFpzek1fUVlCbFE3ZllqZUUzUDloMklLMUF6YUFVdEx2c01MeldTeUs3NGxqem9MbUZRejVuZUlYeTREaGdkeVhuVXFqWERCcXRPdE1QX2ZYSzFUNWcwQkZwSWtrTkR3Yl9HQ0xOa1Z3TEhPS0NUNGJkRHZ0VWhqSHJtSGpGUVFsZmZFaVNBQzRJcGJYYjM2SGoxTENHeEpYS0JDZDJ6VzhrQUg3XzFPR3JYMzRQVHRUWWp0M3hfNkQ?oc=5",
+   "query": "DAZN prix abonnement",
+   "found": "2026-10-22T22:51:34.462975+02:00"
+  },
   {
    "date": "2026-10-22T18:46:06+02:00",
    "type": "novita",
@@ -1905,16 +1916,6 @@
    "source": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaDdUWWpNYi1EX3lGaWhsV2FHTnFORVlSTk9DOUJnNjlFeVI0SU53OTZFVzJWWEx6NURDQlotOUlkTkx6a2pFVjN0T0VKZnUxZ2YwcUt2Zzl0ci1uWFhEQTdlanlCWWxLVTI5Qjl0cVFyR04zTy1TODFmOUdtYjFqMHNYSFE2NGxyZ0N0Q0gwTVhXdGRES1gydXNGVHpuSzBqQlhXY3ZaTWxtdw?oc=5",
    "query": "TIMVISION offerta",
    "found": "2026-10-14T16:00:33.948975+02:00"
-  },
-  {
-   "date": "2026-10-11T18:50:08+02:00",
-   "type": "novita",
-   "service": "PlayStation Plus",
-   "country": "IT",
-   "text": "GTA Plus e GTA 6: guida completa al mese gratis e al rinnovo - Cyberludus.com",
-   "source": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9WRlhFRDdOeTN0SHFIR0xxV0duX2tRdzRIMFFhdWdKRmpVTHhjZWgtZVVkdkQ1NktlTTk3UW5RNDllQ1I0VHhiWDczSkVkUDZCT3paZ3E3S18wd2NJX1dF?oc=5",
-   "query": "PlayStation Plus prezzo",
-   "found": "2026-10-14T17:59:06.589684+02:00"
   }
  ]
 }
