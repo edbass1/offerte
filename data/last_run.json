@@ -1,5 +1,5 @@
 {
- "run": "2026-10-22T03:02:45.013805+02:00",
+ "run": "2026-10-22T03:51:43.071970+02:00",
  "sources": [
   {
    "service": "Sky TV",
@@ -136,23 +136,20 @@
   {
    "service": "Fastweb",
    "url": "https://www.fastweb.it/adsl-fibra-ottica/fastweb-casa-start/",
-   "ok": true,
-   "prices_found": 15,
-   "promo_words": 15
+   "ok": false,
+   "error": "503 Server Error: Service Unavailable for url: https://www.fastweb.it/adsl-fibra-ottica/fastweb-casa-start/"
   },
   {
    "service": "Fastweb",
    "url": "https://www.fastweb.it/adsl-fibra-ottica/fastweb-casa-pro/",
-   "ok": true,
-   "prices_found": 14,
-   "promo_words": 15
+   "ok": false,
+   "error": "503 Server Error: Service Unavailable for url: https://www.fastweb.it/adsl-fibra-ottica/fastweb-casa-pro/"
   },
   {
    "service": "Fastweb",
    "url": "https://www.fastweb.it/adsl-fibra-ottica/fastweb-casa-ultra/",
-   "ok": true,
-   "prices_found": 16,
-   "promo_words": 15
+   "ok": false,
+   "error": "503 Server Error: Service Unavailable for url: https://www.fastweb.it/adsl-fibra-ottica/fastweb-casa-ultra/"
   },
   {
    "service": "Iliad",
