@@ -1,5 +1,5 @@
 {
- "run": "2026-10-22T04:52:40.569494+02:00",
+ "run": "2026-10-22T05:54:13.342322+02:00",
  "sources": [
   {
    "service": "Sky TV",
@@ -150,8 +150,9 @@
   {
    "service": "Fastweb",
    "url": "https://www.fastweb.it/adsl-fibra-ottica/fastweb-casa-ultra/",
-   "ok": false,
-   "error": "503 Server Error: Service Unavailable for url: https://www.fastweb.it/adsl-fibra-ottica/fastweb-casa-ultra/"
+   "ok": true,
+   "prices_found": 16,
+   "promo_words": 15
   },
   {
    "service": "Iliad",
@@ -169,5 +170,5 @@
    "promo_words": 11
   }
  ],
- "events": 0
+ "events": 1
 }
