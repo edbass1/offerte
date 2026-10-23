@@ -37,6 +37,7 @@
   "carburantianchetamoiltagliaiprezzifinoal31ottobreskytg24",
   "carburantidagliscontidieniipeq8altagliodelleaccisecosacambiaperchiguidaskytg24",
   "carburantieccochecosacambiatraloscontodienieipequellidecisidalgovernoskytg24",
+  "carburantieniestendeiltettoaiprezzipertuttolannoskytg24",
   "carburantienifissatettoprezzosubenzina199egasolio219governoringraziaskytg24",
   "carburantienifissauntettomassimoalprezzocomefunzionaecosasappiamoskytg24",
   "carburantisaledinuovoprezzodieselquantoguadagnalostatoskytg24",
@@ -454,6 +455,16 @@
   "últimashorasaprovechalaofertaenelplanfútboldedaznparaverelatléticorealmadridymuchomásconunofertónmundodeportivo"
  ],
  "items": [
+  {
+   "date": "2026-10-23T18:32:54+02:00",
+   "type": "novita",
+   "service": "Sky TV",
+   "country": "IT",
+   "text": "Carburanti, Eni estende il tetto ai prezzi per tutto l'anno - Sky TG24",
+   "source": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPd2ZRQXhLRXl1VVo4QWdoelZnaElkZDQtX05YSFFVcEN5WWZzMFBocm9kVzNfWTlBM1lSLTJmZ0Q0cjRuaW9Ua1ZfSkhJWG9tSks2QzVLN3UzanczUWh4SjJVeVpwMVhSUVRBdmNwSGZCLTJERnZGZXBlSUxhV19fblBZN1l4OGFKcGc?oc=5",
+   "query": "Sky offerta prezzo",
+   "found": "2026-10-23T18:54:16.794982+02:00"
+  },
   {
    "date": "2026-10-23T17:36:36+02:00",
    "type": "novita",
@@ -1943,16 +1954,6 @@
    "source": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTE82bmJ3NWl1VXp6RU91TFVDclplQWpERUpMakJ3VkR4dnRDLTVxMmh6VTNGeXlaSERvam5IVlVIa1BTV2VEcTlQeWNyLXpzMGg3Wk9WT1RrQW9ncFVfRmM5RXVQdnN3Z2xPNEpWMjdqcWtwZGJBc2hla1Z1Wk52TmZiUHJ3NEVDWGc?oc=5",
    "query": "TIMVISION offerta",
    "found": "2026-10-14T17:36:05.008522+02:00"
-  },
-  {
-   "date": "2026-10-14T15:38:20+02:00",
-   "type": "novita",
-   "service": "PlayStation Plus",
-   "country": "IT",
-   "text": "Annunciato il DualSense di Gran Turismo 7 in edizione limitata: prezzo e data di uscita - Multiplayer",
-   "source": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSjhyc3lHaWFxMGE0MFJKWC1mOWViTjNtaExQWFdzcG9fcEZSNTg0RXEwb2xvcG9rNktCX2c3dkNIMGdGcFB0dEJwWHoxVzZEa0ZTTEhGOE9RV0xreER5LUVzMUdtUG50VmIxRV9UNUtwUmhnRHppR2xjd0piQlpkMlptT1BKTDRaNzNNbG4wV2VwYUVEc0czTUF2MzZkdktIY3d6SmFJQWZ3TGVOSnBUUFVhMnVNdHdiMHh3TUlSVQ?oc=5",
-   "query": "PlayStation Plus prezzo",
-   "found": "2026-10-23T09:06:36.384758+02:00"
   }
  ]
 }
