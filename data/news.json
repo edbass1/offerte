@@ -129,6 +129,7 @@
   "daznrebaja80eurossuplanpremiumtodoloqueincluyeycómocontratarloalmejorpreciosport",
   "daznrebajaa999eurossuplandefútbolpormenosde48horasparaverelclásicoymuchomásdiariodeibiza",
   "daznrebajaa999eurossuplandefútbolpormenosde48horasparaverelclásicoymuchomásdiariodemallorca",
+  "daznrebajaa999eurossuplandefútbolpormenosde48horasparaverelclásicoymuchomáselcorreodeandalucía",
   "daznrebajaa999eurossuplandefútbolpormenosde48horasparaverelclásicoymuchomáselcorreogallego",
   "daznrebajaa999eurossuplandefútbolpormenosde48horasparaverelclásicoymuchomáselperiódico",
   "daznrebajaa999eurossuplandefútbolpormenosde48horasparaverelclásicoymuchomáselperiódicodearagón",
@@ -594,6 +595,16 @@
    "source": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNODhiSGtKVzdiMFpNeGhDQVlUanJRR0dWeVNncmU4Q0JYTEdmYU92RzNHRWlTM2RhbTUyOGNLNkk1SUdnSENwYjU1YTh6bVpqdm8tOG9US0Q3QzZLdEllVjhYMFZRYjNLSlFYMDdKdHUzN0I0b19UaE16aEhWcU1rc0VoWXY1Wnkwd0JCU3VwTTRkaGVxaHJod2g4QUlSelF1UnczMENoSExhSC12N0lPZmRiX3otbHU1?oc=5",
    "query": "DAZN oferta plan",
    "found": "2026-10-23T15:57:28.520374+02:00"
+  },
+  {
+   "date": "2026-10-23T13:00:06+02:00",
+   "type": "novita",
+   "service": "DAZN",
+   "country": "ES",
+   "text": "DAZN rebaja a 9,99 euros su plan de fútbol por menos de 48 horas para ver el Clásico y mucho más - El Correo de Andalucía",
+   "source": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaFZRTWFxU0gxVDFtYzAtaDNYa0FUdmthUUF1SURxeFJoVHpYcWN6SDRLdHctbjFzSzlGMkdxcW5jdEp0UWs4SzN1dVMwMlJEQ3JkdUhqODZuMk1LNzNNUUhrM3F1SXpic2owQ3M4ZF9UbGJKbUUwRG9HblZkVkdkWDE3bl9uWXdrcUh1Q0JISHBwN1FzSXRrWW03TzkwSUk5dERwamlLZ2Y5VW90dTNneVJFWUttNVFnLUc2cWRR?oc=5",
+   "query": "DAZN precio",
+   "found": "2026-10-24T00:48:41.701997+02:00"
   },
   {
    "date": "2026-10-23T12:40:12+02:00",
@@ -1944,16 +1955,6 @@
    "source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOblRMZENwUzNmZ3U3WTN5UFNSMWc5VUxQTlAxLWFVY1VURF9ZVWNleHk2bjBDaklTYzQ5TEVGcldrX0xWWDVkbktZcnppcE50ZXBfZURZY05KTEZGbElSSmltVnRYTFNYdFZ3MHYxVFN1VnRuTVdJX2pnSF9sZUhLWUtMRTNFcmFYcHlDUmNQRmpodmFqREk1ekNhUWFtaTJGM29YMw?oc=5",
    "query": "PlayStation Plus prezzo",
    "found": "2026-10-16T17:51:12.288593+02:00"
-  },
-  {
-   "date": "2026-10-14T17:28:26+02:00",
-   "type": "novita",
-   "service": "TIM",
-   "country": "IT",
-   "text": "Very Mobile lancia gli Smartphone Days: 150 GB a 5,99€ al mese per sempre - HDblog.it",
-   "source": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTE82bmJ3NWl1VXp6RU91TFVDclplQWpERUpMakJ3VkR4dnRDLTVxMmh6VTNGeXlaSERvam5IVlVIa1BTV2VEcTlQeWNyLXpzMGg3Wk9WT1RrQW9ncFVfRmM5RXVQdnN3Z2xPNEpWMjdqcWtwZGJBc2hla1Z1Wk52TmZiUHJ3NEVDWGc?oc=5",
-   "query": "TIMVISION offerta",
-   "found": "2026-10-14T17:36:05.008522+02:00"
   }
  ]
 }
