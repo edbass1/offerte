@@ -1,5 +1,5 @@
 {
- "run": "2026-10-24T23:47:06.806657+02:00",
+ "run": "2026-10-25T00:45:49.204908+02:00",
  "sources": [
   {
    "service": "Sky TV",
@@ -99,7 +99,7 @@
    "url": "https://www.tim.it/offerte-tv",
    "ok": true,
    "prices_found": 0,
-   "promo_words": 106,
+   "promo_words": 117,
    "note": "nessun prezzo nel testo (pagina dinamica?) - mantenuti ultimi valori noti"
   },
   {
@@ -115,7 +115,7 @@
    "url": "https://www.tim.it/offerte-tv/timvision-dazn",
    "ok": true,
    "prices_found": 0,
-   "promo_words": 99,
+   "promo_words": 103,
    "note": "nessun prezzo nel testo (pagina dinamica?) - mantenuti ultimi valori noti"
   },
   {
@@ -170,5 +170,5 @@
    "promo_words": 11
   }
  ],
- "events": 0
+ "events": 10
 }
