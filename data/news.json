@@ -139,6 +139,7 @@
   "daznrebajaa999eurossuplandefútbolpormenosde48horasparaverelclásicoymuchomáselcorreogallego",
   "daznrebajaa999eurossuplandefútbolpormenosde48horasparaverelclásicoymuchomáselperiódico",
   "daznrebajaa999eurossuplandefútbolpormenosde48horasparaverelclásicoymuchomáselperiódicodearagón",
+  "daznrebajaa999eurossuplandefútbolpormenosde48horasparaverelclásicoymuchomáselperiódicoextremadura",
   "daznrebajaa999eurossuplandefútbolpormenosde48horasparaverelclásicoymuchomáselperiódicomediterráneo",
   "daznrebajaa999eurossuplandefútbolpormenosde48horasparaverelclásicoymuchomásfarodevigo",
   "daznrebajaa999eurossuplandefútbolpormenosde48horasparaverelclásicoymuchomáslanuevaespaña",
@@ -424,6 +425,7 @@
   "timaumentaalcuneoffertediretefissa299euroalmesedanovembrehdblogit",
   "timaumentaiprezziditimvisionchipagheràdipiùedaquandohdblogit",
   "timcambiastrategiasulleofferteoperatorattackmenoscontiperchiarrivadalycamobilesostariffe",
+  "timfissonovitàeprorogheattualeportafoglioepromoproseguirannoanovembre2026mondomobilewebit",
   "timfullfibraperclientibusinessorainoffertaamenodi25euroalmesehdblogit",
   "timgigain5graddoppiatia499euroalmeseasettembre2026sostariffe",
   "timinsistecontimpowerfamigliaironminutie200gigaamenodi5euroalmesemondomobilewebit",
@@ -466,6 +468,16 @@
   "últimashorasaprovechalaofertaenelplanfútboldedaznparaverelatléticorealmadridymuchomásconunofertónmundodeportivo"
  ],
  "items": [
+  {
+   "date": "2026-10-24T13:26:00+02:00",
+   "type": "novita",
+   "service": "TIM",
+   "country": "IT",
+   "text": "TIM fisso, novità e proroghe: attuale portafoglio e promo proseguiranno a Novembre 2026 - MondoMobileWeb.it",
+   "source": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdERFazBPb0N4ZjVJWFVqekhGWEtibEc1cjdpZDMxcXJEMF9JQUcxVkNqRTB4aUc0TDczc1dFbS0zcUVOTEI0WjVBaGg3SFhCeWx1ck90cUZ0MHVxWG51SjNJaWRuaHVPNWlIUlZNVVlDZ250cUNZRldRUjM3SlBYQVg4RHRqR3BVclk4VWUxR2JqenYtMThlajRmaVZiSlAydE01czJkNFhpa25vTjl5RDlDUnBCM3FmeWc5eDU5b2s?oc=5",
+   "query": "TIMVISION offerta",
+   "found": "2026-10-24T13:48:27.345636+02:00"
+  },
   {
    "date": "2026-10-24T12:30:00+02:00",
    "type": "novita",
@@ -655,6 +667,16 @@
    "source": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONWhtWElkVGFXcXgyUjRfRFEzc2xOTHhkS2JWY1JTMUdCUkdyYi0tS3BwS1N2ZUpiZUFOY2NaeHczTFp3c3d5Q2ZpMGl4aHFrNkg2LTZJUENoZXk2MVlfLWJYc0ZfMlpyWHdINV9xTmlVN1d2bVdVNkZ4bjk3NHJSNTFLWHA0blM5R0xPUHpMbk9fRnZkMjdGOXFsV0h3cm1ZWVR4M3BFcXo5azVKTWJuTzE5N3ktMW9pSnZZWjJfaktnLTlGcEE?oc=5",
    "query": "DAZN precio",
    "found": "2026-10-24T11:49:15.782598+02:00"
+  },
+  {
+   "date": "2026-10-23T13:00:06+02:00",
+   "type": "novita",
+   "service": "DAZN",
+   "country": "ES",
+   "text": "DAZN rebaja a 9,99 euros su plan de fútbol por menos de 48 horas para ver el Clásico y mucho más - El Periódico Extremadura",
+   "source": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSTdWc09JSGJ3RXItTjdKNlZnSTlnTTJpX1NYeGc5TzJEdzBEM2dxdTNhcFVrWnJZTWNoOUE5bUtQaXpDcFhBenNITWowYnQ3Wl9tNjQ2UUFxaHEtbFU1WHZrcjUzaFQ0bWR0dUVhdjNvdEJtXzFwOGotaFNPM3hRVEd6bEdmaURrNFRxNlV6b3hVN2QtR211WlVXcTF5eDdHclpmRnBjY1k4RUJNX3ctTGtudVVsSWdjdUN5enk3eFdVUFFieDUzOUJMZmJIUWFPVlF3?oc=5",
+   "query": "DAZN oferta plan",
+   "found": "2026-10-24T13:48:27.345636+02:00"
   },
   {
    "date": "2026-10-23T12:40:12+02:00",
@@ -1945,26 +1967,6 @@
    "source": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONGdxeTBwLVBibWtNSG1CNmZGaFJ5SlFNRUJDdUJ0WFFqMElZUjFweVNJTXFVNjVsTmJkVmxjbTEwclVrUzhrVVVWT203WHJXVUN2UjBSWlpxZmN5LUdHZF9HYzNEMEFDdTZEU1ctcDF2Y0xhVThobkZYeGctYTAxanVOTmVHdkZpNjQ4djF4RE1hNldYck9ieENkR2RyRzFiTVJzZDVwTzF5YjA?oc=5",
    "query": "offerte TIM fibra",
    "found": "2026-10-15T09:55:25.622654+02:00"
-  },
-  {
-   "date": "2026-10-15T09:00:00+02:00",
-   "type": "novita",
-   "service": "TIM",
-   "country": "IT",
-   "text": "Aumenti TIM novembre 2026 e gennaio 2027: rincari per fisso e TIMVISION - ComparaSemplice",
-   "source": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0yaUhlckMzNmFkWGVCQWxWdGZoX0JsMGljOTd3dDROMU9oR3RlSnk4ZDlsZVR4ZGU2SXVpWWx0S2dhU0Z1RUZNa1FST1R1bHJVektzQ1BFYTQzRXAzODkwYWNTT2FJS1BMZWtxYlJ1QWlEYlE?oc=5",
-   "query": "TIMVISION offerta",
-   "found": "2026-10-18T04:48:53.858625+02:00"
-  },
-  {
-   "date": "2026-10-15T09:00:00+02:00",
-   "type": "novita",
-   "service": "DAZN",
-   "country": "DE",
-   "text": "NFL Gamepass für 49 € - dslweb",
-   "source": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE11M2tDbE9oN0VwTEhtSk15RDNBMU01R3dWdnduTHY2WjlMcjd4Wmotdnk3dU9pQWRvNTRBbE1DVUo2dDFoNVFNd1V4eE8wVDJWd1JCcHI0bFhIcXlzZXJCUVdB?oc=5",
-   "query": "DAZN Preis Angebot",
-   "found": "2026-10-22T11:55:14.352256+02:00"
   }
  ]
 }
