@@ -133,11 +133,13 @@
   "daznfulldaznfamilydaznsportsedazngoalipianieiprezzidaznnewsitaliadazn",
   "daznfulllasuperpromozionediottobre2026perfesteggiareilritornodellaserieaeveryeyetech",
   "dazngollegaconfútbolfórmula1motogpynbadesde499eurosalmestodoloqueincluyelarazón",
+  "dazngopor5mêsqueremosesteplanoemportugalmaistecnologia",
   "dazngratiscómofuncionacondicionesyveronlineenhddazn",
   "daznlanceunepromotionexclusivepourlareprisedelaserieailmessaggero",
   "daznlanzalarebajamásbestiaensuplanbaloncestotodalaligaendesacopadelreyylanbamundodeportivo",
   "daznlanzaunaofertaagresivaparaelclásicosólotienesunosdíasparaaprovechareldescuentoxatakamóvil",
   "daznlanzaunapromociónexclusivaparaantiguosusuariosilmessaggero",
+  "daznlanzaunpaquetedestreamingalpreciode499eurossatcesccom",
   "daznlançadescontoparaassistiràserieapelametadedopreçoitalianismo",
   "daznmyclubpasstornainpromoconprezzomensilescontatoperiprimi12mesimondomobilewebit",
   "daznoltre100eventisportivigratisperdiecigiornieccocosasipotràvederehdblogit",
@@ -402,6 +404,7 @@
   "quandoescegta6il19novembreorarioprezzoepreloadfantagiochi",
   "quantocostaps5slimaottobre2026eccolemiglioriofferteperrisparmiareeveryeyeit",
   "quantocosteràlaps5perilblackfridaycisarannoscontieofferteperrisparmiareeveryeyeit",
+  "quépuedesvercondazngopor499eurosalmeslaligaf1motogpnbanflymásconlímitesroamses",
   "quéverdel12al18deoctubreenlosplaneshbomaxdeportesydaznabónateaquíeurosport",
   "quéverdel19al25deoctubreenlosplaneshbomaxdeportesydaznabónateaquíeurosport",
   "quéverdel26deoctubreal1denoviembreenlosplaneshbomaxdeportesydaznabónateaquíeurosport",
@@ -510,6 +513,26 @@
  ],
  "items": [
   {
+   "date": "2026-10-26T18:38:09+01:00",
+   "type": "novita",
+   "service": "DAZN",
+   "country": "PT",
+   "text": "DAZN GO por 5€ Mês? Queremos este plano em Portugal! - MaisTecnologia",
+   "source": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSFpHTGNhUUNYclJ1WnBsRW41Vm9saEt2Z3NLV0J5WmxnckFRaWV6VVp1a1h5dFk5WHQ0QlA5M3NkdjJCY1Q3LThCcU8xUTJtRWVvUXN5NmJYbVBuSUJhRDdjUVNMLWlJSGR0N29SX2xSMGdBNkxHcU1oZ0tyTGxNOGhR?oc=5",
+   "query": "DAZN preço",
+   "found": "2026-10-26T18:53:42.051168+01:00"
+  },
+  {
+   "date": "2026-10-26T18:16:00+01:00",
+   "type": "novita",
+   "service": "DAZN",
+   "country": "ES",
+   "text": "DAZN lanza un paquete de streaming al precio de 4,99 euros - SatCesc.com",
+   "source": "https://news.google.com/rss/articles/CBMiekFVX3lxTE92Y0lMblNqQXY2RXN1Q1l3R0pkSGxxZ0RHT3ZQWXJ3T09rTjQwZWdtVDUxYzZZaUVVUnFCRXdvX1NHYkVxbVZsNG9iSVMyMTNZSmw1QlpFMUt6UUJBLWdMTWcxRHpWX2NCdEdycnpHbG1uMFRvaTRlX2Z3?oc=5",
+   "query": "DAZN precio",
+   "found": "2026-10-26T18:53:42.051168+01:00"
+  },
+  {
    "date": "2026-10-26T17:38:00+01:00",
    "type": "novita",
    "service": "Sky TV",
@@ -518,6 +541,16 @@
    "source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSHlfaHl6dHRiZUEyZ0Y3MFJETnRXSUhYZ2JTb29tOGtCYmRyTlg5blZwTnA5ekE3NEdzRzluaHlXTXpFT2h0cHdxcmlZb21QUnpWelhmdzVYVEk4ZS1SNUZaVlVYckxya2pFRW05QV9UbFZvdVJBckozQUUycFNhS1JxRFczUmVDMmU4emp0UDdXYnY3MjJCWG50bTFBeVQ0Z3NZLXlwTlZBWU1ZRjFXR0Z1SXNvRjRzLW1fdQ?oc=5",
    "query": "Sky offerta prezzo",
    "found": "2026-10-26T18:01:50.080807+01:00"
+  },
+  {
+   "date": "2026-10-26T17:30:49+01:00",
+   "type": "novita",
+   "service": "DAZN",
+   "country": "ES",
+   "text": "Qué puedes ver con DAZN GO por 4,99 euros al mes: LaLiga, F1, MotoGP, NBA, NFL y más, con límites - roams.es",
+   "source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPY0RGdHpybGZlU0lkZXB6V1NfZVpxWUxGLW81dGc1WWo2TUR3Mi1FTm15WDQyMDlabzJzQXBzR3ViVC1jRXdBRlUxT01zM2tRRFNERnVBOFkyNUFGTDN6MllfbHZiR1A3T2I3M0hpWmdRXzRYcWR0VE9TMUl2eHNoU3hxTm1VWDFhcUNiZHlxRFhHSDh4MmhWQnNzNTdEVFFFS0lubw?oc=5",
+   "query": "DAZN precio",
+   "found": "2026-10-26T18:53:42.051168+01:00"
   },
   {
    "date": "2026-10-26T14:40:16+01:00",
@@ -1978,36 +2011,6 @@
    "source": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbHFtWlYwR0szZ2FUTUpxMGswM2dZVldOQmt5bU9iMUJENThGSHlQZVY0QTdNZ01vNHFvVkV2bEFoUm5YRVNzdUNTVUpzdzYxX3hsR3hrTTNqV09KN2pXeVpZdnpGYjBxOGZ6MXZ2azJUUkpONVJ0UFFTd3BFRXBLSmFDazFiaEdPNEJv?oc=5",
    "query": "offerte TIM fibra",
    "found": "2026-10-18T10:48:00.646524+02:00"
-  },
-  {
-   "date": "2026-10-18T05:50:00+02:00",
-   "type": "novita",
-   "service": "DAZN",
-   "country": "ES",
-   "text": "Oferta para el FC Barcelona - Real Madrid: dónde ver el primer Clásico de esta temporada en el Camp Nou a mitad de precio - La Vanguardia",
-   "source": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTG5sZ3RUcGNqbks2enZvQTRZVzE5NHJfSHA5a0hLVEJWdzl2ck9JUkNublNEQkFTdkpTNF9ZbXFJT2c1MmdEYXkxTU0wNVlaTlVsbWo1Y0RYV2lFZkIxbXlJOEY1NE1PM1BSMjA5ZWpUOTlhU2xLT0M4Z19aVTdRdjFNQTZzSTZMWmZ0SllGdk9ZNTJiNHVOZ0gzV213Z3FKcWNmWEk1dW13NkxTUUdpbklWa0k0Z3J6RmNPNkw5RFpFLVVVdnF4Zk5qd0JXaEhVWGdpVDVoTERxdTd3bmV6VHE1akPSAeoBQVVfeXFMUGlsRUZta0gwR3QzS0M3NERBdmJkOVpwaGJxUkdJWnJuX0plbjVyeUZZWXdQZ1JhMnZEdndaTEJpbDdBeS1aOGNMMW45WnlKbjdKbWRWQkN4XzYwcFA1eW1GOUFzX2wyeV91VldHWUttOEt1REhGQlVfOUdsQXVuNV9fWEM5WVFSdG1KanBRSTZhN3BZUVFac2JxTHJEREpoN1FyOUJ5RVFQMGk4eW9LSlMySHdzc1QyTWF6REl4bjZXdEZLQWhtQVctSUx6Q2otZ04wVjgyZzlTREppY0NJdVg5NEpNZl8tRkRB?oc=5",
-   "query": "DAZN precio",
-   "found": "2026-10-19T18:11:35.480781+02:00"
-  },
-  {
-   "date": "2026-10-17T09:00:00+02:00",
-   "type": "novita",
-   "service": "Sky TV",
-   "country": "IT",
-   "text": "Intesa Ue-Italia sul decreto bollette, cosa prevede l’accordo sul prezzo dell’energia - Sky TG24",
-   "source": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMjZlZEQ4M2RaU1hienZ4c2RQTElqZ1d0OGdRYTJIMExNaFEtemV2ZUpQX2dfbEZOVXhFb09MTXRMM2JXYlNBRzJyLS1uSWRiZjU0MlVVNlBEcjh0WXNIZXpoVWJzR1phQk1fYzFlenNiYWR4T3UxZkMtYm01UldZcmZkMUlCNzB1RTdDeg?oc=5",
-   "query": "Sky offerta prezzo",
-   "found": "2026-10-25T11:48:21.149827+01:00"
-  },
-  {
-   "date": "2026-10-17T09:00:00+02:00",
-   "type": "novita",
-   "service": "Sky TV",
-   "country": "IT",
-   "text": "Prezzo benzina e diesel, sconti sul carburante: quali sono i distributori dove risparmiare - Sky TG24",
-   "source": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOM0txNVlkZVRvbW1PREtNWVE4UWZSaF85dE5mdzI4N1N5bzVnUk1HVWdKXzMxenA0cS1URFA2M00yb1QwYVU1S29SbnNUbEZiODRScThqdXA2di1JRzNBWnI3UDFqNmRpRjFoVFpPUVVnVVRSSFU0VFlRWElZczJmMEVnYXlzcjJ0Mkw0Ng?oc=5",
-   "query": "Sky offerta prezzo",
-   "found": "2026-10-26T14:36:22.602839+01:00"
   }
  ]
 }
