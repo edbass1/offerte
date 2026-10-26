@@ -1,5 +1,5 @@
 {
- "run": "2026-10-26T14:36:22.602839+01:00",
+ "run": "2026-10-26T16:46:09.254389+01:00",
  "sources": [
   {
    "service": "Sky TV",
@@ -107,7 +107,7 @@
    "url": "https://www.tim.it/fisso-e-mobile/fibra-e-adsl/fibra-wifi-casa",
    "ok": true,
    "prices_found": 0,
-   "promo_words": 136,
+   "promo_words": 132,
    "note": "nessun prezzo nel testo (pagina dinamica?) - mantenuti ultimi valori noti"
   },
   {
@@ -170,5 +170,5 @@
    "promo_words": 11
   }
  ],
- "events": 2
+ "events": 4
 }
