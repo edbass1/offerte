@@ -143,6 +143,7 @@
   "daznlanzaunaofertaagresivaparaelclásicosólotienesunosdíasparaaprovechareldescuentoxatakamóvil",
   "daznlanzaunapromociónexclusivaparaantiguosusuariosilmessaggero",
   "daznlanzaunpaquetedestreamingalpreciode499eurossatcesccom",
+  "daznlanzaunplanpormenosde5eurosalmesconmotogpyfórmula1perohayunapegatodocircuitocom",
   "daznlançadescontoparaassistiràserieapelametadedopreçoitalianismo",
   "daznmyclubpasstornainpromoconprezzomensilescontatoperiprimi12mesimondomobilewebit",
   "daznoltre100eventisportivigratisperdiecigiornieccocosasipotràvederehdblogit",
@@ -357,6 +358,7 @@
   "oliodolivacrollanoiprezziprotestanoiproduttoricosastasuccedendoskytg24",
   "ondeverosjogosdaligaeuropadestaquintafeira22deoutubroemdiretonatelevisãoportuguesamagazinehd",
   "openfiberpaga120aglioperatoriperogniclientechepassaallafibraftthselectranet",
+  "openfiberpaga120euroaglioperatoriperportareiclientisullaftthphonetoday",
   "orangetvfútbol202627tarifasypreciosparaverlaligaroams",
   "orangetvfútbolofertasparaverlaligaylachampions202627roams",
   "pacchiextrauedall1novembrearrivalanuovatassada2eurocosacambiaskytg24",
@@ -528,6 +530,16 @@
  ],
  "items": [
   {
+   "date": "2026-10-27T13:54:04+01:00",
+   "type": "novita",
+   "service": "DAZN",
+   "country": "ES",
+   "text": "DAZN lanza un plan por menos de 5 euros al mes con MotoGP y Fórmula 1, pero hay una pega - Todocircuito.com",
+   "source": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOckxaZ2ZfcUhvQjBoZjNzT2lJWFQ0dGZ0NFpTSVpXbWlWb0dHTHJxS0dwOVZQQUx1eVNjRWUzNlJlQ0l3N080c0NQY3lmVDJRR2hvLVhLY1hjV2JKT1ljLVE5bVdZN0JoeTBON05fZlBVS3JVc3dtUkZWLTR6emtWVjllTGpIcURVcUVYYTl2ZkQ0cU84eVJiUG1rV0oxZU9hMl9nZURxRDhYaXdEMEl6b2Q3QVhjbEJmMW40WlQxd25iNEJRaXpCVGdzNmRHSUJYY2c?oc=5",
+   "query": "DAZN precio",
+   "found": "2026-10-27T15:07:51.453063+01:00"
+  },
+  {
    "date": "2026-10-27T12:30:00+01:00",
    "type": "novita",
    "service": "Sky TV",
@@ -676,6 +688,16 @@
    "source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUFViZ0VjeU9wUFlnak1pTTlsdHJtRzU5NWR6d0NINUp2eUV1M1d1Zy1BTDJpaUg3VzJjOFdzWGdjenVtOVVHbk9jaFRoVkYxUmFJbzFmMlR6cjVQMHNUQkI2QlBwcnRLZEhEc0QzQkI1NGk3aTAtVEczUE1rcFhiM0M1cHB6U2RsbWNiUVJkZllQdWNRWVhDMVhWcHbSAaIBQVVfeXFMTjVlQi1Vb0M4b09RR2dRejNUSDRIQUhJX1hLa2hkQlRWOTdjcHdLdV9JdElUU2JqbmRyNklJcVhJWTZEb25SNEl2VTJPcFRLRE5XNjlreng0eThyLV9jQlFRbVFxRUNwRkpJc1NFNDNWNEJOUEgyVUFrLUd3ancydGpJbW5sRUx1b3E2Z09vb1Y2ZkpLUFdhd05aTlhvUTRMdVJ3?oc=5",
    "query": "DAZN oferta plan",
    "found": "2026-10-26T14:36:22.602839+01:00"
+  },
+  {
+   "date": "2026-10-26T11:00:36+01:00",
+   "type": "novita",
+   "service": "TIM",
+   "country": "IT",
+   "text": "Open Fiber paga 120 euro agli operatori per portare i clienti sulla FTTH - PhoneToday",
+   "source": "https://news.google.com/rss/articles/CBMibkFVX3lxTE50emNaY3pzNXpBWl91cVduOVdaYjFHSEl3NVd5VkxoZGJjNDV2NWRFQlluTEtZQ2JPdWdRSnItc3BVeGVxZ1h6WTlvVERxRV91ZEFaSkVJaEpmV0hlUndXS05WblpOempOcm5Ob29n?oc=5",
+   "query": "offerte TIM fibra",
+   "found": "2026-10-27T15:07:51.453063+01:00"
   },
   {
    "date": "2026-10-26T10:18:00+01:00",
@@ -2006,26 +2028,6 @@
    "source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPazR0VHhQMFRBTlIxNTM5cGIwQTZOUm1Ga0psUkJnbm0xY1F1VEtNdDZ2eWExUGhJdGdNN01vR21KbEs2amU1ZmsxalV2d2t2UE9ISHRRR2xyazFOMzlLUmFCNW5GMUktNWs4WDBSdHlyTXlMck1KNzBiWE03Y1FsXzVXLUFCbnpyNWNzUzRaSFRnLVozVjBiWmRn?oc=5",
    "query": "TIMVISION offerta",
    "found": "2026-10-19T12:51:15.005415+02:00"
-  },
-  {
-   "date": "2026-10-19T11:18:00+02:00",
-   "type": "novita",
-   "service": "TIM",
-   "country": "IT",
-   "text": "Fastweb e Vodafone offrono voucher fino a 20.000 euro: chi può richiederli - Segugio.it",
-   "source": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTXUyZ1RyWVhGZmhIdGJIR0dpZ1VCZmp3UEFmYXBtbEZfZ1dSeGFpQkdYMjc5VDlkYXNqLWFzRHBfMUt4WDRWUjJNRXBJYzAxWFZTTF9pXy1UWG1HS05PWVdGSmNqM0lMS0ZMa3p4eVJRc3dkX21WUTR0M1A0WGlkUjJnRGh6ZGpyS1FaeEdzVWpBUjRuU2poUGN2X2NOcXlhSnFtalV3ZmpZY1RqTDZJeUptaEFHcGZ5WjNTOTZDSFdJSzNu?oc=5",
-   "query": "offerte TIM fibra",
-   "found": "2026-10-19T11:55:20.129052+02:00"
-  },
-  {
-   "date": "2026-10-19T10:05:00+02:00",
-   "type": "novita",
-   "service": "DAZN",
-   "country": "ES",
-   "text": "¿Qué ver del 19 al 25 de octubre en los Planes HBO Max Deportes y DAZN? - Abónate aquí - Eurosport",
-   "source": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdlg3Q0duOHZ3dDA0bU9JcFVxVlAyYWZDcDlqSTNMa2tRRlp1dzNBRmJPbm9JOTlhSGh3bXZFa25uZlhnNy1ZSzRvTVI0eUNVMFBBSWFXeTBMNlQzU2ZWWU5CcG9CdEpuVEVhRmhUakRIblN5TF9GUUItSEtBY3dfbE9QcTNDUXJHaHE1Zlc2U2xVak1YVzRkaHZUeTNLM2t3dmFpX3dQalB6V1ljc0dFMFJHRjd0RTRucEZxWGJhbFZDcWxxVXhtREc3Wk5XRU5WVFlN?oc=5",
-   "query": "DAZN oferta plan",
-   "found": "2026-10-20T16:53:46.447549+02:00"
   }
  ]
 }
