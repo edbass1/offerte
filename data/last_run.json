@@ -1,5 +1,5 @@
 {
- "run": "2026-10-27T20:55:12.881367+01:00",
+ "run": "2026-10-27T21:53:26.857882+01:00",
  "sources": [
   {
    "service": "Sky TV",
@@ -97,26 +97,20 @@
   {
    "service": "TIM",
    "url": "https://www.tim.it/offerte-tv",
-   "ok": true,
-   "prices_found": 0,
-   "promo_words": 117,
-   "note": "nessun prezzo nel testo (pagina dinamica?) - mantenuti ultimi valori noti"
+   "ok": false,
+   "error": "403 Client Error: Forbidden for url: https://www.tim.it/offerte-tv"
   },
   {
    "service": "TIM",
    "url": "https://www.tim.it/fisso-e-mobile/fibra-e-adsl/fibra-wifi-casa",
-   "ok": true,
-   "prices_found": 0,
-   "promo_words": 132,
-   "note": "nessun prezzo nel testo (pagina dinamica?) - mantenuti ultimi valori noti"
+   "ok": false,
+   "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
   },
   {
    "service": "TIM",
    "url": "https://www.tim.it/offerte-tv/timvision-dazn",
-   "ok": true,
-   "prices_found": 0,
-   "promo_words": 103,
-   "note": "nessun prezzo nel testo (pagina dinamica?) - mantenuti ultimi valori noti"
+   "ok": false,
+   "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
   },
   {
    "service": "WindTre",
@@ -170,5 +164,5 @@
    "promo_words": 11
   }
  ],
- "events": 0
+ "events": 1
 }
