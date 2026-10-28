@@ -66,6 +66,7 @@
   "comeaverenowtvgratisottobre2026tuttotekit",
   "comeavereplaystationplusgratisottobre2026tuttotekit",
   "comeottenere3mesidigiochiplaystationplusessentialalprezzodiunosoloconquestotruccoeveryeyeit",
+  "comesceglierelamiglioreoffertafibraperlacasavelocitàcoperturaecostinascosticorrieredellasera",
   "comevederenetflixgratistuttelesoluzioniperpagaremenooggimoneyit",
   "comeèlanuovasuzukieskytrai1215milaeuroinarrivoinitaliaconfortiambizionielealternativeattualibusinessonlineit",
   "connowtuttolosportilcinemaelatvdiskyinoffertaa2799puntoinformatico",
@@ -145,6 +146,7 @@
   "dazngoquéincluyeelnuevoplandeportivodesde499euroselperiodicodigital",
   "dazngratiscómofuncionacondicionesyveronlineenhddazn",
   "daznlanceunepromotionexclusivepourlareprisedelaserieailmessaggero",
+  "daznlanzadazngounnuevoplanmultideportedesde499eurosalmesneeo",
   "daznlanzalarebajamásbestiaensuplanbaloncestotodalaligaendesacopadelreyylanbamundodeportivo",
   "daznlanzaunaofertaagresivaparaelclásicosólotienesunosdíasparaaprovechareldescuentoxatakamóvil",
   "daznlanzaunapromociónexclusivaparaantiguosusuariosilmessaggero",
@@ -558,6 +560,26 @@
   "últimashorasaprovechalaofertaenelplanfútboldedaznparaverelatléticorealmadridymuchomásconunofertónmundodeportivo"
  ],
  "items": [
+  {
+   "date": "2026-10-28T16:57:29+01:00",
+   "type": "novita",
+   "service": "DAZN",
+   "country": "ES",
+   "text": "DAZN lanza DAZN GO, un nuevo plan multideporte desde 4,99 euros al mes - Neeo",
+   "source": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOemdtRkVRbjZpdFNpS0J3N29GdmdIdGtKYjNqeVhSai01VWhHRnhyTENhZFliTUJqc0cxOFNqX0dUU2NaQkpKVkVFNW9OYmFRYmxTeEtKQjYxMW9BQ2FXNWpfcmxveDRxN3ZGQzI3OXpUeVNDOFN0RFZqU3ZtT1BSNXFwb1lYNy1xTE0xcDhjNVNOS2xQMUlnckIzenFWRC1VWWc?oc=5",
+   "query": "DAZN oferta plan",
+   "found": "2026-10-28T18:07:23.051646+01:00"
+  },
+  {
+   "date": "2026-10-28T14:22:30+01:00",
+   "type": "novita",
+   "service": "TIM",
+   "country": "IT",
+   "text": "Come scegliere la migliore offerta fibra per la casa: velocità, copertura e costi nascosti - Corriere della Sera",
+   "source": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQbThuVlpTOXBpWm4wWWI3NkdEWTRJaTlQd0FHWGdwaDJkMWx2ZUZwRXp0VjBhbmZBR3J3MUJheGVwS3FBeWV1SDBLaTJ2U2pEUDZ1d3RmOUhTWV90NkdQVWlTeHcwM3FoNzJpLXBOZFRudWE2Y3MwSHhZd1VLV2NFcGM4VDVJSC1yTi04dlpwTXJHUzRSMi14QVZNYXUtUFFqMjk1ZjAwYTB4R3hkSEFxMWUtSExYOFBfczkzcjhia0QxcVl0LWRwNUJrWEEwVmQzZWlCbEF1cHh3NERfRWFUcGt6ZGQ2VnBIdlJnaTBuelA1QUtiTGVLTW45OEpIRF8zR3BiVk1tOWg0SDBMVV9kSmhGdk1Rc3lXNGpBZdIBnAJBVV95cUxQbThuVlpTOXBpWm4wWWI3NkdEWTRJaTlQd0FHWGdwaDJkMWx2ZUZwRXp0VjBhbmZBR3J3MUJheGVwS3FBeWV1SDBLaTJ2U2pEUDZ1d3RmOUhTWV90NkdQVWlTeHcwM3FoNzJpLXBOZFRudWE2Y3MwSHhZd1VLV2NFcGM4VDVJSC1yTi04dlpwTXJHUzRSMi14QVZNYXUtUFFqMjk1ZjAwYTB4R3hkSEFxMWUtSExYOFBfczkzcjhia0QxcVl0LWRwNUJrWEEwVmQzZWlCbEF1cHh3NERfRWFUcGt6ZGQ2VnBIdlJnaTBuelA1QUtiTGVLTW45OEpIRF8zR3BiVk1tOWg0SDBMVV9kSmhGdk1Rc3lXNGpBZQ?oc=5",
+   "query": "offerte TIM fibra",
+   "found": "2026-10-28T18:07:23.051646+01:00"
+  },
   {
    "date": "2026-10-28T14:06:32+01:00",
    "type": "novita",
@@ -2037,26 +2059,6 @@
    "source": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNb3NVM3B1dG5OTHFsVEMzQ29CTjQ3b0hsTjB5QlhJOThCbjVCNnNJYVpBSEV6VlhHamVFMlA4VlFXbkR0OTgwT3liSk5aV0x2SVdOaHN3OGxlNkoxb0p4WVFPUFFVb3BTYTJFd3BZSzJucW1jbFJYamJBc2tXREdjRktiNnN5LWh6TEhURnlVODFIVjFkLS0tSHEyblprbTR5YzY4bDY3MzZWZU9xblEtemxIV2w?oc=5",
    "query": "DAZN prix abonnement",
    "found": "2026-10-20T15:04:47.275142+02:00"
-  },
-  {
-   "date": "2026-10-20T14:16:22+02:00",
-   "type": "novita",
-   "service": "TIM",
-   "country": "IT",
-   "text": "TOP 230 di Iliad: ultimi giorni per attivare la limited edition da 9,99€ per sempre - Punto Informatico",
-   "source": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdVYtQnFxcU5DYnZKT01DOUMtU1hEWnNqVUhQSElTU3VXajJhdEdIRU1ZSFJXbktoZVVZajFiNEkzcEhHNkp1ZTdVdWNKYUtpT1hMZk1RLVhRV1FSNlItc0duM0NadFZ5TVdxaXZXRUxkVkJabGc5UWFoMl9sVDRxcjRkRWw4Q3pNaGV3WUZpaUJxNlZyRVNVNElXdHYzWG5xazRDdW94ZzN6SXpwM1JTY0J5NGRLQQ?oc=5",
-   "query": "offerte TIM fibra",
-   "found": "2026-10-22T17:52:27.436357+02:00"
-  },
-  {
-   "date": "2026-10-20T13:19:20+02:00",
-   "type": "novita",
-   "service": "TIM",
-   "country": "IT",
-   "text": "Telefono fisso solo voce per over 70 e 80: offerte e agevolazioni 2026 - ComparaSemplice",
-   "source": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPU0lyQWw0ZERiRFhhbnNlTzhJZ0loYUlUWmVmREE0a3o1eVBnQXBMNzdtMTYyRDVZalIwUDVteU1yajZfZTVnOUtZdS1oZHE2bEYzSlR5aEZfc21ON3FRUFBMQjg0SnNxSUMwX1FKUHB5V1dMMVJITXQ3Y0lvUkdxbHV0RHJhUnFn?oc=5",
-   "query": "offerte TIM fibra",
-   "found": "2026-10-20T13:50:53.817226+02:00"
   }
  ]
 }
