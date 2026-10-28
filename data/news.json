@@ -135,6 +135,7 @@
   "daznfulldaznfamilydaznsportsedazngoalipianieiprezzidaznnewsitaliadazn",
   "daznfulllasuperpromozionediottobre2026perfesteggiareilritornodellaserieaeveryeyetech",
   "dazngoelplande5eurosconfútbolf1motogpynbaelperiodicodigital",
+  "dazngoelplanmáseconómicoyconpartedemotogpyf1precioycontenidomotorsportcomespaña",
   "dazngollegaconfútbolfórmula1motogpynbadesde499eurosalmestodoloqueincluyelarazón",
   "dazngopor5mêsqueremosesteplanoemportugalmaistecnologia",
   "dazngoquéincluyeelnuevoplandeportivodesde499euroselperiodicodigital",
@@ -543,6 +544,16 @@
   "últimashorasaprovechalaofertaenelplanfútboldedaznparaverelatléticorealmadridymuchomásconunofertónmundodeportivo"
  ],
  "items": [
+  {
+   "date": "2026-10-28T08:45:10+01:00",
+   "type": "novita",
+   "service": "DAZN",
+   "country": "ES",
+   "text": "'DAZN GO', el plan más económico y con parte de MotoGP y F1: precio y contenido - Motorsport.com España",
+   "source": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBobFAtQkZhRm1pVnFzR2JfcUtKeXVzODBMUEVLOTlrWWhBalJOUHBfY3ZUVlJCVzN2SjRzbUQzRlhuR2thT2RGR29XYXU0emd5SWNQVnJIRmZFVlRvZDJxaXRYQ29BOWpsblhNM19uQnZ5NmM2VVpj?oc=5",
+   "query": "DAZN precio",
+   "found": "2026-10-28T10:07:20.906783+01:00"
+  },
   {
    "date": "2026-10-28T07:02:09+01:00",
    "type": "novita",
@@ -2032,16 +2043,6 @@
    "source": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOY2RKVC1zWGxGN2VBemFFalhTNTBHWHMyM2tPM1Btazc2aGM5Q0Nia1JaNWczbkJlWk9fWm12UFRFQ1NsellSMzV6ZVdDWFpvTUhpRVRWNmRKd2RoVDNrY0R3eldhbE9US3V2cmdzanV0dmZ1VEtna3BfQl9RSXNlOWxrVzByQUhUamFqODUwQ0djcDJoRmhQSW9tdmlPM1JyWksxd3NhdC1hZnFKMS03ZXlXRDRsR3JiMWExVFZDUTJvcXF5RFE?oc=5",
    "query": "DAZN prix abonnement",
    "found": "2026-10-19T18:11:35.480781+02:00"
-  },
-  {
-   "date": "2026-10-19T16:44:59+02:00",
-   "type": "novita",
-   "service": "TIM",
-   "country": "IT",
-   "text": "Offerte fibra sotto 20 euro: le migliori a prezzo scontato di ottobre 2026 - SosTariffe",
-   "source": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZ2NlYnFvZnhDc2JRUmUydzVYci0xc3UzQ0xwVnVNRGRSaWttUHJ1SF91Ql9YNVlLVV9ubVRZVHBIdktaYUloSDk4SUU5cDJGXzYwa19YdjB1NjNuLW5Rc0lqZEhXSklpd3BpMUthc09aa0JWZHc1YVNPd29zTlB2SW5DX3hQdkltdENicXJlVjV0S0djUHBuaDBBdWJtOUxJa09xcU9JX01PZjh5elFB?oc=5",
-   "query": "offerte TIM fibra",
-   "found": "2026-10-19T22:51:40.920040+02:00"
   }
  ]
 }
