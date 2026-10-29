@@ -153,6 +153,7 @@
   "daznlanceunepromotionexclusivepourlareprisedelaserieailmessaggero",
   "daznlanzadazngonuevoplanmultideportepor499eurossincroguiatv",
   "daznlanzadazngounnuevoplanmultideportedesde499eurosalmesneeo",
+  "daznlanzadazngounnuevoplanmultideportedesde499eurosalmessincroguiatv",
   "daznlanzalarebajamásbestiaensuplanbaloncestotodalaligaendesacopadelreyylanbamundodeportivo",
   "daznlanzaunaofertaagresivaparaelclásicosólotienesunosdíasparaaprovechareldescuentoxatakamóvil",
   "daznlanzaunapromociónexclusivaparaantiguosusuariosilmessaggero",
@@ -414,6 +415,7 @@
   "planmadeinusadedazncuántocuestaquépreciotienequéincluyequécompeticionesyprogramassepuedenverycómocontratarlasuscripciónd",
   "planpremiumdedazncuántocuestaquépreciotienequéincluyequécompeticionesyprogramassepuedenverycómocontratarlasuscripcióndaz",
   "playstation5lenuovedemodascaricaregratisaottobrenonservelabbonamentoeveryeyeit",
+  "playstationplusannunciatiigiochigratisdinovembrecèanchetombraidereveryeyeit",
   "playstationpluscomescaricaregratisgliavatardispidermanbrandnewdayeveryeyeit",
   "playstationplusessentialigiochigratisdiottobresonodisponibilidaoggisups5eps4everyeyeit",
   "playstationplusessentialiltruccoperriscattareigiochiditremesialprezzodiunoeveryeyeit",
@@ -643,6 +645,16 @@
    "found": "2026-10-29T12:02:14.880561+01:00"
   },
   {
+   "date": "2026-10-29T11:27:19+01:00",
+   "type": "novita",
+   "service": "DAZN",
+   "country": "ES",
+   "text": "DAZN lanza DAZN GO, un nuevo plan multideporte desde 4,99 euros al mes - SincroGuia TV",
+   "source": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPc1k4d3U3WUVFLS1MOUZPRWppNk1oN1VlUmVOSGpvaFc0NnVXdUdDS25pblpnQjg1ZnNjcHRNTDktODU0Q0pYOFdmcWdFbnB3VjdCd2lHZ0hiR09CN3hqUzdCOWI4VXlsUHM4Y0g1MGh5TEtBRlhweUVaNVBibGx1Nmtn?oc=5",
+   "query": "DAZN oferta plan",
+   "found": "2026-10-29T18:10:52.345414+01:00"
+  },
+  {
    "date": "2026-10-29T11:06:16+01:00",
    "type": "novita",
    "service": "TIM",
@@ -701,6 +713,16 @@
    "source": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOemdtRkVRbjZpdFNpS0J3N29GdmdIdGtKYjNqeVhSai01VWhHRnhyTENhZFliTUJqc0cxOFNqX0dUU2NaQkpKVkVFNW9OYmFRYmxTeEtKQjYxMW9BQ2FXNWpfcmxveDRxN3ZGQzI3OXpUeVNDOFN0RFZqU3ZtT1BSNXFwb1lYNy1xTE0xcDhjNVNOS2xQMUlnckIzenFWRC1VWWc?oc=5",
    "query": "DAZN oferta plan",
    "found": "2026-10-28T18:07:23.051646+01:00"
+  },
+  {
+   "date": "2026-10-28T16:54:00+01:00",
+   "type": "novita",
+   "service": "PlayStation Plus",
+   "country": "IT",
+   "text": "PlayStation Plus: annunciati i giochi gratis di novembre, c'è anche Tomb Raider - Everyeye.it",
+   "source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRE5WVm0tdTNvOEo3ZjdwWXlEWUItSW1LMXNPOW1PQS1MMW9lX05neVVYYVhOczlRTzNSMTFCd2czX1lQck0xQTB4OUpNeGI4NFdfc2NZYzJEVUFIaExGRlY3NDRsb2R4Q2ZJVld3Nzd3M0dwZEd2bU05Tkp0TEJmaE1Qbk83RUduSE9KM1I4Q2xYRm85Q1JGQXRn?oc=5",
+   "query": "PlayStation Plus prezzo",
+   "found": "2026-10-29T18:10:52.345414+01:00"
   },
   {
    "date": "2026-10-28T16:06:00+01:00",
@@ -2061,26 +2083,6 @@
    "source": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5TS3BsRkNuSmJTTzcxMmFCaDBCcDRpWE1GUm5NSE4xQ19BVVhDYXhURVBNN0l1eDM3RFhxNjctb3JwcFU4aExIWHJJamItc1g3U3JqNDlIZzk?oc=5",
    "query": "PlayStation Plus prezzo",
    "found": "2026-10-23T10:54:10.148083+02:00"
-  },
-  {
-   "date": "2026-10-21T07:01:57+02:00",
-   "type": "novita",
-   "service": "TIM",
-   "country": "IT",
-   "text": "Promo ho. Un mese omaggio: ricevi un mese gratis con ho. Mobile - Facile.it",
-   "source": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPV2pxNWVIeHpXcm1YQUV6RVprbHJwbVFRbUllUUxvTWZscEdBb2F0Qms5eml2Zno2S3F1ZVNZMElzSm1NSWhqOXMyLWV2ZFFNZ3l1enp1bmpsZ1ZDRmFvY0hpSkdnNEFGTk03Wm9ZNlhNa3R4ZUY2aUwxd0pJd2VIcjdfR3VucEU5MnF3WlZ3?oc=5",
-   "query": "offerte TIM fibra",
-   "found": "2026-10-22T01:47:26.518460+02:00"
-  },
-  {
-   "date": "2026-10-21T07:01:57+02:00",
-   "type": "novita",
-   "service": "TIM",
-   "country": "IT",
-   "text": "Offerte Uno Mobile di ottobre 2026: piani da 4,99€ e in esclusiva su Facile.it - Facile.it",
-   "source": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYVFqME1GXzNDWHVSaXhSSFk1cUpuZkJSUE9KSHZmaEloTWxjdTFqZHhocUxOMk96WW5obkJYNGYtZTkyelpIeTlDMWlQbHNWa05rbld0Qjg0T0E5RWZhcmNKdVUzbzZxdXVPQ3JHODN5SGc5Z1FzZlhCRW5jVF9UNDVYR3ptRnM?oc=5",
-   "query": "offerte TIM fibra",
-   "found": "2026-10-22T16:53:50.214528+02:00"
   }
  ]
 }
