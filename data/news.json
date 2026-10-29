@@ -50,6 +50,7 @@
   "carburantienifissauntettomassimoalprezzocomefunzionaecosasappiamoskytg24",
   "carburantisaledinuovoprezzodieselquantoguadagnalostatoskytg24",
   "carburantitettoaiprezzicodeaidistributoriescorteesauriteskytg24",
+  "caroaffittiecrisiabitativalasituazioneinitaliaeineuropaskytg24",
   "carobollettelaburocraziafermalerinnovabilieiprezzisalgonosostariffe",
   "carocarburantiancheq8accoglieinvitogovernopricecapaprezzobenzinaedieselskytg24",
   "carocarburantienieq8proroganotettocosasuccedeaiprezziskytg24",
@@ -186,6 +187,7 @@
   "daznrebajasuplanbaloncestoa599eurosalmesligaendesacopadelreyynbadiarioahora",
   "daznrebajasuprecioun50enlasemanadeelclásicosolo999eurosalmes20minutos",
   "daznrecuperasuofertamásesperadaparaelclásicoun50dedescuentoenelplanfútbolmundodeportivo",
+  "daznrivedeloffertaserieadaottobre2026sipaga1199euroalmesetechpost",
   "daznscontodel50perlaseriealasuperoffertanonpertuttichevaleunannochipuòottenerlocorriereadriatico",
   "daznscontodel50perlaseriealasuperoffertanonpertuttichevaleunannochipuòottenerloleggoit",
   "daznscontosullabbonamentopervederelaserieaametàprezzocomefunzionaechinepuòusufruireilgazzettino",
@@ -195,6 +197,7 @@
   "daznvodafonepreciosplanesycómoactivarloroams",
   "daznvuelveaofrecerdescuentosparaverelclásicopromocionesduransólodíasesdegamers",
   "daznysupreciocuántotengoquepagarporunasuscripciónadazndazn",
+  "daznà799moislapromoseterminelundivoicicequellecomprendléquipe",
   "daznà799moissansengagementloffreréservéeaux26ansavantbarçarealléquipe",
   "daznà799sansengagementcetteoffrecacheunerestrictionquipeuttoutchangerariase",
   "dellalienware324koleddisponibileinitaliacaratteristicheeprezzotechprincess",
@@ -578,6 +581,16 @@
   "últimashorasaprovechalaofertaenelplanfútboldedaznparaverelatléticorealmadridymuchomásconunofertónmundodeportivo"
  ],
  "items": [
+  {
+   "date": "2026-10-29T15:25:43+01:00",
+   "type": "novita",
+   "service": "DAZN",
+   "country": "BE",
+   "text": "DAZN à 7,99 €/mois : la promo se termine lundi, voici ce qu'elle comprend - L'Équipe",
+   "source": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQR1NudVRYc2FGQkVoUVB0YlNsZXl3UDR4OUNqSl9VQ0RNYlVpXzh2dGhvYV9lWFFhU3RqbHlUN1VZR3ZNUXl5b2JaeDlIWWZzYlZBRnQ1UXp2RUh4REphTXluNklyZnBWTXR5VUE1WFR6dzlLRWZORGRBSUZwUUFxOEtaazJJSHV1TlFWLWVvaEdITFdkaWlkOVFyZjMxZGRBOXBYWHgyRll2bTBicUpJUjBwNlZGLVY1TkI5enU5OHg1UUNyZkxCVjZUeENOcGFLalVxZFptU0o5THlRNmp6VXZYWUNySmM?oc=5",
+   "query": "DAZN prix abonnement",
+   "found": "2026-10-29T16:11:24.616307+01:00"
+  },
   {
    "date": "2026-10-29T14:11:00+01:00",
    "type": "novita",
@@ -2067,16 +2080,6 @@
    "source": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPV2pxNWVIeHpXcm1YQUV6RVprbHJwbVFRbUllUUxvTWZscEdBb2F0Qms5eml2Zno2S3F1ZVNZMElzSm1NSWhqOXMyLWV2ZFFNZ3l1enp1bmpsZ1ZDRmFvY0hpSkdnNEFGTk03Wm9ZNlhNa3R4ZUY2aUwxd0pJd2VIcjdfR3VucEU5MnF3WlZ3?oc=5",
    "query": "offerte TIM fibra",
    "found": "2026-10-24T16:47:23.287720+02:00"
-  },
-  {
-   "date": "2026-10-21T07:00:31+02:00",
-   "type": "novita",
-   "service": "TIM",
-   "country": "IT",
-   "text": "Offerte internet di ottobre 2026: piani da 19,95€/mese - Facile.it",
-   "source": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5HQzlFZFd0OWhxNHdXUFlzd3A5NWs1cjRJSHhyU3FGb05PczY2X0FULU16UkNETHI2RWlwbzZ4em9vaERqd3N6TDBVMzItY2lST1R4QWYxeEo1YnFIRjVCOGp0MHVIQTRpbEZPbnpTOGpCS2lD?oc=5",
-   "query": "offerte TIM fibra",
-   "found": "2026-10-21T07:50:42.318614+02:00"
   }
  ]
 }
