@@ -434,6 +434,7 @@
   "playstationplusextraepremiumigiochigratisdiottobresonodisponibilispaziogames",
   "playstationplusigiochigratisdiottobresonodisponibilidaoggispaziogames",
   "playstationplusnovembre2026leprevisionisuigiochigratisperps5eps4videogiocareit",
+  "playstationplusoggiarrivalannunciodeinuovigiochigratisps5dinovembreeveryeyeit",
   "playstationplusottobre20263giochigratisdascaricarecontrocampus",
   "playstationplusquestasettimanalannunciodeigiochigratisdinovembreperps4eps5everyeyeit",
   "playstationplusregala3contenutihorrorgratisaottobrespaziogames",
@@ -1027,6 +1028,16 @@
    "source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOM2l2bDFjUnJlYVhFQmx4NE8xbUpPSENyTFEyNHRNdC1nNml3bXdmMmRuVUdkbzk0ZFh4RWdFVE16dTNXMmZWcnhxTzlHWHFmSjZQS3ZNWUxhRUFPRkVLSHBCUGU5NWxhd0xQaC1vcjNkQzBzTXdLanRld3AzMDVQWl90dVNrS0loRU9nTC1VVnVTd3JCZU9fYnRaNFBiSjlZRGMyWjR4b1ZUZDJfSmdEbTEwUl9KcEo4bzdrMA?oc=5",
    "query": "DAZN precio",
    "found": "2026-10-28T11:05:23.890889+01:00"
+  },
+  {
+   "date": "2026-10-28T09:12:00+01:00",
+   "type": "novita",
+   "service": "PlayStation Plus",
+   "country": "IT",
+   "text": "PlayStation Plus: oggi arriva l'annuncio dei nuovi giochi gratis PS5 di novembre - Everyeye.it",
+   "source": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNejRidlczT3BHSXV1MGswQm9NWWdqdEhJQ3B3SjNoa1N3RHpLbVdrWjBqT0REVUMtSFpjS043VGJYN3czX0IxeUlrMmlqYXhSUzJqSUZJY3lLYUNXMklxbDduOEpmYU1GWlFHOWE5RmV0QnRiLVdKSExWWUlvaWhKVGRac3BINklYcUN1LWRTN0RhV0JnLU5xU0lZQnJVRk5ZWEszbDZSQ2RocDJr?oc=5",
+   "query": "PlayStation Plus prezzo",
+   "found": "2026-10-30T12:58:16.891370+01:00"
   },
   {
    "date": "2026-10-28T09:00:46+01:00",
@@ -2087,16 +2098,6 @@
    "source": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNb0piYTJ0S3p3M21qT2lHQjIwR0k5a081Q2dGU3l3b0N1eHFsVFg1QjV2Q3d4eTBGNnBlYVpfdlMycVo0WE9YY21xc1N3V0RER1dvbzh6bTA1ZXNnODBUR2sySkdKTFZLVzFOSXRDV29abzRneDNwdFEzV2l1QXBlSU1iYzRqS0JwQUZEZDR4RDQ?oc=5",
    "query": "Sky offerta prezzo",
    "found": "2026-10-22T05:54:13.342322+02:00"
-  },
-  {
-   "date": "2026-10-21T20:08:00+02:00",
-   "type": "novita",
-   "service": "Sky TV",
-   "country": "IT",
-   "text": "NOW Pass Sport in promo da 19,99 euro al mese, inserito countdown: in arrivo nuovi prezzi? - MondoMobileWeb.it",
-   "source": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRzF0cy1uWk56T1FtekZpTXlYblduY3ZDUVNYV0ZDdFNtNFpCUUY2MlJhMHJ3NGowZkM5cGVmMlBWT2xNeUVkWThPX2RlZm9oUXoxY2d2bGJuMGQxcVJSdklRbkFpVFVrdUlvUlVQYkFET2thME55VkVFOGs3Tjc4ZEN5Um1ySTNrSG9nYjEyMk5sTS1kVE5selpwOGNtZjh0alRXcU5jSmw5SXRwQVhLQl9xdHVsZy05elltN1hkRUpiZw?oc=5",
-   "query": "Sky offerta prezzo",
-   "found": "2026-10-22T15:06:31.754609+02:00"
   }
  ]
 }
