@@ -1,5 +1,5 @@
 {
- "run": "2026-10-30T18:00:41.817911+01:00",
+ "run": "2026-10-30T19:03:03.386145+01:00",
  "sources": [
   {
    "service": "Sky TV",
@@ -143,9 +143,8 @@
   {
    "service": "Fastweb",
    "url": "https://www.fastweb.it/adsl-fibra-ottica/fastweb-casa-pro/",
-   "ok": true,
-   "prices_found": 14,
-   "promo_words": 15
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='www.fastweb.it', port=443): Read timed out."
   },
   {
    "service": "Fastweb",
