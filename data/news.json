@@ -119,6 +119,7 @@
   "cómoverlajornada6delaligafmoeveconelplanhbomaxdaznplandesuscripciónymáseurosport",
   "cómoverlajornada7delaligafmoeveconelplanhbomaxdaznplandesuscripciónymáseurosport",
   "cómoverlajornada8delaligafmoeveconelplanhbomaxdaznplandesuscripciónymáseurosport",
+  "cómoverlajornada9delaligafmoeveconelplanhbomaxdaznplandesuscripciónymáseurosport",
   "cómovermotogpenmovistarcondazncanalpreciosypaquetesen2026roamses",
   "cómoveronlineendirectoloscanaleseurosport1y2disponiblesendazntenisciclismoymuchosmásdeportesdazn",
   "cómoveronlinegratisdaznenespañadazn",
@@ -145,6 +146,7 @@
   "daznfulldaznfamilydaznsportsedazngoalipianieiprezzidaznnewsitaliadazn",
   "daznfulllasuperpromozionediottobre2026perfesteggiareilritornodellaserieaeveryeyetech",
   "daznfür1499eurodslweb",
+  "dazngoelnuevoplanparaverfútbolnbafórmula1ymotogpporsolopor499eurosalmeselcorreo",
   "dazngoelplande5eurosconfútbolf1motogpynbaelperiodicodigital",
   "dazngoelplanmáseconómicoyconpartedemotogpyf1precioycontenidomotorgpbariloche",
   "dazngoelplanmáseconómicoyconpartedemotogpyf1precioycontenidomotorsportcomespaña",
@@ -282,6 +284,7 @@
   "imigliorimodellidiautousatesotto10000eurodel2026laclassificaaggiornataskytg24",
   "instantgaming4offertedanonperderepsncardscontateassassinscreedmarvelejustdanceitaliatopgames",
   "internetbusinessaottobre2026offerteapartireda20mesefacileit",
+  "internetcasaconpaytvinclusaleoffertediottobre2026facileit",
   "internetcasafibrainognistanzaconlafttrcomefunzionasostariffe",
   "internetconattivazionegratisleoffertediottobre2026facileit",
   "internetsecondacasasenzatelefonoleoffertediottobre2026selectra",
@@ -385,6 +388,7 @@
   "offertemobilespecialieinesclusivapianida499mesefacileit",
   "offertenowaottobre202612mesialprezzodi8facileit",
   "offertenowasettembre2026passsportesportcinemainpromofacileit",
+  "offertepaytvdifineottobre2026cinemaesportda499mesefacileit",
   "offertesimdatilesimsolointernetpiùconvenientisostariffe",
   "offertesolovocecasadiottobre2026comparasemplice",
   "offertesolovocecasadisettembre2026comparasemplice",
@@ -594,6 +598,26 @@
  ],
  "items": [
   {
+   "date": "2026-10-30T08:30:00+01:00",
+   "type": "novita",
+   "service": "TIM",
+   "country": "IT",
+   "text": "Internet casa con Pay TV inclusa: le offerte di ottobre 2026 - Facile.it",
+   "source": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRTQ3VTBvRmVKbi1ncEo1UFNyNkxCSGxEYktfVUVyUlI1dzl6cHNKMUJ6c3JadDBsNG5VZzRFM2lzRWJua25hMGstMXc1ejZXT2kzSGRNbzRZZzZ2WlN6Q1c2ZTlvZFRRN216Y2JBS1NJR0RrSUd6eTUzVkU3YUs3SGJCQQ?oc=5",
+   "query": "offerte TIM fibra",
+   "found": "2026-10-30T10:08:48.286668+01:00"
+  },
+  {
+   "date": "2026-10-30T08:07:30+01:00",
+   "type": "novita",
+   "service": "Sky TV",
+   "country": "IT",
+   "text": "Offerte Pay TV di fine ottobre 2026: cinema e sport da 4,99€/mese - Facile.it",
+   "source": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1kRHZwR2xTMVNWaUROLTcyUmpWRmJzd1hmalF2dXZrQnNrbTA1MDBrUGhPbjMyblVwTllyUi0ybG5CYTJyRV9UYkNRMTNaUGw1cWFldlFsOTc5N0JVRUI5SU1lZ3M5WXU1aHNmZmhBa0V1cVpUZGJHdEZn?oc=5",
+   "query": "Sky offerta prezzo",
+   "found": "2026-10-30T10:08:48.286668+01:00"
+  },
+  {
    "date": "2026-10-30T07:49:00+01:00",
    "type": "novita",
    "service": "TIM",
@@ -602,6 +626,16 @@
    "source": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPN3NLYThPVHB0Rk1Xa0E3QXhvd1lfVzZJb2F6ckk5WDU3OFRsRWNOR0hmTy1HM21HaERGR3Q3QUV1R2tIWnI4bUNvZFVxQ0NpU3VZUUt0dG1PeDBPdVgzd1IwUTV4N01kOVljWktPdzF3eVlNMU1OR2JzTFRFT3diejluQnVTN0d2S1dfLUEyN3F6SGxUTWEyY2FyREttWW9ZMVdMblN4bVBYYjdUTnpNcHFNTkotc0Fs?oc=5",
    "query": "offerte TIM fibra",
    "found": "2026-10-30T08:20:44.926947+01:00"
+  },
+  {
+   "date": "2026-10-30T07:40:57+01:00",
+   "type": "novita",
+   "service": "DAZN",
+   "country": "ES",
+   "text": "DAZN GO, el nuevo plan para ver fútbol, NBA, Fórmula 1 y MotoGP por solo por 4,99 euros al mes - El Correo",
+   "source": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSUhOTVZFa045SEpOU3RMUlJGbW9sVVlTMmM2eG41SUF4V28wRkZPX2R2QU5EcDk5MThiWnhlaFF2aHk1X1NVTVh0TXFZYXRzZUdmbkN6V2dvNHZKTE16WlVuY1V6LTBMUWFxc3pXUUIxcHYzRndRMVlfcVBmNkpFbTJMOGhJa0M0dE9pSk9qLVFtOVFsamlPV0lsRUxoWTd4Rm0zTHFMQWlEZGcySl8xRlA4eExIeVNOTzcw0gHAAUFVX3lxTE5ZUGZoa00yTTc3YVMtQUpSWVpFZWNtZmduelBEby0yeGhUeGx3WkgwVmxGWmNRX1BIWGk3X2NiYzNwQVdMRG44c1RteF9wVXpXSWlrLUVjNGNZYThqanNYdTAzQ0Q3NlctQ1ZpejlKeFlEY0Y5dVlWOXI0QTdmS2NLS0VLWnNNN0dPUWtyZWw3SDhRaVBGOERjTWNuaHVMRTMwTUhvSE1YU2hqNHBJb1ZQVkJueWJTb0gxMlZrOU9UNw?oc=5",
+   "query": "DAZN oferta plan",
+   "found": "2026-10-30T10:08:48.286668+01:00"
   },
   {
    "date": "2026-10-29T19:53:57+01:00",
@@ -662,6 +696,16 @@
    "source": "https://news.google.com/rss/articles/CBMigANBVV95cUxOSGI1bnF4Tk83dU00RDVuQ1VWOXBUcjY3U3JMNHNiRG1ya3o0VjhpRnR5RlhZSWRyX2loRWVjY2xxSEdWbnB5azNhc21zMVZRVnNJWldvVmhPRG1OYTJNLVBVX2J5cklTUHloOFNkcHNhWFAwRDlzTG4xLWpmUTFUWUhnREZHcTBCUG9sTVNTUHJCbmpsS3E3bU5iN3RlY2xlbmctRXdUWllJUDhHbENSdDVidy1jcGREZ3VTcTRyZnlqY3hDZWw0bWxqejluNHdIYVFUWVZiQVd6OHFzR1ZXcjAxTTNpSTR4NXRPV3g5QURyZk05enVNTkhGcV9idlE2TUpIS2ZXUERnd2x3am0zYnVIckdyM19JNzkwZXNobnhkSTZQcmFYTTB2Nk03MWhjUzBCYlZDVVlhazhqUnNmd0hCdzlnMnQ3akt3N1dzVUFwbUpfVGFpR1dJZHRjUEh3VmZtUlRiSldPZExHb1lhV0lpblVQNUVZZjlJUkZEdUE?oc=5",
    "query": "DAZN oferta plan",
    "found": "2026-10-29T22:00:29.151770+01:00"
+  },
+  {
+   "date": "2026-10-29T14:20:00+01:00",
+   "type": "novita",
+   "service": "DAZN",
+   "country": "ES",
+   "text": "Cómo ver la jornada 9 de la Liga F Moeve con el Plan HBO Max DAZN: Plan de suscripción y más - Eurosport",
+   "source": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNSzhGd3ZqMUtOY1pxLWRFcjRneEZhckpmUFhtRGJyelNsSDRCa0R0a1lvMkNWT3NDcWZZODVPaWdQdGY1ZnM3UHhVZzFNV3pCbGVXbW9rT1h5eXBGV2ZiTF9BMUp5bmVLTFVUSzJ0amhHa3dubmw0RmJnem5YSDdvbzVUT21vc0E3Yjd2UzFrT3VPblFFVzI4Z1B4TW05cTNoYk1semV2azAxVjFjb1BEeHZHajdPOUdlMV9laHViazJicFpycEJNWVpZZkptTS1hZFhuLVNzeUV2ZHZHRnZTb2lGSVFvazA2VE9hTTZJZUFRZHZPc2xwWUphUlpkZnlranFJU1VSZkstQlRZaUtROHBsZS14Sm9i?oc=5",
+   "query": "DAZN oferta plan",
+   "found": "2026-10-30T10:08:48.286668+01:00"
   },
   {
    "date": "2026-10-29T14:11:00+01:00",
@@ -2052,46 +2096,6 @@
    "source": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQcGdaQUZWR3dFb2NfR3gwaEtJZG9Tb0dEaUp4XzUyWmI4S2NrYW5XRWJkRjVYaEdBYTdsd0dOX204RFN5WjZqWWJBTTRKOG41bHg5TkRUQmZlaXo5TENsakpVcVE2cjVBTXVMTm9NU0VaZmExaFJQamNhVXRYWl9Oejg0WWtUdHlXR0hfY1BySkx0dlVSd3U4MW1qcEVvOENPdTVLRzlPVUJ3UmFUUTFpRDBQRGpDYmVUSHdia25wZF9ITWczZjNJTm9Bdm83ZF9VaW1TdFg0WWZjQ19BS3V4V0VmTXRDNmhLNnRoV1RtV01JbjQ?oc=5",
    "query": "DAZN prix abonnement",
    "found": "2026-10-21T18:53:26.599188+02:00"
-  },
-  {
-   "date": "2026-10-21T17:42:44+02:00",
-   "type": "novita",
-   "service": "DAZN",
-   "country": "ES",
-   "text": "Precio DAZN: todos los planes, contenido, precio mensual y anual - Xataka",
-   "source": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5adnlrVHN0a3ppc2ViTnRnWXBYd2tURTV5ckN1WmRfX0YtdGhKZXpoMXQ4b0JTbGhDRDlSODVZRV93aFA4LUJ2LXc3WDhkWFhOTVdz0gFYQVVfeXFMTzZWZlc2SXVrRG51R0xKSmVWX2hVTVBQUU1FU1BOQTRoeUcwakdidFJkT3FfcDdodTg2SzVxS25jME1wY2RNbzVXWUtUemxhYlpva0lGTkt3VA?oc=5",
-   "query": "DAZN oferta plan",
-   "found": "2026-10-23T07:51:03.999293+02:00"
-  },
-  {
-   "date": "2026-10-21T17:15:30+02:00",
-   "type": "novita",
-   "service": "Sky TV",
-   "country": "IT",
-   "text": "Football Manager 2027, l'anteprima gratis su Pc e Mac fino al 3 novembre - Sky TG24",
-   "source": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObl9GNEpMc3UyeHlXUTM3TXVUYXZhTzU4aU1wTXJ1WFlmMUY5bXlINk1LY1VEeHJPTUlicWFZZmZjVmxYUE9XQkZ1QjN3M3p2Yk1ZTHhkdFpjTk1RUVBvdlp3bFFIZVgzT2ZGc2MtSEdacXlxNjVzcF93eGJua0ZXLTJTSjlCZjQ?oc=5",
-   "query": "Sky offerta prezzo",
-   "found": "2026-10-22T09:09:18.610846+02:00"
-  },
-  {
-   "date": "2026-10-21T16:00:00+02:00",
-   "type": "novita",
-   "service": "DAZN",
-   "country": "ES",
-   "text": "Por menos de 10 € al mes: vive ELCLÁSICO y todo el Plan Fútbol en DAZN en exclusiva - Diario AS",
-   "source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOS1N3d0poc0ROUjBCMVhseXVpVElyRkhLbWdKZFZxWWVqbngyeVRaZnNuRnBlcS1vVmROT1NQdmVQRDlHT1U0aHI0aW0wQm96Zy0zdkJCNEZvOHltb1hnWHlldlR2emN5U3U0bXlfU09LN3FWZUJDTW1HcEhBMERNZTk4WlNMX0FfbnZTWWxaNE9VRGR1clR5SlByZ2xkWG5R0gG0AUFVX3lxTE9xcURwTkpfMktDNXVaOHR3d0h1dXBKOFdDcFhKVUlHc3RRNE00SjlzSXVBYWI0QWNVZl91c3VlS3pEWDJYYVpMUW9FLTQxMWJKRUMxUHpBRWJVNkNOd3NldzhKR1FjalpZT29RZVNQYnhaamJKOFVlY1dTa0FVOUhiYUt5QTZLbG5vWG5Sa29hM0FlaVQyXzhiamFBb1RUMXROal9qdmxGV243YmFWeVdVd1dEMA?oc=5",
-   "query": "DAZN oferta plan",
-   "found": "2026-10-21T21:49:54.913896+02:00"
-  },
-  {
-   "date": "2026-10-21T14:47:23+02:00",
-   "type": "novita",
-   "service": "PlayStation Plus",
-   "country": "IT",
-   "text": "The Wolf Among Us Remastered, sconti fino al 50%: prezzi, requisiti e uscita fisica - Game-eXperience.it",
-   "source": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTGtHeFM1SUpXLTE4bHpIdlZRM3F4S3p1RUtxYm5xOFBDeUdDZXZqV3RreUlua3dYcWhfTnZUeWxNbURTdW5zT1Vsbm8zY1NpYzFRVXBGWGhwY0dUcF9jOUk5RUlRRXBTc2hkeTJ3ai1MMDdrMW95MThrOVJobEJpT3h6a2d2S0NiZ3M0U2NKZEJrREZZUGhuelJkWTczcGtjVFI5aXFpUUd4eDg?oc=5",
-   "query": "PlayStation Plus prezzo",
-   "found": "2026-10-21T15:06:32.459342+02:00"
   }
  ]
 }
