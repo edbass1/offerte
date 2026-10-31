@@ -440,6 +440,7 @@
   "playstationplusnovembre2026leprevisionisuigiochigratisperps5eps4videogiocareit",
   "playstationplusoggiarrivalannunciodeinuovigiochigratisps5dinovembreeveryeyeit",
   "playstationplusottobre20263giochigratisdascaricarecontrocampus",
+  "playstationplusquandoesconoinuovigiochigratisdinovembredataeorarioeveryeyeit",
   "playstationplusquestasettimanalannunciodeigiochigratisdinovembreperps4eps5everyeyeit",
   "playstationplusregala3contenutihorrorgratisaottobrespaziogames",
   "playstationportalsuamazonacquistarlaaquestoprezzodiventaunaffareeveryeyeit",
@@ -479,6 +480,7 @@
   "psplusottobre20263giochigratisrincaro11techinsiderorg",
   "psplusrivelatiigiochigratisdiottobre2026tuttotekit",
   "psplussonyannunciaitregiochigratisdiottobre2026hardwareupgrade",
+  "psvr2vsquest3449o619ilprezzosiribalta2026shatteredio",
   "puedovercaneloálvarezvsmbilligratisdazn",
   "punepsvallestelleeccocomerisparmiaresuluceegasoggisostariffe",
   "quandoescefc27gratissups5dataeorariodisbloccoinitaliaeveryeyeit",
@@ -610,6 +612,16 @@
   "últimashorasaprovechalaofertaenelplanfútboldedaznparaverelatléticorealmadridymuchomásconunofertónmundodeportivo"
  ],
  "items": [
+  {
+   "date": "2026-10-31T09:07:00+01:00",
+   "type": "novita",
+   "service": "PlayStation Plus",
+   "country": "IT",
+   "text": "PlayStation Plus: quando escono i nuovi giochi gratis di novembre? Data e orario - Everyeye.it",
+   "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdU5BZG5zVTRjV0JHRHpGd2xVVXg3Y0djcWZBT3FIb0FpNmhfVjNfRHRVOF9KZThzTndOVWpXbzBrdzhtYm1EMmFmVjQxQ3U4endMUWpVREJvbUZjdy05eTZaUXRWS1pnRFFudmtOd2JIMmNPM3hreXFkcXZkSzRQQjctQzlBRFZrZm1MSE1LWVZtMGVBVmpTbGJ5N183cDI4ay12MVRTUW04UEE3Q3c?oc=5",
+   "query": "PlayStation Plus prezzo",
+   "found": "2026-10-31T09:57:49.456980+01:00"
+  },
   {
    "date": "2026-10-31T08:52:00+01:00",
    "type": "novita",
@@ -1481,6 +1493,16 @@
    "found": "2026-10-26T08:13:21.576742+01:00"
   },
   {
+   "date": "2026-10-26T05:07:21+01:00",
+   "type": "novita",
+   "service": "PlayStation Plus",
+   "country": "IT",
+   "text": "PSVR2 vs Quest 3: 449€ o 619€, il Prezzo si Ribalta [2026] - shattered.io",
+   "source": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9TRUVoa0VOUHdvdmNxNjA1MUhvOTVncDhmcnptZU16VnJOSFBNMWZyVzBCN2VIeWZvSUowWTlQSUdTbTFnM2pLc042RTFPU18xWFZF?oc=5",
+   "query": "PlayStation Plus prezzo",
+   "found": "2026-10-31T09:57:49.456980+01:00"
+  },
+  {
    "date": "2026-10-26T04:04:23+01:00",
    "type": "novita",
    "service": "Sky TV",
@@ -2089,26 +2111,6 @@
    "source": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOSG5JTlNKYk83TUdYby1xekQtelR4NG1peU9JaEtrMUNGbHdHVnlwbWROckRmRHNqbDdYTWtGVjZuUjJpUUlaaVAtdjJsMG9WMnZmVE90bmFPUDVndm9aNzJBWkFHN1RJR21mTGY4Q2hPMEJVLXZJVGo4RUc1RnVMMU5kRGlLOC1oNF9KSk9oWi0yODZBNF9tbDFoOTRJaWViV19QZGxvOFdfNGtzNEV3RDZNRTZWYS1uWFdSUFYxOGFOb1REdWZMdmdNOGpJY3h2YWxpOUVaSUxxMTkwUTJaNV9INWVtNk5RSGVfck9qck1VY2tWM2ZFMmE3YXYya2JtTXVpcDU3SlE3dzA1ZUE4NUh4NUxZWlNJa1VjbQ?oc=5",
    "query": "DAZN oferta plan",
    "found": "2026-10-25T05:51:55.290705+01:00"
-  },
-  {
-   "date": "2026-10-22T11:46:00+02:00",
-   "type": "novita",
-   "service": "DAZN",
-   "country": "ES",
-   "text": "Cómo ver el GP de Estados Unidos de Fórmula 1 con el Plan Max DAZN: Abónate aquí - Eurosport",
-   "source": "https://news.google.com/rss/articles/CBMiqANBVV95cUxNSHd3dWc5ZjVENU9QR29ESDVYWi1mT0F1WVVEWTRwUWVpTzQyWGlGUlcwbjBxT0hPQlZoWDZSLTltd2VLekJsa1JfZDMtZG9VOTFmb0ZnNVExaWtDWHVaRVplYmdLaGM1bVZuT2Ntb1JyRjBwTGRMM0JyTnRlQ1ZJdm44U0F2d1gyRjk2OTRETlJGN2d3TlJOY01rc1RzSkpQWFRXMFpidldRM2lnQXd4S3VvX0QwUC15cGJTeVJSdnV1VldNdkctM3VRbzJHWTZiU3gwQjEtamVsbmVzTFVUY05tUWFjamNaUklvcWtHVTdCS3RTVHlDRTNqcGpKall2N1BCc0tUeWo3SmlFTEwxTU16VkhKMDRhQzFwTldQcTJaZzBLWUtrQndGUDdkemFKUnBZU0xVWXBZUGlndUpsM1NROHp4MTJsRUs5NVBoOWpGVkVsZzliY2REa3BnQVhSV2dtSFU0NHN5RlhRcGZaVnZFS2RKdlc1VUZYNkhLejNGZVNUaTNtS0JwR2NPRzZZdmtiSkhEV2ROZnQzT3JvTjRsVi1NZ2Fs?oc=5",
-   "query": "DAZN oferta plan",
-   "found": "2026-10-25T02:47:56.202585+01:00"
-  },
-  {
-   "date": "2026-10-22T11:37:58+02:00",
-   "type": "novita",
-   "service": "TIM",
-   "country": "IT",
-   "text": "Tariffe cellulari 3 euro di ottobre 2026 - ComparaSemplice",
-   "source": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPS0d6d1VUTnBfQ0NIYWR4SmJpVFl5eThZSkYzWEpnZDdlSUJqS2h0MkJwY3JCV2hJNDdtVFE0SjljZmFnTUlwLVY5WmJrWHV6bTBwYU1VeWJ5VXo0ckN6TGtkTEQwMmZObk1XRmQ2RnZJbEVTSVF5c2R4VGlhRnNEOWNuQVA?oc=5",
-   "query": "offerte TIM fibra",
-   "found": "2026-10-22T15:06:31.754609+02:00"
   }
  ]
 }
