@@ -1,5 +1,5 @@
 {
- "run": "2026-11-01T08:23:14.846073+01:00",
+ "run": "2026-11-01T10:02:05.458439+01:00",
  "sources": [
   {
    "service": "Sky TV",
@@ -25,10 +25,8 @@
   {
    "service": "DAZN",
    "url": "https://www.dazn.com/es-ES/welcome",
-   "ok": true,
-   "prices_found": 0,
-   "promo_words": 0,
-   "note": "nessun prezzo nel testo (pagina dinamica?) - mantenuti ultimi valori noti"
+   "ok": false,
+   "error": "403 Client Error: Forbidden for url: https://www.dazn.com/es-ES/welcome"
   },
   {
    "service": "DAZN",
@@ -49,9 +47,8 @@
   {
    "service": "DAZN",
    "url": "https://www.dazn.com/de-DE/news/fussball/dazn-angebot-zur-champions-league-jetzt-unlimited-fuer-2499-euro-sichern/175va0epjd8z31wm00qk8bx2p4",
-   "ok": true,
-   "prices_found": 3,
-   "promo_words": 22
+   "ok": false,
+   "error": "403 Client Error: Forbidden for url: https://www.dazn.com/de-DE/news/fussball/dazn-angebot-zur-champions-league-jetzt-unlimited-fuer-2499-euro-sichern/175va0epjd8z31wm00qk8bx2p4"
   },
   {
    "service": "DAZN",
@@ -173,5 +170,5 @@
    "promo_words": 11
   }
  ],
- "events": 1
+ "events": 0
 }
