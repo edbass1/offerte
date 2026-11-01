@@ -1,5 +1,5 @@
 {
- "run": "2026-11-01T00:49:35.341151+01:00",
+ "run": "2026-11-01T02:28:36.990496+01:00",
  "sources": [
   {
    "service": "Sky TV",
@@ -151,7 +151,7 @@
    "service": "Fastweb",
    "url": "https://www.fastweb.it/adsl-fibra-ottica/fastweb-casa-ultra/",
    "ok": true,
-   "prices_found": 16,
+   "prices_found": 15,
    "promo_words": 15
   },
   {
