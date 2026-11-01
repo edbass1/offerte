@@ -208,6 +208,7 @@
   "daznysupreciocuántotengoquepagarporunasuscripciónadazndazn",
   "daznà799moislapromoseterminelundivoicicequellecomprendléquipe",
   "daznà799moissansengagementloffreréservéeaux26ansavantbarçarealléquipe",
+  "daznà799plusque2jourspourprofiterdecetteréductionmaisàuneconditionariase",
   "daznà799sansengagementcetteoffrecacheunerestrictionquipeuttoutchangerariase",
   "dellalienware324koleddisponibileinitaliacaratteristicheeprezzotechprincess",
   "disneyplusstudentenangebotab299jetzt57rabattsicherndslweb",
@@ -262,6 +263,7 @@
   "fútbolparabarconorangepreciosytarifasroamses",
   "fútbolparabares202627preciosycómocontratarloenergíaroams",
   "gasversouninvernodaiprezzimoltoaltiaquantoammontanoleriservedisponibiliskytg24",
+  "gigaillimitatida999euroilimitirealitra600gbevelocitàridottemacitynetit",
   "giochigratisdinovembre2026epicgamesstoreprimegamingpsplusgamepassesteamfantagiochi",
   "giochigratisps5callofdutywwiiemafia3nonsonopiùscaricabiligratuitamenteaggiornataeveryeyeit",
   "godofwarlaufeyavràunacollectorseditionsenzailgiocoprezzocontenutiecomeprenotarlaeveryeyeit",
@@ -622,6 +624,16 @@
  ],
  "items": [
   {
+   "date": "2026-11-01T12:00:00+01:00",
+   "type": "novita",
+   "service": "DAZN",
+   "country": "BE",
+   "text": "DAZN à 7,99 € : plus que 2 jours pour profiter de cette réduction, mais à une condition - Ariase",
+   "source": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUXd0Q0ktTHVoQjBaaTlhQmFpSEJLT3ljMWRBZnVMSFFuOENlMFNRazVaVlVBX2tCR0J3VUJONVViSXlIRFotSWdiT3h5QXY1TnkyT3lkZW5ORENvdlE4U2Q5aWRCT0Y3UDhTWnZNcHFpRkhUOWs3ck5CNDZEcjJIeW9NN3dMR21zdUlFdy14MHVhUFUwWjM4amRwblNZMXJQa2M2SUVHb19XbURSd2gzOG1SN2FINGY3aVFUd2ZkNG5rM0U?oc=5",
+   "query": "DAZN prix abonnement",
+   "found": "2026-11-01T12:50:50.440006+01:00"
+  },
+  {
    "date": "2026-11-01T10:09:00+01:00",
    "type": "novita",
    "service": "PlayStation Plus",
@@ -630,6 +642,16 @@
    "source": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSHo4XzZfdlY5ZEhJYjZYVm93UnVmS1RGbk11Z25Pd2hzVWg1OTlqZE04MDlYcmszYWctT1o0Vlg5UEhVbHN1dnVpaGw4bXdMX0lDQWh1NUpQXy1nOGZIMkR1bVZiZEYzWjFIaGtkck4tLWIxWmhnUUphMDNhRnFkdHVYVGlGWTZ0RG5sWEd2NWtzWEVhcFd5TVpOalFzbFNScmhEV0hnc0kyclQt?oc=5",
    "query": "PlayStation Plus prezzo",
    "found": "2026-11-01T10:59:16.590061+01:00"
+  },
+  {
+   "date": "2026-11-01T10:00:48+01:00",
+   "type": "novita",
+   "service": "TIM",
+   "country": "IT",
+   "text": "Giga illimitati da 9,99 euro: i limiti reali tra 600 GB e velocità ridotte - macitynet.it",
+   "source": "https://news.google.com/rss/articles/CBMiekFVX3lxTE93U1B3djFUdTdfcEcwbDBXVzRZXzlJTEJULXVWTGZMMTJnbGZ2cWprc0pma3d0SXZiVld2ZVBFcm43TU5oZ25ZRFNDTkhJeEg0ZDJiQ0NOMUN0Z3FoMVBkRURKT21yb21EcnlkMTc1dFRkMXRjUVF6UXVn?oc=5",
+   "query": "offerte TIM fibra",
+   "found": "2026-11-01T12:50:50.440006+01:00"
   },
   {
    "date": "2026-11-01T08:00:00+01:00",
@@ -2100,26 +2122,6 @@
    "source": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB6YXdkSHpKczZkQWxtYzJKQmk4UjNlR3NjbEhLcHdRMEkyQm80blNmenhxWGsxYnJSczZDa1c0UDZFdXRmVl9hdG0xbXZSNjhDMzJGT3dBN1hQX1laRl9GRHRfcjFmLWt3QWMySFhrMkw?oc=5",
    "query": "Sky offerta prezzo",
    "found": "2026-10-23T09:06:36.384758+02:00"
-  },
-  {
-   "date": "2026-10-23T07:02:14+02:00",
-   "type": "novita",
-   "service": "TIM",
-   "country": "IT",
-   "text": "Piani mobile con tanti GB: le offerte di ottobre 2026 - Facile.it",
-   "source": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUXZsdm1rdC1CZU5rYURxSkJzN0ctMFBMaWU0aG9qb0hIeW4zamtteTdMNVFhTHNGdE04R2VrY29kbmpfd1A3T1VFdXhndWRLMTZHTm5LalQzekstU3RKckNMLTJkeTk2SEJKRnI1dEN3UUlyQVU3X21abkdYWXlHalNMMC1PRXBrSm1HUVp3?oc=5",
-   "query": "offerte TIM fibra",
-   "found": "2026-10-23T07:51:03.999293+02:00"
-  },
-  {
-   "date": "2026-10-23T07:00:59+02:00",
-   "type": "novita",
-   "service": "TIM",
-   "country": "IT",
-   "text": "Piani internet business a ottobre 2026: offerte da 20€/mese - Facile.it",
-   "source": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYXcwWnhYclYtWkhpZjRpbDNYYlhTSldhbkFsRUhSd3FwNmUtY3AtVXBhYVZKVnNfOTdKZ0JmVlFlMnQ3SXJuZmoxUlhfaExDUnRZbFFwdXpsZmxjb01OdGRLYTJBWUtxR3I5VlF1UGlTLS1Hc3d2SWk4UDJEZWR2NQ?oc=5",
-   "query": "offerte TIM fibra",
-   "found": "2026-10-23T07:51:03.999293+02:00"
   }
  ]
 }
