@@ -395,6 +395,7 @@
   "offerteinternetamenodi20meselepromodisettembre2026facileit",
   "offerteinternetasettembre2026pianida1990facileit",
   "offerteinternetcasaconbollettinopostaleottobre2026comparasemplice",
+  "offerteinternetcasanovembre2026fibrada1990escontifinoa6almesecomparasemplice",
   "offerteinternetchiamateillimitateipianidiottobre2026facileit",
   "offerteinternetconmodemgratisipianidiottobre2026da1550mesefacileit",
   "offerteinternetconmodeminclusoipianidisettembre2026facileit",
@@ -479,6 +480,7 @@
   "preciodazntodoslosplanescontenidopreciomensualyanualxataka",
   "precioppvdecaneloálvarezvschristianmbillicuántocuestaverloendazndazn",
   "prezzicarburantiitaliaintestatraipaesieuropeiperilpesodelletassesulgasolioskytg24",
+  "prezzicarburantilaprotestadeitirsvuotagliscaffalideisupermercatifotoskytg24",
   "prezzidiversisulplaystationstorecontrolliutilinel2026icrewplaycom",
   "prezzobenzinaedieselanchetamoilannunciamisurecontroilcarocarburanteskytg24",
   "prezzobenzinaedieseleccoidistributoricheapplicanoloscontoskytg24",
@@ -636,6 +638,16 @@
   "últimashorasaprovechalaofertaenelplanfútboldedaznparaverelatléticorealmadridymuchomásconunofertónmundodeportivo"
  ],
  "items": [
+  {
+   "date": "2026-11-02T16:34:59+01:00",
+   "type": "novita",
+   "service": "TIM",
+   "country": "IT",
+   "text": "Offerte Internet casa novembre 2026: fibra da 19,90€ e sconti fino a 6€ al mese - ComparaSemplice",
+   "source": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQnU2cTBpU3I3dVExMnJJMGhfUVlNOG4tY1liX0Znb1F4MnE0aGFBM1J1bFZnbWI3UlJGUXUtQTM1b2J6V1R3QThZb2dEcFpSSkljUXZlYTVsYVBVbEdvWkpMWV91bW0xQ3o0anllUzRkTnNBdG5XNEFTVkdrVjBybWFFMkN1N0ZtSFRYeDhDNmVseVc0Q1RrblVDYw?oc=5",
+   "query": "offerte TIM fibra",
+   "found": "2026-11-02T19:09:09.892896+01:00"
+  },
   {
    "date": "2026-11-02T15:16:00+01:00",
    "type": "novita",
@@ -2125,16 +2137,6 @@
    "source": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOR3F6YTJzenNlY0p1M2pSWllkd0pQWmU3OTh5WEtIRW83T3JFY0xERHRfSFBmZ1RyZDBiUUY2cmFjU1hiNWJ3aUUtMDJoczNHRDlHbnhLMjRuRDdLRHh5OTFmMTQyOHFad0pRcmRrWXFDcTB0bEhqcnNMTktkdFI0Z2M0T0xQSDREUmhiYlZIZFF3LWF3Y1U1eDM3Q0FoZ2NTR05HSnpYQUlJR3piZFF5UXhVTHlUTUxRYzdIY01qRTZPVkk?oc=5",
    "query": "TIMVISION offerta",
    "found": "2026-10-23T11:53:09.633282+02:00"
-  },
-  {
-   "date": "2026-10-23T09:58:19+02:00",
-   "type": "novita",
-   "service": "DAZN",
-   "country": "ES",
-   "text": "DAZN tumba su precio a la mitad por El Clásico: cómo ver el Barça – Madrid por 9,99 euros - AVPasión",
-   "source": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9jbFNtbmFtcUJvNXlMUDNlclVtWllmc2dRcDB4MjNNZndsZzlJNmcyak9QNXlGYWR5WjdXRl91YkYxVnpnZ1hnVVo4LUcwTWl5VnZwbkxxMTYtdHU4c2U0SGhvMVJkeEt1UzZpWHJhOTRxMmduci1MZEZTQQ?oc=5",
-   "query": "DAZN precio",
-   "found": "2026-10-23T10:54:10.148083+02:00"
   }
  ]
 }
