@@ -21,6 +21,7 @@
   "aumentitimnovembre2026egennaio2027rincariperfissoetimvisioncomparasemplice",
   "aumentiwindtretranovembre2026egennaio2027rincarifinoa3sulfissocomparasemplice",
   "aumentodeiprezzieinflazioneeccocosasiaspettanoleimpreselindaginebankitaliaskytg24",
+  "aumentoprezzisigarettenuovirincariinarrivonel2027eccoquandoskytg24",
   "austinpuedecoronaraantonellisigueeldesenlacedelmundialdefórmula1conlaofertadedaznmundodeportivo",
   "avatargratisps5ilcodiceperriscattareilpacchettodispidermanbrandnewdayanchesenzapluseveryeyeit",
   "avatarspidermanbrandnewdayiltruccoperscaricarligratissups5senzaplaystationpluseveryeyeit",
@@ -410,6 +411,7 @@
   "offertemobilea5eurodifineottobre2026promohalloweeenefinoa150gbalmesecomparasemplice",
   "offertemobilecon5gdiottobre2026pianida499mesefacileit",
   "offertemobilediottobre20265gda595mesefacileit",
+  "offertemobiledisponibiliinesimipianidinovembre2026facileit",
   "offertemobilesottoi5meselepromolowcostdiottobre2026facileit",
   "offertemobilespecialieinesclusivapianida499mesefacileit",
   "offertenowaottobre202612mesialprezzodi8facileit",
@@ -761,6 +763,16 @@
    "found": "2026-11-01T10:59:16.590061+01:00"
   },
   {
+   "date": "2026-11-01T07:46:06+01:00",
+   "type": "novita",
+   "service": "TIM",
+   "country": "IT",
+   "text": "Offerte mobile disponibili in eSIM: i piani di novembre 2026 - Facile.it",
+   "source": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNX3ZMcXE4Z29BcmN6eXhKeS0za0RwQWF5Qzg3SnhfbmNYNzlSY2ZYREdpblY0V3ZudnFMeDd5OEE4VE9DSlBza2dWV3JTTDNjQndSTk1qMlNOTGFGWlVacHJwUUNEVllwXzJ5SmFlU1NaYW9pN01KMXg5MDk1bWdNQ1FNQkUyQTc2V2c?oc=5",
+   "query": "offerte TIM fibra",
+   "found": "2026-11-02T21:59:13.354640+01:00"
+  },
+  {
    "date": "2026-11-01T07:01:57+01:00",
    "type": "novita",
    "service": "TIM",
@@ -839,6 +851,16 @@
    "source": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5RRHhCbkFXVjNrZ2YtLTJVclM5bkRaZEZFZjhWazIyRDBFbmZkVXRSR2ZTZFJJUDBVTFlOR1FaN0FUSFJlb3hrSmgyMkVuUGlUMGxVUEFyV0FwcEs0LW5US200Z3o1ZWRqSnpGclZUT09uZ3A3WnNUNg?oc=5",
    "query": "Sky offerta prezzo",
    "found": "2026-11-02T17:19:29.563300+01:00"
+  },
+  {
+   "date": "2026-10-31T06:25:55+01:00",
+   "type": "novita",
+   "service": "Sky TV",
+   "country": "IT",
+   "text": "Aumento prezzi sigarette, nuovi rincari in arrivo nel 2027: ecco quando - Sky TG24",
+   "source": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5RRHhCbkFXVjNrZ2YtLTJVclM5bkRaZEZFZjhWazIyRDBFbmZkVXRSR2ZTZFJJUDBVTFlOR1FaN0FUSFJlb3hrSmgyMkVuUGlUMGxVUEFyV0FwcEs0LW5US200Z3o1ZWRqSnpGclZUT09uZ3A3WnNUNg?oc=5",
+   "query": "Sky offerta prezzo",
+   "found": "2026-11-02T21:59:13.354640+01:00"
   },
   {
    "date": "2026-10-30T17:47:46+01:00",
@@ -2119,26 +2141,6 @@
    "source": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSTdWc09JSGJ3RXItTjdKNlZnSTlnTTJpX1NYeGc5TzJEdzBEM2dxdTNhcFVrWnJZTWNoOUE5bUtQaXpDcFhBenNITWowYnQ3Wl9tNjQ2UUFxaHEtbFU1WHZrcjUzaFQ0bWR0dUVhdjNvdEJtXzFwOGotaFNPM3hRVEd6bEdmaURrNFRxNlV6b3hVN2QtR211WlVXcTF5eDdHclpmRnBjY1k4RUJNX3ctTGtudVVsSWdjdUN5enk3eFdVUFFieDUzOUJMZmJIUWFPVlF3?oc=5",
    "query": "DAZN oferta plan",
    "found": "2026-10-24T13:48:27.345636+02:00"
-  },
-  {
-   "date": "2026-10-23T13:00:06+02:00",
-   "type": "novita",
-   "service": "DAZN",
-   "country": "ES",
-   "text": "DAZN rebaja a 9,99 euros su plan de fútbol por menos de 48 horas para ver el Clásico y mucho más - Levante-EMV",
-   "source": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNN0o4QnJRQjFEM2pab2xoSjJwb2FCVWxHeGFzay05UkF2S2sxWnJSWEU2Wkh5a1F2YzcxeldyRVBfd2pYU1RYWTJEbzhzRjNDeUxrWm54eWMzZlowUmxZendsSENOQlQzVXVaNXFUOXliQ2I2dFE3Y1NhSndsMWdnRk9KTC1DaTVyX0hQWEFlNzFZU0ptUWJpc0Fnbm13WE9NR0FXV3laNzFQd3g3SlNPVl9hQ01Id1djbVhvc1I5aHprbWfSAcgBQVVfeXFMTWJ5MGxPLW9BMVBJX2ZReklCWmplN0Q1Vmo2cjNqalBZU25PaFE1c2pKbWpHRk9weDFJSmZTbUZXVUFuVmJTVXBYeXJoeG1USF9kNFY2LVZHLVJLdkp3Y0VDV1JpQzh0WmoxWWpLNHlLcXUyNE5EbE45V2Y2b0p3WFhEeXpfbUxPU0stR185dnpkVzB3cHJVUGt4NUtJdEstZEZCbkx1ZzUtRVBHbnMwT0pFb1dXbFhKd2YxWmlGdExiSlFjeDJmUzc?oc=5",
-   "query": "DAZN oferta plan",
-   "found": "2026-10-27T04:53:59.254406+01:00"
-  },
-  {
-   "date": "2026-10-23T12:40:12+02:00",
-   "type": "novita",
-   "service": "DAZN",
-   "country": "ES",
-   "text": "DAZN rebaja a 9,99 euros su plan de fútbol por menos de 48 horas para ver el Clásico y mucho más - SPORT",
-   "source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPT21aaWxYbW9MRTFFRlZyRmxVYzc3MmtrX0pYTm5lYko2LVhjRS16bVh4cUFaekItVTJjVmU0ejU2dEYzd2M3Vkh3aVZTVV9fRWFINHhhMU4wdDRILUtGNXZZcUxSalg0cjhqeENyQ3NoaVdoWEVqRmlLdzByazB0NTlUOXBDcndfYTViZjd2QWlLWEtyT3ZqNkVtZDg2SHFYWmJ1aUdXc1RwNnBjQ1lyZQ?oc=5",
-   "query": "DAZN oferta plan",
-   "found": "2026-10-23T16:56:22.225678+02:00"
   }
  ]
 }
