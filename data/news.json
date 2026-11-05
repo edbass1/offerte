@@ -414,6 +414,7 @@
   "offertearubafibrabusinesstariffeperpartitaivaeaziendenovembre2026selectranet",
   "offertearubafibrabusinesstariffeperpartitaivaeaziendeottobre2026selectranet",
   "offerteconmoltigigaamenodi10diottobre2026finoa500gbalmesecomparasemplice",
+  "offertefibraopenfibercasaconfrontowindtreiliadearubacorcom",
   "offertefibrasotto20eurolemiglioriaprezzoscontatodiottobre2026sostariffe",
   "offertefissopiùmobilediottobre2026risparmifinoa84nelprimoannocomparasemplice",
   "offertefissopiùmobiledisettembre2026risparmifinoa84lannocomparasemplice",
@@ -706,6 +707,16 @@
    "source": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQSmJWSFZkeTRDS21YNVpWcjlTWDYtU3RXcXdWeVYwSmpFZlZCeHZpMlNEZW05U0hJZ1hUVmZqMkFlOTR2NllCbHRGTVNjaUZ6MzJTV1RzTWpKdmlCMFVFOE95MTZ2NmEwRlVuWXJ6NGdlTGhUZXZ5elFaV3hpZ1BsUjQ5aXhYOWtnYjM2OE9VVHJXcE1GTy1iNTBxU3A0eTd6UVlQNW9VZkpuTkJiR3NwX0x4aWFWUFhYWERUajhpeEw1Y1hYdkl3bkxQdS03S2pvWWpnNkV2UDVqVVBRbW9vYlNWRXVYdXR4aThOcUE1ZWhsY3NIVEc1V1ZNZ25uMlpPVVlKTmV4WE1ZVEhLenVxZnY5UmtnMlpnaGpqZldRN3huTVJKelNpV2Z1S0RndTV6RXlBcy05emdyMHRHcklxMmt3a2hoQTlsTXRZVA?oc=5",
    "query": "DAZN oferta plan",
    "found": "2026-11-05T16:17:12.231621+01:00"
+  },
+  {
+   "date": "2026-11-05T12:54:55+01:00",
+   "type": "novita",
+   "service": "TIM",
+   "country": "IT",
+   "text": "Offerte fibra Open Fiber casa: confronto WindTre, Iliad e Aruba - CorCom",
+   "source": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOX1JpWUozWEg0S09GczdPMzBfT3lkYVNEd3FFM3dnUTFWdDBLWVNRSmNsTl80SWRQT0NYXzlKWE9tdGZNd2VPYWFFQkdjbFFwNHI4TjJ6QmUwcGd1Wk45WjNUb0JNLWRtd2tqSE1wcEp3MlBLaG44S3JKZ3hfemI1dUNHMFZHanc1c3NXMThiM0lUdG1icEthM2tRNUdpMnlmazQ0MVh3?oc=5",
+   "query": "offerte TIM fibra",
+   "found": "2026-11-05T18:26:40.927440+01:00"
   },
   {
    "date": "2026-11-05T09:47:26+01:00",
@@ -2176,16 +2187,6 @@
    "source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUFViZ0VjeU9wUFlnak1pTTlsdHJtRzU5NWR6d0NINUp2eUV1M1d1Zy1BTDJpaUg3VzJjOFdzWGdjenVtOVVHbk9jaFRoVkYxUmFJbzFmMlR6cjVQMHNUQkI2QlBwcnRLZEhEc0QzQkI1NGk3aTAtVEczUE1rcFhiM0M1cHB6U2RsbWNiUVJkZllQdWNRWVhDMVhWcHbSAaIBQVVfeXFMTjVlQi1Vb0M4b09RR2dRejNUSDRIQUhJX1hLa2hkQlRWOTdjcHdLdV9JdElUU2JqbmRyNklJcVhJWTZEb25SNEl2VTJPcFRLRE5XNjlreng0eThyLV9jQlFRbVFxRUNwRkpJc1NFNDNWNEJOUEgyVUFrLUd3ancydGpJbW5sRUx1b3E2Z09vb1Y2ZkpLUFdhd05aTlhvUTRMdVJ3?oc=5",
    "query": "DAZN oferta plan",
    "found": "2026-10-26T14:36:22.602839+01:00"
-  },
-  {
-   "date": "2026-10-26T11:00:36+01:00",
-   "type": "novita",
-   "service": "TIM",
-   "country": "IT",
-   "text": "Open Fiber paga 120 euro agli operatori per portare i clienti sulla FTTH - PhoneToday",
-   "source": "https://news.google.com/rss/articles/CBMibkFVX3lxTE50emNaY3pzNXpBWl91cVduOVdaYjFHSEl3NVd5VkxoZGJjNDV2NWRFQlluTEtZQ2JPdWdRSnItc3BVeGVxZ1h6WTlvVERxRV91ZEFaSkVJaEpmV0hlUndXS05WblpOempOcm5Ob29n?oc=5",
-   "query": "offerte TIM fibra",
-   "found": "2026-10-27T15:07:51.453063+01:00"
   }
  ]
 }
