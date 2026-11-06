@@ -526,6 +526,7 @@
   "prezzobenzinaedieselscontisulcarburantequalisonoidistributoridoverisparmiareskytg24",
   "prezzodieselebenzinaitaliatraipaesieuropeipiùcolpitidalcarocarburanteskytg24",
   "prezzodieselnuovotaglioacciseescontosulgasoliodaoggial7novembreskytg24",
+  "prezzogplemetanoinaumentonuovirincarilegatialcarocarburantiskytg24",
   "programacióndazngoprecioquéincluyecómoyquéverhoyyestasemanadazn",
   "programmazioneeurosportsudaznilcalendarioeventideiprossimigiornidaznnewsitaliadazn",
   "promodaznabonnementà799moisjusquau2novembresportbuzzbusiness",
@@ -753,6 +754,16 @@
    "source": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5aYzZkN0J0bTZmaTF4eWx5Q25fc3gzWHI4eG5jaW5qRW1nZEZlUEVweHNlZ0hhWGppSHBTaVRHazR5dkVUVk5YYmx0WU1fUUVZNmpEVkVnRzZCcDUzWTRCY1Y0NTNQalQ4VV9ZUWJtYlRfR0E?oc=5",
    "query": "Sky offerta prezzo",
    "found": "2026-11-05T10:20:14.879571+01:00"
+  },
+  {
+   "date": "2026-11-05T09:47:26+01:00",
+   "type": "novita",
+   "service": "Sky TV",
+   "country": "IT",
+   "text": "Prezzo GPL e metano in aumento, nuovi rincari legati al caro carburanti - Sky TG24",
+   "source": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5aYzZkN0J0bTZmaTF4eWx5Q25fc3gzWHI4eG5jaW5qRW1nZEZlUEVweHNlZ0hhWGppSHBTaVRHazR5dkVUVk5YYmx0WU1fUUVZNmpEVkVnRzZCcDUzWTRCY1Y0NTNQalQ4VV9ZUWJtYlRfR0E?oc=5",
+   "query": "Sky offerta prezzo",
+   "found": "2026-11-06T10:13:45.828313+01:00"
   },
   {
    "date": "2026-11-05T07:42:10+01:00",
@@ -2183,16 +2194,6 @@
    "source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSHlfaHl6dHRiZUEyZ0Y3MFJETnRXSUhYZ2JTb29tOGtCYmRyTlg5blZwTnA5ekE3NEdzRzluaHlXTXpFT2h0cHdxcmlZb21QUnpWelhmdzVYVEk4ZS1SNUZaVlVYckxya2pFRW05QV9UbFZvdVJBckozQUUycFNhS1JxRFczUmVDMmU4emp0UDdXYnY3MjJCWG50bTFBeVQ0Z3NZLXlwTlZBWU1ZRjFXR0Z1SXNvRjRzLW1fdQ?oc=5",
    "query": "Sky offerta prezzo",
    "found": "2026-10-26T18:01:50.080807+01:00"
-  },
-  {
-   "date": "2026-10-26T17:30:49+01:00",
-   "type": "novita",
-   "service": "DAZN",
-   "country": "ES",
-   "text": "Qué puedes ver con DAZN GO por 4,99 euros al mes: LaLiga, F1, MotoGP, NBA, NFL y más, con límites - roams.es",
-   "source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPY0RGdHpybGZlU0lkZXB6V1NfZVpxWUxGLW81dGc1WWo2TUR3Mi1FTm15WDQyMDlabzJzQXBzR3ViVC1jRXdBRlUxT01zM2tRRFNERnVBOFkyNUFGTDN6MllfbHZiR1A3T2I3M0hpWmdRXzRYcWR0VE9TMUl2eHNoU3hxTm1VWDFhcUNiZHlxRFhHSDh4MmhWQnNzNTdEVFFFS0lubw?oc=5",
-   "query": "DAZN precio",
-   "found": "2026-10-26T18:53:42.051168+01:00"
   }
  ]
 }
