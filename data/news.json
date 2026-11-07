@@ -464,6 +464,7 @@
   "offertesolovocecasadisettembre2026comparasemplice",
   "offertestarlinkinternetcasasegugioittraiprimiarenderledisponibiliallacomparazionesegugioit",
   "offertetimcasadiottobre2026comparasemplice",
+  "offertetimcasaletariffedidicembrecomparasemplice",
   "offertetimda499eurooraancheperchilasciaskymobiletecnoandroid",
   "offertetimdaskymobilefinoa400gbin5gda499mesesostariffe",
   "offertetimoskymobilequalesceglieresegugioit",
@@ -710,6 +711,16 @@
   "übertragungvonbundesligachampionsleagueundeuropaleagueindersaison202728fußballlivebeidaznsehenalleinformationenzudentvre"
  ],
  "items": [
+  {
+   "date": "2026-11-07T10:21:09+01:00",
+   "type": "novita",
+   "service": "TIM",
+   "country": "IT",
+   "text": "Offerte TIM casa: le tariffe di dicembre - ComparaSemplice",
+   "source": "https://news.google.com/rss/articles/CBMifkFVX3lxTE82dXgxT0hzX2R3Rm1YRzlNSTFEM2pSYzY0Z0IxakpOdzBEVDI3Sm9RbVFyTDVlZWNBQ0NsTXdJQ3UtUThQVXhhdFpKYncyb21ZRWdQYWFpem9tYVpGRXVRQzRlNWpWejdlNmNvWWh5akpuQldFWFZIb1FaN1VkZw?oc=5",
+   "query": "offerte TIM fibra",
+   "found": "2026-11-07T11:58:15.666615+01:00"
+  },
   {
    "date": "2026-11-07T05:12:23+01:00",
    "type": "novita",
@@ -2199,16 +2210,6 @@
    "source": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbVdtZE1DT0dGdlJubmRyRS1Eb0FIZVEzWjE1WXdXaHlGSGZGX2ZzdE94VG9rU3VBWGpCRUJUX1k5X3lweGQ0M2UybWVpOHU1d1VfSzFjMU5Od2dGZDRXN1dJTXRFQU1mbE14Sm1oc3kzaUFoWmhkNW00Q2lwc0k4X2p3?oc=5",
    "query": "offerte TIM fibra",
    "found": "2026-10-27T18:01:47.615646+01:00"
-  },
-  {
-   "date": "2026-10-27T12:00:00+01:00",
-   "type": "novita",
-   "service": "DAZN",
-   "country": "BE",
-   "text": "DAZN à 7,99 € sans engagement : cette offre cache une restriction qui peut tout changer - Ariase",
-   "source": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORm5lM3RWZnFJUzVpLU9rX25IWlFYUnl3SlNSMFhFZzRuQnB1bGdRWXQ5d3FNaGF1SEdrWnk5TmVtSS1QYjNjRE1IU0VCdnk4LUk3TTZOY1ZJYmhvRGV1SHFTbnVLc1BoV21GUUlJbnQ1T0lFa3BmWVd5dDNiaDhERFVvcFpFeGhZQmhCaTZ0c1lZNlU1dVZGbTZ6ZkJIRkhPRWI3cWcydkpZNkVYMXhCbG45SnhucE9jVV9WRVBMd0dlbVBP?oc=5",
-   "query": "DAZN prix abonnement",
-   "found": "2026-10-27T12:53:06.147275+01:00"
   }
  ]
 }
