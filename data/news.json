@@ -449,6 +449,7 @@
   "offerteinternetconregalodimarzo2026comparasemplice",
   "offerteinternetdiottobre2026attivalafibrada1995mesefacileit",
   "offerteinternetdiottobre2026pianida1995mesefacileit",
+  "offerteinternetsottoi20mesepromodinovembrefacileit",
   "offerteinternettvpromodisettembre2026facileit",
   "offertelucegaseinternetmaggio2026lemigliori5delmesecomparasemplice",
   "offertemobilea5eurodanonperdereafinesettembreminutiillimitatiefinoa150gbalmesecomparasemplice",
@@ -718,6 +719,16 @@
   "übertragungvonbundesligachampionsleagueundeuropaleagueindersaison202728fußballlivebeidaznsehenalleinformationenzudentvre"
  ],
  "items": [
+  {
+   "date": "2026-11-08T09:26:15+01:00",
+   "type": "novita",
+   "service": "TIM",
+   "country": "IT",
+   "text": "Offerte internet sotto i 20€/mese: promo di novembre - Facile.it",
+   "source": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSHc5ZEprWXFtTDE2S2YwZEFsell0Q21LTjhGUXdTRW0wQXJyZXZNZVpIZDZDWDVSb09hM2VzSnFIMnZ4WHZNakJhcl9wMXpiSlpxRlpDTVhDSVplX0pPSXVON3djOFA3WXQzbW1YS0RCRTl1Nm1BVlVpODYwWnZZdFpEOXF5UHV3?oc=5",
+   "query": "offerte TIM fibra",
+   "found": "2026-11-08T15:03:00.311433+01:00"
+  },
   {
    "date": "2026-11-08T08:25:00+01:00",
    "type": "novita",
@@ -2207,16 +2218,6 @@
    "source": "https://news.google.com/rss/articles/CBMidEFVX3lxTE51d1Nld09sTXJIQmVxTm80LVNjaEtqdnV1R28ybjB3am1BTEhWR0hPamFpR1NHUmJDVWJUV2FVSUJFYTRtTi1nNTRmNVd6bTVkWUZrQ2tRUGszTkVwZlhfS2k1OTl2RjNOMzQ3WFdzRFh6RVAt?oc=5",
    "query": "DAZN oferta plan",
    "found": "2026-10-28T08:20:18.649131+01:00"
-  },
-  {
-   "date": "2026-10-27T21:12:00+01:00",
-   "type": "novita",
-   "service": "DAZN",
-   "country": "ES",
-   "text": "¿MotoGP y Fórmula 1 por menos de 5€? Así es la nueva oferta de DAZN - MOTOSAN",
-   "source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN3ppdEtULW1uMEdMMURJWHpiOFplbmh2cXQwaUZ1aU8xYzN2ZlI0Y1JLb0F5YVB2UXJGRFJmSnBiYzA4WjNoNU82VlEyVGY0RU8xcFBwNFViZXRCLTVtR0Z0N3p1NXVBcndRUWtHdXUwRTl3NnpjQ1JzMllPd2NYdG9KWThvandTTnRrNExGeU9wQ3hNb3ZrcWlGQjQ?oc=5",
-   "query": "DAZN precio",
-   "found": "2026-10-27T21:53:26.857882+01:00"
   }
  ]
 }
