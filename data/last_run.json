@@ -1,5 +1,5 @@
 {
- "run": "2026-11-11T07:40:32.177525+01:00",
+ "run": "2026-11-11T16:22:28.940772+01:00",
  "sources": [
   {
    "service": "Sky TV",
@@ -13,7 +13,7 @@
    "url": "https://www.sky.it/tv/sky-calcio",
    "ok": true,
    "prices_found": 6,
-   "promo_words": 13
+   "promo_words": 14
   },
   {
    "service": "Sky TV",
@@ -170,5 +170,5 @@
    "promo_words": 11
   }
  ],
- "events": 1
+ "events": 3
 }
