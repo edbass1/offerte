@@ -1,5 +1,5 @@
 {
- "run": "2026-11-16T12:40:16.652698+01:00",
+ "run": "2026-11-16T23:16:40.476457+01:00",
  "sources": [
   {
    "service": "Sky TV",
@@ -25,10 +25,8 @@
   {
    "service": "DAZN",
    "url": "https://www.dazn.com/es-ES/welcome",
-   "ok": true,
-   "prices_found": 0,
-   "promo_words": 0,
-   "note": "nessun prezzo nel testo (pagina dinamica?) - mantenuti ultimi valori noti"
+   "ok": false,
+   "error": "403 Client Error: Forbidden for url: https://www.dazn.com/es-ES/welcome"
   },
   {
    "service": "DAZN",
@@ -49,9 +47,8 @@
   {
    "service": "DAZN",
    "url": "https://www.dazn.com/de-DE/news/fussball/dazn-angebot-zur-champions-league-jetzt-unlimited-fuer-2499-euro-sichern/175va0epjd8z31wm00qk8bx2p4",
-   "ok": true,
-   "prices_found": 3,
-   "promo_words": 24
+   "ok": false,
+   "error": "403 Client Error: Forbidden for url: https://www.dazn.com/de-DE/news/fussball/dazn-angebot-zur-champions-league-jetzt-unlimited-fuer-2499-euro-sichern/175va0epjd8z31wm00qk8bx2p4"
   },
   {
    "service": "DAZN",
@@ -73,15 +70,14 @@
    "service": "Zattoo",
    "url": "https://zattoo.com/de/en/offers",
    "ok": true,
-   "prices_found": 18,
+   "prices_found": 19,
    "promo_words": 0
   },
   {
    "service": "Zattoo",
    "url": "https://zattoo.com/at/en/offers",
-   "ok": true,
-   "prices_found": 6,
-   "promo_words": 0
+   "ok": false,
+   "error": "503 Server Error: Service Unavailable for url: https://zattoo.com/at/en/offers"
   },
   {
    "service": "Teleboy",
@@ -141,21 +137,21 @@
    "url": "https://www.fastweb.it/adsl-fibra-ottica/fastweb-casa-start/",
    "ok": true,
    "prices_found": 15,
-   "promo_words": 15
+   "promo_words": 16
   },
   {
    "service": "Fastweb",
    "url": "https://www.fastweb.it/adsl-fibra-ottica/fastweb-casa-pro/",
    "ok": true,
    "prices_found": 14,
-   "promo_words": 15
+   "promo_words": 16
   },
   {
    "service": "Fastweb",
    "url": "https://www.fastweb.it/adsl-fibra-ottica/fastweb-casa-ultra/",
    "ok": true,
    "prices_found": 15,
-   "promo_words": 15
+   "promo_words": 16
   },
   {
    "service": "Iliad",
@@ -173,5 +169,5 @@
    "promo_words": 11
   }
  ],
- "events": 0
+ "events": 12
 }
