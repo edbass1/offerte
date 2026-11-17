@@ -136,6 +136,7 @@
   "cómoverelclásicoamitaddeprecioeldescuentodel50enelplanfútboldedaznacabaestanochemundodeportivo",
   "cómoverelespanyolatléticodemadridconelplanhbomaxdaznabónateaquíeurosport",
   "cómoverelfcbarcelonarealmadridconelplanhbomaxdaznabónateaquíeurosport",
+  "cómoverelfcbarcelonavillarrealconelplanhbomaxdaznabónateaquíeurosport",
   "cómoverelgpdeaustraliademotogpconelplanhbomaxdazncalendarioysuscripcióneurosport",
   "cómoverelgpdeazerbaiyándefórmula1conelplanmaxdaznabónateaquíeurosport",
   "cómoverelgpdebaréindefórmula1conelplanmaxdaznabónateaquíeurosport",
@@ -352,6 +353,7 @@
   "icostidiproduzionedips6sembranoesseremoltopiùaltidiquellidips5perunprezzofinaleoltrei1000dollarimultiplayer",
   "idatiistatsuiprezzialconsumoinitaliain25anniinmedia63skytg24",
   "igiochifisiciperplaystationvannoancorafortissimoineuropasonyignoralevidenzahdblogit",
+  "ilblackfridaydiamazonègiàiniziatoleofferteinanticiposkytg24",
   "ilcontrollerdualsensegraycamouflageperps5costa10inmenosuamazonmultiplayer",
   "ilgdrdazionedicapcomconil96direcensionipositivescendealprezzopiùbassodisemprenotebookcheckit",
   "iliadarrivaloffertaftthconsiminclusaperladomoticahdblogit",
@@ -556,6 +558,7 @@
   "pianimobiledinovembre2026offerteda499facileit",
   "pianimobiledisponibiliinesimleoffertediottobre2026amenodi8mesefacileit",
   "pianimobilesottoi10mesediottobre2026finoa400gbapartireda598facileit",
+  "planesypreciosdedaznen2026eligesoloeldeportequevesdesde499euroseleconomista",
   "planfútboldedazncuántocuestaquépreciotienequéincluyequécompeticionesyprogramassepuedenverycómocontratarlasuscripcióndazn",
   "planmadeinusadedazncuántocuestaquépreciotienequéincluyequécompeticionesyprogramassepuedenverycómocontratarlasuscripciónd",
   "planpremiumdedazncuántocuestaquépreciotienequéincluyequécompeticionesyprogramassepuedenverycómocontratarlasuscripcióndaz",
@@ -817,6 +820,26 @@
  ],
  "items": [
   {
+   "date": "2026-11-17T18:27:50+01:00",
+   "type": "novita",
+   "service": "Sky TV",
+   "country": "IT",
+   "text": "Il Black Friday di Amazon è già iniziato: le offerte in anticipo - Sky TG24",
+   "source": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1WTEY5MXdaTEozMW5WbGFGZ2Q2VlpKUlZLeVJuWFJvVzB0QXpJQnkyQVMtcWY2Qkw3R3B3Y182aWlPVk9ZMmtCbmhmWkpiSE5WVjVMdUhSVF80UXlDbElRVzJROUdvbzhGWlBuLXNldFhmOUgtWEQ0?oc=5",
+   "query": "Sky offerta prezzo",
+   "found": "2026-11-17T23:58:01.306016+01:00"
+  },
+  {
+   "date": "2026-11-17T16:03:34+01:00",
+   "type": "novita",
+   "service": "DAZN",
+   "country": "ES",
+   "text": "Planes y precios de DAZN en 2026: elige solo el deporte que ves desde 4,99 euros - El Economista",
+   "source": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOGhtRHhxMU5paW81MlF2V3RYbThjWkVDcXJaVHp6ajJQVWtINWtOSXJZQVVlQVNLV1BmVG5QYldfcnVjaWdha19PLWNTMV9Lc0RhZ29pS2Z2VWRUTzE2T21KVEoxUDVCaFIzRGstRVYza3lKN1FpbklBYWlvNFdNZlBTNi0yQVlCZ2R4QUFKTXNhdDJ5VlRGbzRNYmRzRTFEOHNHZkRkWWcwUmRablFsd3ZpNUZQOE5JQkM2SkM0a3MyZ3pyWGfSAcYBQVVfeXFMTzhobUR4cTFOaWlvNTJRdld0WG04Y1pFQ3FyWlR6emoyUFVrSDVrTklyWUFVZUFTS1dQZlRuUGJXX3J1Y2lnYWtfTy1jUzFfS3NEYWdvaUtmdlVkVE8xNk9tSlRKMVA1QmhSM0RrLUVWM2t5SjdRaW5JQWFpbzRXTWZQUzYtMkFZQmdkeEFBSk1zYXQyeVZURm80TWJkc0UxRDhzR2ZEZFlnMFJkWm5RbHd2aTVGUDhOSUJDNkpDNGtzMmd6clhn?oc=5",
+   "query": "DAZN precio",
+   "found": "2026-11-17T23:58:01.306016+01:00"
+  },
+  {
    "date": "2026-11-17T15:16:00+01:00",
    "type": "novita",
    "service": "Sky TV",
@@ -825,6 +848,16 @@
    "source": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdnhIYUY4SmlZU2FwRC11eGRfeldUcm05Q0FlaEJHR0JzWEgxU29odGVZdUxhd3hodUZ5MXRzWmY3MmM4Mk9JQkRqTFZBZ1F6YXFzcW9tVnZnblExNWFOWXJDeXhMZ2lNM284bFNLUUdIU1RhZUdNdm5PNWJjZFpHTG05VUdmczJPa3hJS3Q0a0ZqclpEVDg3cVVKZmpYU1N6R05CSFdVMlFhYnBuazdrenVNazYzZw?oc=5",
    "query": "Sky offerta prezzo",
    "found": "2026-11-17T15:36:16.597606+01:00"
+  },
+  {
+   "date": "2026-11-17T14:12:00+01:00",
+   "type": "novita",
+   "service": "DAZN",
+   "country": "ES",
+   "text": "Cómo ver el FC Barcelona - Villarreal con el plan HBO Max DAZN: Abónate aquí - Eurosport",
+   "source": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQSEFSZkctUVBhNWNXTkVqM0xDUjlPUzhhTjFJMHNzMlA0R1dlQkxmZDBoVDdRRk4tekw2clh0Wnc5SGZJWUFXc1MtRlZxa0NWdE9JQm0wdnZ3d1NBTHJOREtYZlpVMWcyeUJuOGRoUUhMWnhPUjlOVlE1YnIyUG55SzFmRFNFT2FLNHJJdWRtMTRqTXZpRUhwMkRQRTc4dmhTSXR3Nld5RTBkbTJUNWlaTHFrR1JLNm1EVGdXNWJWTE8zLWg0ZmFKWGNVcTgwNXd5N0IwdlVqYnl6LVFOUlk2V0lCQ3AyQ0hVS2xtZUxWMUZmZ0Y5MnlsZXlYbmNoOG9ncFRGZlF4UmFCVFU5Vk42czlvZDRmSEd0cG9WWmxGeVFYc204RmRvMk9SY2kxakxPcUxYMzFMTWg3TzNES0V2aElyMnNCSWVOZmsxaGJMQjk?oc=5",
+   "query": "DAZN oferta plan",
+   "found": "2026-11-17T23:58:01.306016+01:00"
   },
   {
    "date": "2026-11-17T12:43:00+01:00",
@@ -2285,36 +2318,6 @@
    "source": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNVRJZUVYWTVRZDZrVEdhb2M3NjY1Mlp0SGpoZ0E2c3l5dEtsUnpHaU5EMGFJVjlUbEJEYUR2SlZlU0xxalZFOURDMWkya2x3ZDEzYnNjS0ZfN0ZfWTNJWEJpTlp6MXBMSzktLTM1dFozcmdQR2lDbnljeDltcGc0aUlXN1lfa2FOc2xhdWdkZUk0U2JIbEFMWG9vVzB2dWhaelRWT1k4aVhOYjkxUjViWVI0Q1gxZXlqQXc?oc=5",
    "query": "offerte fibra WindTre Vodafone Fastweb Iliad",
    "found": "2026-11-02T20:14:57.052293+01:00"
-  },
-  {
-   "date": "2026-11-02T16:34:59+01:00",
-   "type": "novita",
-   "service": "TIM",
-   "country": "IT",
-   "text": "Offerte Internet casa novembre 2026: fibra da 19,90€ e sconti fino a 6€ al mese - ComparaSemplice",
-   "source": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQnU2cTBpU3I3dVExMnJJMGhfUVlNOG4tY1liX0Znb1F4MnE0aGFBM1J1bFZnbWI3UlJGUXUtQTM1b2J6V1R3QThZb2dEcFpSSkljUXZlYTVsYVBVbEdvWkpMWV91bW0xQ3o0anllUzRkTnNBdG5XNEFTVkdrVjBybWFFMkN1N0ZtSFRYeDhDNmVseVc0Q1RrblVDYw?oc=5",
-   "query": "offerte TIM fibra",
-   "found": "2026-11-02T19:09:09.892896+01:00"
-  },
-  {
-   "date": "2026-11-02T15:16:00+01:00",
-   "type": "novita",
-   "service": "PlayStation Plus",
-   "country": "IT",
-   "text": "Quando inizia il Black Friday PlayStation 2026 in Italia e che sconti possiamo aspettarci? - Everyeye.it",
-   "source": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNU3F6UXpITTE3RzEwRy04NFQ3RkdMd3RMMW1JOWxxaFhka0syNXA1ekk5NUp3ZHJIbF94NnpyRXQ0alh1OTJNdkpXVmFWX3c5Z3ZMMm0zRlhYVF9Mbzg0SldybGk4UkV0NTdSWHl5QlFYXzFaQXVCb3dWTVptS1RtTDNya1VNSlA3Rlp6c1pjVUlhYzBMUUU3RnVUb3dEelNuTnFlSjM1MUZjZVdwbHA5aWtsOUktRkVjR0FCZ1pn?oc=5",
-   "query": "PlayStation Plus prezzo",
-   "found": "2026-11-02T16:12:21.641789+01:00"
-  },
-  {
-   "date": "2026-11-02T12:55:00+01:00",
-   "type": "novita",
-   "service": "DAZN",
-   "country": "DE",
-   "text": "MegaSport Option: 3 Sport-Abos für 65 Euro - sport.de",
-   "source": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNT0ZwWEx3bmVSZUx4VUZuckoxMzYtRzMxWnZNR0hjWUNVQ3BfY1RnVDd5bTBuZko2d0hMS2pDZGJsLW1EX2VEWDdTTlFERl9FOGZLR3JYMUI0b3owQlBjTTREc1ptb1pBT1YtWUNWRWF2bG16cUZlSHVUR0tZeFJsTnpnLWtxRGpqWlptUXV3ZTdlaHloRFp1VjJHT0xaQWI2Q3dudnpweEdUc2M?oc=5",
-   "query": "DAZN Preis Angebot",
-   "found": "2026-11-03T23:02:08.470294+01:00"
   }
  ]
 }
