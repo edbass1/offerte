@@ -9,8 +9,8 @@
    "51,90€",
    "59,90€"
   ],
-  "checked": "2026-11-17T05:38:17.494092+01:00",
-  "promo_words": 17
+  "checked": "2026-11-17T15:36:16.597606+01:00",
+  "promo_words": 18
  },
  "https://www.sky.it/tv/sky-calcio": {
   "prices": [
@@ -21,15 +21,15 @@
    "29,99€",
    "51,90€"
   ],
-  "checked": "2026-11-17T05:38:17.494092+01:00",
-  "promo_words": 14
+  "checked": "2026-11-17T15:36:16.597606+01:00",
+  "promo_words": 15
  },
  "https://www.sky.it/offerte": {
   "prices": [
    "16,99€",
    "31,99€"
   ],
-  "checked": "2026-11-17T05:38:17.494092+01:00",
+  "checked": "2026-11-17T15:36:16.597606+01:00",
   "promo_words": 11
  },
  "https://www.dazn.com/de-DE/news/fussball/dazn-angebot-zur-champions-league-jetzt-unlimited-fuer-2499-euro-sichern/175va0epjd8z31wm00qk8bx2p4": {
@@ -136,7 +136,7 @@
    "€59.99",
    "€7.99"
   ],
-  "checked": "2026-11-17T05:38:17.494092+01:00",
+  "checked": "2026-11-17T15:36:16.597606+01:00",
   "promo_words": 0
  },
  "https://zattoo.com/at/en/offers": {
@@ -146,9 +146,10 @@
    "14.99€",
    "3,99€",
    "5,90€",
-   "6,90€"
+   "6,90€",
+   "€9.99"
   ],
-  "checked": "2026-11-16T12:40:16.652698+01:00",
+  "checked": "2026-11-17T15:36:16.597606+01:00",
   "promo_words": 0
  },
  "https://www.windtre.it/offerte-fibra/super-fibra-internet-a-casa": {
@@ -164,7 +165,7 @@
    "5,99eur",
    "5,99€"
   ],
-  "checked": "2026-11-17T05:38:17.494092+01:00",
+  "checked": "2026-11-17T15:36:16.597606+01:00",
   "promo_words": 6
  },
  "https://www.fastweb.it/adsl-fibra-ottica/fastweb-casa-start/": {
@@ -185,7 +186,7 @@
    "9,95€",
    "€37"
   ],
-  "checked": "2026-11-17T05:38:17.494092+01:00",
+  "checked": "2026-11-17T15:36:16.597606+01:00",
   "promo_words": 16
  },
  "https://www.fastweb.it/adsl-fibra-ottica/fastweb-casa-pro/": {
@@ -205,7 +206,7 @@
    "9,95€",
    "€37"
   ],
-  "checked": "2026-11-17T05:38:17.494092+01:00",
+  "checked": "2026-11-17T15:36:16.597606+01:00",
   "promo_words": 16
  },
  "https://www.fastweb.it/adsl-fibra-ottica/fastweb-casa-ultra/": {
@@ -226,7 +227,7 @@
    "9,95€",
    "€37"
   ],
-  "checked": "2026-11-17T05:38:17.494092+01:00",
+  "checked": "2026-11-17T15:36:16.597606+01:00",
   "promo_words": 16
  }
 }
