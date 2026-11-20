@@ -1,5 +1,5 @@
 {
- "run": "2026-11-20T04:33:04.889795+01:00",
+ "run": "2026-11-20T14:06:15.115831+01:00",
  "sources": [
   {
    "service": "Sky TV",
@@ -20,7 +20,7 @@
    "url": "https://www.sky.it/offerte",
    "ok": true,
    "prices_found": 2,
-   "promo_words": 11
+   "promo_words": 10
   },
   {
    "service": "DAZN",
@@ -167,8 +167,8 @@
    "url": "https://www.sky.it/offerte",
    "ok": true,
    "prices_found": 2,
-   "promo_words": 11
+   "promo_words": 10
   }
  ],
- "events": 2
+ "events": 8
 }
