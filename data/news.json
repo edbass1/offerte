@@ -164,6 +164,7 @@
   "cómoverelgpdeindonesiademotogpconelplanhbomaxdazncalendarioysuscripcióneurosport",
   "cómoverelgpdelasvegasdefórmula1conelplanmaxdaznabónateaquíeurosport",
   "cómoverelgpdeméxicodefórmula1conelplanmaxdaznabónateaquíeurosport",
+  "cómoverelgpdeportugaldemotogpconelplanhbomaxdazncalendarioysuscripcióneurosport",
   "cómoverelgpdesingapurdefórmula1conelplanmaxdaznabónateaquíeurosport",
   "cómoverelracingsantanderrealmadridconelplanhbomaxdaznabónateaquíeurosport",
   "cómoverelvalenciarealmadridconelplanhbomaxdaznabónateaquíeurosport",
@@ -205,6 +206,7 @@
   "daznangebotzurchampionsleaguejetztunlimitedfür2499eurosicherndazn",
   "daznangebotzuscfreiburgvsfcbayernbundesligaab2499eurosehendazn",
   "daznangebotzutürkeiitaliendienationsleagueab499eurosehendazn",
+  "daznangebotzuwerdervshsvjetztunlimitedfür2499eurosicherndazn",
   "daznanovembre2026prezziepianipervederelaserieafacileit",
   "daznaottobre2026pianiperlaserieaelosportda1199facileit",
   "daznbajaun50elplanfútbolporelclásico999almessicontratashastael25deoctubreroamses",
@@ -518,6 +520,7 @@
   "offertaaggiornataxiaomiredminote17pro5gconbatteriaesageratada8340mahscontodi100hdblogit",
   "offertadaznpianicostiepromozionispecialidel2026daznnewsitaliadazn",
   "offertadiacquistodiamondskypossibilitàdivincereunsecondoappartamentodelvalorediquasi8miliardidivndvietnamvn",
+  "offertaeoloprofessionistifibraperpartitaivacostieattivazionenovembre2026selectranet",
   "offertafibrailiadeccoloscontodi4euroalmesepersempretelefoninonet",
   "offertaskymobileultracostieattivazioneottobre2026selectranet",
   "offerte5gottobre2026promoapartireda499almesecomparasemplice",
@@ -535,6 +538,7 @@
   "offertefwalemiglioritariffeinternetcasadiottobre2026comparasemplice",
   "offertegigaillimitatimobilelemigliorisimdatisostariffe",
   "offerteiliaddinovembre2026lepromodaattivareda799euromesepersemprehdblogit",
+  "offerteiliaddinovembre2026tornagiga200a999econlafibrarisparmi4almeseselectranet",
   "offerteinternetamenodi20meselepromodisettembre2026facileit",
   "offerteinternetasettembre2026pianida1990facileit",
   "offerteinternetcasaconbollettinopostaleottobre2026comparasemplice",
@@ -543,11 +547,13 @@
   "offerteinternetconattivazionegratispianida1995mesefacileit",
   "offerteinternetconmodemgratisipianidiottobre2026da1550mesefacileit",
   "offerteinternetconmodeminclusoipianidisettembre2026facileit",
+  "offerteinternetconpaytvpianidinovembre2026facileit",
   "offerteinternetconregalodimarzo2026comparasemplice",
   "offerteinternetdiottobre2026attivalafibrada1995mesefacileit",
   "offerteinternetdiottobre2026pianida1995mesefacileit",
   "offerteinternetsottoi20mesepromodinovembrefacileit",
   "offerteinternettvpromodisettembre2026facileit",
+  "offerteluceegasinternetletariffedinovembre2026facileit",
   "offertelucegaseinternetmaggio2026lemigliori5delmesecomparasemplice",
   "offertemobilea5eurodanonperdereafinesettembreminutiillimitatiefinoa150gbalmesecomparasemplice",
   "offertemobilea5eurodifineottobre2026promohalloweeenefinoa150gbalmesecomparasemplice",
@@ -794,6 +800,7 @@
   "tantigiochigratisdariscattaresubitosupceconsoleaottobrespaziogames",
   "tariffecellulari3eurodiottobre2026comparasemplice",
   "tatamotorsacquistaivecogroupconunopadaquasi4mlddieuroskytg24",
+  "tecnologiaeattacchiinformaticiilprezzonascostodelladipendenzaskytg24",
   "telefonofissosolovoceperover70e80offerteeagevolazioni2026comparasemplice",
   "thelegendofzeldaocarinaoftimeilremakeègiàinoffertasuinstantgamingignitalia",
   "thewitcher3songsofthepastcosasappiamosulprezzodellanuovaespansioneeveryeyeit",
@@ -883,6 +890,36 @@
  ],
  "items": [
   {
+   "date": "2026-11-22T14:52:30+01:00",
+   "type": "novita",
+   "service": "TIM",
+   "country": "IT",
+   "text": "Offerte internet con PayTV: piani di novembre 2026 - Facile.it",
+   "source": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNLVFpWEdMY2Nzd1pwVFM3M2R5NXNuSFA4VE1KQ292N2ZPZ2lwQ05lX21DZGhRNktaT2VxRWRuZUloa2FZYWNFWVFhLWN4MVYzWHlmdTloaGMwN0hzUVkwbEFhSGFDZ2RlcVU0YXE3RXA1VFFqMmtqZkxzR1VOZ2IxNTVKRzA?oc=5",
+   "query": "TIMVISION offerta",
+   "found": "2026-11-22T17:22:42.760719+01:00"
+  },
+  {
+   "date": "2026-11-22T10:56:24+01:00",
+   "type": "novita",
+   "service": "Sky TV",
+   "country": "IT",
+   "text": "Tecnologia e attacchi informatici, il prezzo nascosto della dipendenza - Sky TG24",
+   "source": "https://news.google.com/rss/articles/CBMijAFBVV95cUxON2ZJZGszV2pkcFJJYlctLWd2Sll5V3ItUGZoZF9VWEdJN2NETXQwNnBVTmJ3MjVFVExyT2ZzNlp3R2s1Yi1WalRSUEd0MG5MRENmSWF6VzZDMnUybHY0U2l3b1FHNEpxYUctMjZrZFdkNjloTzFrWlotUVd1N182cmlnNkppZDNjR0Q1aA?oc=5",
+   "query": "Sky offerta prezzo",
+   "found": "2026-11-22T17:22:42.760719+01:00"
+  },
+  {
+   "date": "2026-11-22T09:47:48+01:00",
+   "type": "novita",
+   "service": "DAZN",
+   "country": "DE",
+   "text": "DAZN-Angebot zu Werder vs. HSV: Jetzt Unlimited für 24,99 Euro sichern - DAZN",
+   "source": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdG5lMVgybE1XdnlDbGYtc1VvUUxmYW1LU3NlVllaSXU3eU94dFlqZVhRdmd5R0NGZW9pb2g0S1p1UUNHSm11YXpUUTNxWmlXY1pPcUFIRHYxdFRXN3JvcDM5SlBGNmRHVXVtS21BczJERi13UUFLRDVEM0ZfQ1NxbVo2M3ltQXRhSHctNzlWUTYxYk9hR2dSTTVGOC1EeEV5cnJ5Ul9qaHRwT1NwcElPRmJxaVhwRDU0MGpqTkl0blpKWmtQcUNHYnVUOTJkMWM1?oc=5",
+   "query": "DAZN Preis Angebot",
+   "found": "2026-11-22T17:22:42.760719+01:00"
+  },
+  {
    "date": "2026-11-21T16:42:11+01:00",
    "type": "novita",
    "service": "TIM",
@@ -891,6 +928,16 @@
    "source": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSU81b2hJMXF3RWlyVWV6VV9mdG1jT05NWk5zTDJqUzhaQ01IRV9ia083YjNLMnpZbzk4ZkM0S0h6Rjk4QzhQZzcxMGQ4TTRJcDFmM0EwY1g2b2F3SkJ6UVZLb0FrUVc0V3B6YTJueWcyQ3lEc0NreUhwa05JQmxPQmtKUU4wVWRld3ZzNDZnTEtsQlJsR0MyZlY5bktlMGNDSVpJdFRlZ24tTEVpWEI5cnRlUXdGZTM0TGt5SXpkZ0lHb2hx?oc=5",
    "query": "TIMVISION offerta",
    "found": "2026-11-21T20:26:34.446092+01:00"
+  },
+  {
+   "date": "2026-11-21T14:35:08+01:00",
+   "type": "novita",
+   "service": "TIM",
+   "country": "IT",
+   "text": "Offerta Eolo Professionisti Fibra per partita IVA: costi e attivazione | novembre 2026 - selectra.net",
+   "source": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9tNWNZS1pHSzZ3ZldBWUJNZUxvbkc5RFExQl9ObVlDQ2ttYUlGQnFMNWlINGY2ZzVGaTAtdFdpcy1nemFmeFl4aXJTeXdRRTVYTThzbld3cU1wQzB1ZjRzVmlpWXlwUWFaODZZTlUyaUE?oc=5",
+   "query": "offerte TIM fibra",
+   "found": "2026-11-22T17:22:42.760719+01:00"
   },
   {
    "date": "2026-11-21T11:07:03+01:00",
@@ -1013,6 +1060,16 @@
    "found": "2026-11-20T14:06:15.115831+01:00"
   },
   {
+   "date": "2026-11-20T07:31:20+01:00",
+   "type": "novita",
+   "service": "TIM",
+   "country": "IT",
+   "text": "Offerte luce e gas + internet: le tariffe di novembre 2026 - Facile.it",
+   "source": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUUdjYWgwbG11MEo1b2FybU5mVjdmbUROckw0THBrYi1RRm5FMWF6cE12WlFUTEIyTG1hU0R5T3RWLU1jNnJ1OWVqZUtBLTZfRk9qZ3h2SnpLWnpaOUstcTBWcmV0cDhUV1pvcWNLRGE3M2UyLVdkcXFoU3N2c3JNc0FRR2k0dHgwR3BMVA?oc=5",
+   "query": "offerte TIM fibra",
+   "found": "2026-11-22T17:22:42.760719+01:00"
+  },
+  {
    "date": "2026-11-20T07:22:45+01:00",
    "type": "novita",
    "service": "Sky TV",
@@ -1071,6 +1128,16 @@
    "source": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBVS3pKd1JOV2tCZHVoNGp2UHB4eUlJZ1RmZml6Q25WeWdNS1dubFMtcUszTFcxU2hta0NCNnpQTGtISlM1bFdHYTZKZ1c1MnYzSWRsSnYxMkR1dndFRUVsTXRUM29ZeTRNcmpGRWRSeE1kbkhNeUhDYw?oc=5",
    "query": "DAZN precio",
    "found": "2026-11-19T23:15:33.313010+01:00"
+  },
+  {
+   "date": "2026-11-19T17:00:00+01:00",
+   "type": "novita",
+   "service": "TIM",
+   "country": "IT",
+   "text": "Offerte Iliad di novembre 2026: torna Giga 200 a 9,99 € e con la fibra risparmi 4 € al mese - selectra.net",
+   "source": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1nT3pDemhPOUdjSkM2WXJnYkRTVk12VkRwd2RFR2lOM0hPa19icVY4dWZnTWdudkw3UFNFcXROTk5QTGVfZUtiREY0Zk80WG50S2JHbkxPa3VicHRGREhUbzBaTTJiSTBsT3J1SmpJbi1NdVhpUkE?oc=5",
+   "query": "offerte TIM fibra",
+   "found": "2026-11-22T17:22:42.760719+01:00"
   },
   {
    "date": "2026-11-19T16:48:00+01:00",
@@ -1221,6 +1288,16 @@
    "source": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbWw1OUdhZVlwSk5DVlZkaVBYTTFGanotVlJVTFZHUlJ5U2IzR1ZwenVhbDVwNWRpRzhvU1M0SWp6b2VDcEVKNDBrZmltRm55MGVmY096WFdOem5sRHZwN3VkRFhOMlBKQ2pqOVFJanpuS3pLQnNOa005VDJpQnVJcjBJQ1FLWlFwR3pvTWRSZ2pybEdQTmFKd2hNMzhMbWVxdnVtMVFVQmZLVnpOd244Sm5mLTJkOVZGWURzWnRFai1KVm9GTklMSGZyRl8wcEp3OHpnRURB?oc=5",
    "query": "PlayStation Plus prezzo",
    "found": "2026-11-18T23:05:51.173113+01:00"
+  },
+  {
+   "date": "2026-11-18T17:14:00+01:00",
+   "type": "novita",
+   "service": "DAZN",
+   "country": "ES",
+   "text": "¿Cómo ver el GP de Portugal de MotoGP con el Plan HBO Max DAZN? Calendario y suscripción - Eurosport",
+   "source": "https://news.google.com/rss/articles/CBMimgJBVV95cUxORnZxRGJMYUhmUF93eERsSG5rUGhUZnk0RURoRjgxeWpkSTdvYzhFUkJxWUk5Q2w3WEdreVRmUmw4ckR5NWdSUmpWdHJqUW9iZkkzNDB5UWMwYThwbVhBM3k1cUU4WV9YUlQ3anVxWlBNbWkxWjVtbEtPbnZYREFDdlo4YVBzbEdEQThlZjd2R2I5TFZNaTZISFRBVlZmVzlzOGdBOXZxUmNUSmlHRUVzNFJJbGdLTVZWckdKa2dNVU12S3hpQmdhZDNpV01MRi1hdDBCcTljQTllQk9YUnZ6ZHhGS3N6d2ZYcEN6c0RfSXBOQ3JueWJOc0k5aFB1alNHZnpNTFJxcnhMSUtCbkhJYWlfWjRGV1o1aUE?oc=5",
+   "query": "DAZN oferta plan",
+   "found": "2026-11-22T17:22:42.760719+01:00"
   },
   {
    "date": "2026-11-18T17:04:00+01:00",
@@ -2311,76 +2388,6 @@
    "source": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcDZtZ3R6MDJGUlVHM3loUzYtY1kwWEpjeG80MDlqRTdaQXMxZTU5WlJWaWM0MEphM0VXQVp1V1pwZ254a0REUG1wZWZWMWFEbmRRbWlqTXpCdHlkQkRQdldwODBweWRHcTI0VU5NY0NhNHhDUnlFVi1iX1NoT3Z2QmZWbHl3S3F5UWljeE42ZkZ4ekFabXVYU1c5dzFSZjJISjVZZ0lsLUs4Zm9jbVEtbEdicjVyR0ZWSGlqRTBuMERtYUV2Z2hSME5qaG1sdi1uQVhiZFBhWQ?oc=5",
    "query": "PlayStation Plus prezzo",
    "found": "2026-11-07T08:23:37.485709+01:00"
-  },
-  {
-   "date": "2026-11-06T17:52:59+01:00",
-   "type": "novita",
-   "service": "TIM",
-   "country": "IT",
-   "text": "Fibra e Luce insieme: le offerte più convenienti di novembre 2026 - SosTariffe",
-   "source": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONjA1c3hfSUpsY1NyRDdmOHpjYjhVR3JQV2FoSnBySDVDWlhLaDRWeDZxNVExV0VBSm1Ka1lRWjNqVkkwVEJ1SFJoS1o4V0QzMnQ4Ym5TNW56SGJrWnQyMmVfX2dacTNadUJ2Wi1hUUZvODZwRk1PMktKbnNwSTJyN0NBVEZNU2paMllwYmUtcUIzVUdpWU9rWmlxU2NXcm1mUDhsV2FOMy1iNU5QdFRuWWlfYXRNQQ?oc=5",
-   "query": "offerte TIM fibra",
-   "found": "2026-11-06T18:10:35.541096+01:00"
-  },
-  {
-   "date": "2026-11-06T17:40:45+01:00",
-   "type": "novita",
-   "service": "DAZN",
-   "country": "BE",
-   "text": "DAZN moins de 26 ans : 7,99 € ou 13,99 €, quelle offre choisir ? - L'Équipe",
-   "source": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTHBVQWE1ZkhDQ1lsc3VaR3E5dUV2N0pfTkhpZWV0N2NPZC1sOWYwbTQ3Z1RubHl2T2ZtQVM1NmJyTUkwcThRQXJHSUdUSE95bE02cWhEekdnSy15VlUwTzdpTm5jOTRrM2VDYzlQdE9ud0VISy00dkEwTmN3bVVFTnQ4Z1JCUGs3N05rSWMtWTJ4bHBXNkk0Q1pYVHhSX01HQkRSQkpOWTZCd3VoOWlRX0ljWHJEZkthZWVEOE1KWDQ5dGhNQXhMUjlfc1UzeFJiVVAyeWEzMzc4T2dDZW4tNA?oc=5",
-   "query": "DAZN prix abonnement",
-   "found": "2026-11-06T18:10:35.541096+01:00"
-  },
-  {
-   "date": "2026-11-06T17:20:52+01:00",
-   "type": "novita",
-   "service": "DAZN",
-   "country": "DE",
-   "text": "Bundesliga bei Sky unter 25 Euro: So sparen Fans jetzt - Teltarif",
-   "source": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBWdEV6ZkpXX3dCbmNURGpCTV92VmtEcjRvdHlkOWc1dm0zNVRBMEJ1RExOYmxQRHoyZ1RJM3ptZHc5OHNYeFROXzhfSDdZREp0ZmVtejBhdHFKWHctUE41aVF6eE85MUc2RkxxYlF3V3E5NmdBek44aDMxMzE?oc=5",
-   "query": "DAZN Preis Angebot",
-   "found": "2026-11-06T20:14:32.105964+01:00"
-  },
-  {
-   "date": "2026-11-06T16:15:00+01:00",
-   "type": "novita",
-   "service": "DAZN",
-   "country": "BE",
-   "text": "DAZN effraie la concurrence avec son offre complète pour moins de 8 euros par mois, attention ça ne va pas durer - RMC Sport",
-   "source": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPUDhoWVZYczRmbDBnZ194TlJwSE42WDcwcmt5OF9rMzM3dzJqX3hEMFNtRzlndG9yWVl0VTV4VEdnQlMyOTRLMFhwU2xJWEVneWQxNmx5dk1RYldTNWY2UllFYWdqdGtJYktDd0pSSmlPSTA2d0xBQzlZOGw2bGtndXYzSTdKOEN5RUJtT2dQX1lBSF9pdFdadkpRQTFaeTdSUWRZakFoWDNBVzUwWW9JLWVkYy1DOUtMNS1ueU95RFYwWkRMdkhWQnlFMU9mWVJZOXM1cThpcnJxV3JEVkNJYkNSQWJlQjdIZm5NaThDcS1JRy1RTE9Lb1ExYnA?oc=5",
-   "query": "DAZN prix abonnement",
-   "found": "2026-11-06T17:05:10.529791+01:00"
-  },
-  {
-   "date": "2026-11-06T11:37:00+01:00",
-   "type": "novita",
-   "service": "PlayStation Plus",
-   "country": "IT",
-   "text": "Sconti PlayStation per il Black Friday: i migliori giochi in offerta sotto i 10 euro - Everyeye.it",
-   "source": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY0VpXy1iQjZBNHBsRVoyQ3dkdnF3a1A3QWRJeDdjRU1rOGRXN3lmTF9nd2Zrc1ZLT1dEelNWZ2FBclBUbmNvczNrS3ZkRTNCR2VGM3NFUk9VUmJ0UjBQdTRaT0ttUWJaeGk4d1lXQmJBUU16aWFJNW5faUJpN2hkRHVxWDZ2MTczT1FXZ2dTbTZ4VjZOVGZJUUFqZ3lielh3bnVxdF8yM1RqZjQ?oc=5",
-   "query": "PlayStation Plus prezzo",
-   "found": "2026-11-09T12:16:56.638214+01:00"
-  },
-  {
-   "date": "2026-11-06T11:14:27+01:00",
-   "type": "novita",
-   "service": "TIM",
-   "country": "IT",
-   "text": "Fastweb e Vodafone sono la stessa cosa? Rete, offerte e differenze... - ComparaSemplice",
-   "source": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeG5wd2VYSnhySXdMWnNaMW5sWjhiTzMwelFQcVRRX01qTlJERWRxc01OSnhIUmFUN2dwMkxXOV9TUzR3VHZpVzd0TUZVUWNDNTA5UzMyRzlMZHA3U0xEc2N4OW1hZkNJeEw5OUh3SGNwNGhmU2k4a1VzcGJzMFFoOTdMTTB1eTRVWHlJSnVBTk8zUXBDTFNpcUZGWFZFMG8?oc=5",
-   "query": "offerte TIM fibra",
-   "found": "2026-11-08T20:58:03.040606+01:00"
-  },
-  {
-   "date": "2026-11-06T10:39:56+01:00",
-   "type": "novita",
-   "service": "DAZN",
-   "country": "BE",
-   "text": "Comment regarder la Liga cette saison ? Chaînes, abonnements et tarifs - L'Équipe",
-   "source": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWnF2N2F3WEJubldfVEtBbDRfM1hneUMwd2l2SHphbS1VMV8tQ2ViUG1ZdlViTmlmcFk0YlhnMlFvVTNwWjlIYTd3aXhXbVNqSHdEd3ROQVViWmZNeDlpQWxnVTllQnlQNFdMNDdIZEFuUEh5SUR6cVU0ekE5TGZ3cW9xeGJkV0VMaXlJT0w4NkJKTjVEbmg4YXZNejN3Ul9VUzFDRWtYWFdzeXVBQUJGdldKWndsdU16MVRObWxLWVhPc1lSak9qWWtQa0hZR1I2YnBSMWVqd1o4WmM?oc=5",
-   "query": "DAZN prix abonnement",
-   "found": "2026-11-06T13:04:23.880080+01:00"
   }
  ]
 }
