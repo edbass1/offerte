@@ -244,6 +244,7 @@
   "daznlanzadazngounnuevoplanmultideportedesde499eurosalmessincroguiatv",
   "daznlanzaelplandefinitivoparadisfrutardefútbolbaloncestofórmula1ymotogppormenosde5eurosalmesmundodeportivo",
   "daznlanzalarebajamásbestiaensuplanbaloncestotodalaligaendesacopadelreyylanbamundodeportivo",
+  "daznlanzasumejorofertahastalafecha50dedescuentoentodoslosplanesanualesporelblackfridaydiarioas",
   "daznlanzaunanuevatarifade499eurosparadisfrutardelbarçalamotogpf1ylomejordelanflsport",
   "daznlanzaunaofertaagresivaparaelclásicosólotienesunosdíasparaaprovechareldescuentoxatakamóvil",
   "daznlanzaunapromociónexclusivaparaantiguosusuariosilmessaggero",
@@ -890,6 +891,16 @@
   "übertragungvonbundesligachampionsleagueundeuropaleagueindersaison202728fußballlivebeidaznsehenalleinformationenzudentvre"
  ],
  "items": [
+  {
+   "date": "2026-11-23T00:01:00+01:00",
+   "type": "novita",
+   "service": "DAZN",
+   "country": "ES",
+   "text": "DAZN lanza su mejor oferta hasta la fecha: 50% de descuento en todos los planes anuales por el Black Friday - Diario AS",
+   "source": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOLWZJWnZTZ3Z4MUs2N1pKdEU4aDV1UFllcUtrbmhXbFRCLU56V0J4RmRMUFhCSU5YUzRPemxBa2RkSWRDTkdvSzVjR3lkU0lpWXlaSFRiNmRWMlpXNHYyZlFoNW4yaVhoRUdtemRNZXlaY2ZoY1lva2RPcVJQMjYzTtIBlAFBVV95cUxNSjkzaWdPSnllaXRYUUtac29GUjViRXFJeHc2c0hRb1ZXc2hOYTlCazhfdzJlNXlRYVFiaGFlS3A4eEthY01UdTl5d2dBdFYzQzJXMkEwYmF6cVJIbDlTNEJnMHdHX1RXNV96Y3l4TzFoTWFBcWJtVXlBY2VlRllRbG1EOUNnaXdkdHlkVi04OVVPdkth?oc=5",
+   "query": "DAZN precio",
+   "found": "2026-11-23T04:45:38.429260+01:00"
+  },
   {
    "date": "2026-11-22T14:52:30+01:00",
    "type": "novita",
@@ -2379,16 +2390,6 @@
    "source": "https://news.google.com/rss/articles/CBMifkFVX3lxTE82dXgxT0hzX2R3Rm1YRzlNSTFEM2pSYzY0Z0IxakpOdzBEVDI3Sm9RbVFyTDVlZWNBQ0NsTXdJQ3UtUThQVXhhdFpKYncyb21ZRWdQYWFpem9tYVpGRXVRQzRlNWpWejdlNmNvWWh5akpuQldFWFZIb1FaN1VkZw?oc=5",
    "query": "offerte TIM fibra",
    "found": "2026-11-07T11:58:15.666615+01:00"
-  },
-  {
-   "date": "2026-11-07T07:06:49+01:00",
-   "type": "novita",
-   "service": "TIM",
-   "country": "IT",
-   "text": "La fibra Iliad super veloce e domotica guadagna uno sconto di 4€ al mese - HDblog.it",
-   "source": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdXh5RUpqeDdlSzRiUnBjaHk0SkxfU2R1VC1mUzkxYXljODNKVjFQaC1weU5jSGROVUF6S2FqWlp4RGF3TlJPRUFDa3RsdE1VdUVvRjNUOGxreFEtVDM5WjdxeGVuNFdscXRfekU2NGY5VzYtUjJNTlg2VXBiWEZwMmwyelhDYkEyaDZiajVMMTBmNDNTbE9B?oc=5",
-   "query": "offerte TIM fibra",
-   "found": "2026-11-12T21:54:13.563951+01:00"
   }
  ]
 }
